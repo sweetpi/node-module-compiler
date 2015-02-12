@@ -4,7 +4,7 @@ if [ -z "$HOST" ]; then
   HOST=arm-bcm2708-linux-gnueabi
 fi
 
-DIR=`dirname "$0"`
+DIR=`pwd`
 export PATH=$PATH:$DIR/tools/arm-bcm2708/$HOST/bin
 export CPP="${HOST}-gcc -E"
 export STRIP="${HOST}-strip"
