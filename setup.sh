@@ -22,8 +22,9 @@ export PS1="[${HOST}] \w$ "
 export GYP_DEFINES="armv7=0"
 export CCFLAGS='-march=armv6'
 export CXXFLAGS='-march=armv6'
-pwd
-echo $PATH
+file /home/travis/build/sweetpi/node-module-compiler/tools/arm-bcm2708/arm-bcm2708-linux-gnueabi/bin/arm-bcm2708-linux-gnueabi-gcc
+file $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
+ls -al $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
 $CPP --version
 #bash --norc
 # ./configure --without-snapshot --dest-cpu=arm --dest-os=linux
