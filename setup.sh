@@ -22,6 +22,8 @@ export PS1="[${HOST}] \w$ "
 export GYP_DEFINES="armv7=0"
 export CCFLAGS='-march=armv6'
 export CXXFLAGS='-march=armv6'
+pwd
+echo $PATH
 $CPP --version
 #bash --norc
 # ./configure --without-snapshot --dest-cpu=arm --dest-os=linux
