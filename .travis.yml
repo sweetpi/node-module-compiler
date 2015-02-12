@@ -2,6 +2,6 @@ language: node_js
 node_js:
   - "0.10"
 before_install:
-  - "setup.sh"
+  - "./setup.sh"
 install:
-  - "build.sh"
+  - "./build.sh"
