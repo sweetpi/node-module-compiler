@@ -27,4 +27,3 @@ uname -a
 # ls -al $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
 $CPP --version
 VERBOSE=1 npm install sqlite3 --build-from-source --platform=linux --arch=x64 --target_arch=arm --target_platform=linux
-cat npm-debug.log
