@@ -9,6 +9,7 @@ cd repo
 git config user.email "oliverschneider89+pimatic-ci@gmail.com"
 git config user.name "pimatic-ci"
 #git rm --ignore-unmatch -- $(git ls-files --deleted)  
-git add -A
+git add -u
+git diff
 git commit -a -m "new build"
 git push
