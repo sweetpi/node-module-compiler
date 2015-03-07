@@ -1,6 +1,6 @@
 #!/bin/sh -e
 if [ -z "$HOST" ]; then
-  HOST=arm-bcm2708-linux-gnueabi
+  HOST=arm-bcm2708hardfp-linux-gnueabi
 fi
 
 DIR=`pwd`
