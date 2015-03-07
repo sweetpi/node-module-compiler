@@ -6,6 +6,6 @@ echo "# Releases of ${MODULE}" >> README.md
 git init
 git add README.md
 git commit -m "init"
-git remote add origin git@github.com:pimatic-ci/pimatic-mobile-frontend.git
+git remote add origin git@github.com:pimatic-ci/${MODULE}.git
 git push -u origin master
 cd ..
