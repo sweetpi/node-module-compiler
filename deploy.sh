@@ -3,13 +3,21 @@ chmod 600 ./deploy_key
 eval "$(ssh-agent)"
 ssh-add ./deploy_key
 git clone git@github.com:pimatic-ci/${MODULE}.git repo
-rm -r -f ./repo/*
-cp -R ./node_modules/${MODULE}/* ./repo/
 cd repo
 git config user.email "oliverschneider89+pimatic-ci@gmail.com"
 git config user.name "pimatic-ci"
-#git rm --ignore-unmatch -- $(git ls-files --deleted)  
+PLATFORM=`linux`
+ARCH='armhf'
+NODE_ABI='11'
+BRANCH="node-${NODE_ABI}-${ARCH}-${PLATFORM}"
+git checkout ${BRANCH} || git checkout -b ${BRANCH} 
+rm -r -f ./*
+cp -R ../node_modules/${MODULE}/* ./
 git add -A .
 git diff
-git commit -a -m "new build"
-git push
+VERSION=`getversion`
+TAG="${BRANCH}-${VERSION}"
+git commit -a -m "Build for ${PLATFORM} node ${NODE_ABI} ${ARCH} ${VERSION}"
+git tag -a ${TAG} -m "${TAG}"
+git push origin ${BRANCH}
+git push origin ${TAG}
