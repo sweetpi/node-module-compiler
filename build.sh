@@ -26,4 +26,4 @@ file /home/travis/build/sweetpi/node-module-compiler/tools/arm-bcm2708/arm-bcm27
 file $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
 ls -al $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
 $CPP --version
-VERBOSE=1 npm install sqlite3 --target_arch=arm
+VERBOSE=1 npm install sqlite3 --build-from-source --platform=linux --arch=x64 --target_arch=arm --target_platform=linux
