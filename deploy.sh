@@ -6,7 +6,7 @@ git clone git@github.com:pimatic-ci/${MODULE}.git repo
 cd repo
 git config user.email "oliverschneider89+pimatic-ci@gmail.com"
 git config user.name "pimatic-ci"
-PLATFORM=`linux`
+PLATFORM='linux'
 ARCH='armhf'
 NODE_ABI='11'
 BRANCH="node-${NODE_ABI}-${ARCH}-${PLATFORM}"
