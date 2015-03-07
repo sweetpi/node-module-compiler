@@ -2,10 +2,10 @@
 chmod 600 ./deploy_key
 eval "$(ssh-agent)"
 ssh-add ./deploy_key
+git config --global user.email "oliverschneider89+pimatic-ci@gmail.com"
+git config --global user.name "pimatic-ci"
 git clone git@github.com:pimatic-ci/${MODULE}.git repo || ./createRepo.sh
 cd repo
-git config user.email "oliverschneider89+pimatic-ci@gmail.com"
-git config user.name "pimatic-ci"
 PLATFORM='linux'
 ARCH='armhf'
 NODE_ABI='11'
