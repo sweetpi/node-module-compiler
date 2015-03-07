@@ -22,8 +22,9 @@ export GYP_DEFINES="armv7=0"
 export CCFLAGS='-march=armv6'
 export CXXFLAGS='-march=armv6'
 uname -a 
-file /home/travis/build/sweetpi/node-module-compiler/tools/arm-bcm2708/arm-bcm2708-linux-gnueabi/bin/arm-bcm2708-linux-gnueabi-gcc
-file $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
-ls -al $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
+# file /home/travis/build/sweetpi/node-module-compiler/tools/arm-bcm2708/arm-bcm2708-linux-gnueabi/bin/arm-bcm2708-linux-gnueabi-gcc
+# file $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
+# ls -al $DIR/tools/arm-bcm2708/$HOST/bin/arm-bcm2708-linux-gnueabi-gcc
 $CPP --version
 VERBOSE=1 npm install sqlite3 --build-from-source --platform=linux --arch=x64 --target_arch=arm --target_platform=linux
+ cat npm-debug.log
