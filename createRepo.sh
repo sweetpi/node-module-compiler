@@ -1,5 +1,5 @@
 #!/bin/sh -e
-curl -u "${GITHUB_TOKEN}:x-oauth-basic" https://api.github.com/user/repos -d "{\"name\":\"${MODULE}\"}"
+curl -u "${GITHUB_TOKEN}:x-oauth-basic" https://api.github.com/user/repos -d "{\"name\":\"${MODULE}\", \"has_issues\": false, \"has_wiki\": false }"
 mkdir repo
 cd repo
 echo "# Releases of ${MODULE}" >> README.md
