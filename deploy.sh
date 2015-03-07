@@ -2,7 +2,7 @@
 chmod 600 ./deploy_key
 eval "$(ssh-agent)"
 ssh-add ./deploy_key
-git clone git@github.com:pimatic-ci/sqlite3.git repo
+git clone git@github.com:pimatic-ci/${MODULE}.git repo
 rm -r -f ./repo/*
 cp -R ./node_modules/sqlite3/* ./repo/
 cd repo

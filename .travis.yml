@@ -1,6 +1,9 @@
 language: node_js
 node_js:
   - '0.10'
+env:
+  - MODULE=pimatic
+  - MODULE=sqlite3
 before_install:
   - openssl aes-256-cbc -K $encrypted_161a5cc809f6_key -iv $encrypted_161a5cc809f6_iv -in deploy_key.enc -out deploy_key -d
   - sudo apt-get update -qq
