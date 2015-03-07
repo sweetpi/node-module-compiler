@@ -1,17 +1,22 @@
 language: node_js
 node_js:
-  - '0.10'
+- '0.10'
 env:
+  matrix:
   - MODULE=pimatic
   - MODULE=sqlite3
+  - MODULE=pimatic-mobile-frontend
+  global:
+    secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
 before_install:
-  - openssl aes-256-cbc -K $encrypted_161a5cc809f6_key -iv $encrypted_161a5cc809f6_iv -in deploy_key.enc -out deploy_key -d
-  - sudo apt-get update -qq
-  - sudo apt-get -qq install libc6:i386 libncurses5:i386 libstdc++6:i386 zlib1g:i386 zlib1g-dev
-  - npm install -g getversion
+- openssl aes-256-cbc -K $encrypted_161a5cc809f6_key -iv $encrypted_161a5cc809f6_iv
+  -in deploy_key.enc -out deploy_key -d
+- sudo apt-get update -qq
+- sudo apt-get -qq install libc6:i386 libncurses5:i386 libstdc++6:i386 zlib1g:i386 curl zlib1g-dev
+- npm install -g getversion
 install:
-  - ./setup.sh
+- ./setup.sh
 script:
-  - ./build.sh
+- ./build.sh
 after_success:
-  - ./deploy.sh
+- ./deploy.sh
