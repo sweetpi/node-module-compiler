@@ -4,7 +4,7 @@ eval "$(ssh-agent)"
 ssh-add ./deploy_key
 git clone git@github.com:pimatic-ci/${MODULE}.git repo
 rm -r -f ./repo/*
-cp -R ./node_modules/sqlite3/* ./repo/
+cp -R ./node_modules/${MODULE}/* ./repo/
 cd repo
 git config user.email "oliverschneider89+pimatic-ci@gmail.com"
 git config user.name "pimatic-ci"
