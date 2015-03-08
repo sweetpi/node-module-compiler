@@ -13,7 +13,6 @@ env:
   - MODULE=pimatic-fritz
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
-  - MODULE=pimatic-homeduino-dst-
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
@@ -23,7 +22,7 @@ env:
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
-  - MODULE=pimatic-mobile-fronten
+  - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mysensors
@@ -34,7 +33,6 @@ env:
   - MODULE=pimatic-pilight
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
-  - MODULE=pimatic-plugin-templat
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-sensortag
@@ -42,9 +40,9 @@ env:
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
-  - MODULE=pimatic-thinkingcleane
+  - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-ultrasonic
-  - MODULE=pimatic-voice-recognit
+  - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-weather
   - MODULE=pimatic-youless
