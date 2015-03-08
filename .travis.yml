@@ -3,13 +3,52 @@ node_js:
 - '0.10'
 env:
   matrix:
-  - MODULE=pimatic
-  - MODULE=sqlite3
-  - MODULE=pimatic-mobile-frontend
-  - MODULE=pimatic-ping
+  - MODULE=pimatic-athome
+  - MODULE=pimatic-ble
+  - MODULE=pimatic-coc
   - MODULE=pimatic-cron
+  - MODULE=pimatic-dhtxx
+  - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-filebrowser
+  - MODULE=pimatic-fritz
   - MODULE=pimatic-gpio
+  - MODULE=pimatic-homeduino
+  - MODULE=pimatic-homeduino-dst-
+  - MODULE=pimatic-ifttt
+  - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
+  - MODULE=pimatic-links
+  - MODULE=pimatic-lm-sensors
+  - MODULE=pimatic-location
+  - MODULE=pimatic-log-reader
+  - MODULE=pimatic-mail
+  - MODULE=pimatic-max
+  - MODULE=pimatic-mobile-fronten
+  - MODULE=pimatic-mochad
+  - MODULE=pimatic-mpd
+  - MODULE=pimatic-mysensors
+  - MODULE=pimatic-openweather
+  - MODULE=pimatic-otgw
+  - MODULE=pimatic-ouimeaux
+  - MODULE=pimatic-piblaster
+  - MODULE=pimatic-pilight
+  - MODULE=pimatic-ping
+  - MODULE=pimatic-play
+  - MODULE=pimatic-plugin-templat
+  - MODULE=pimatic-pushbullet
+  - MODULE=pimatic-pushover
+  - MODULE=pimatic-sensortag
+  - MODULE=pimatic-shell-execute
+  - MODULE=pimatic-sispmctl
+  - MODULE=pimatic-sunrise
+  - MODULE=pimatic-sysinfo
+  - MODULE=pimatic-thinkingcleane
+  - MODULE=pimatic-ultrasonic
+  - MODULE=pimatic-voice-recognit
+  - MODULE=pimatic-volkszaehler
+  - MODULE=pimatic-weather
+  - MODULE=pimatic-youless
+  - MODULE=pimatic-z-way
   global:
     secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
 before_install:
