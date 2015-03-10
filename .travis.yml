@@ -3,6 +3,7 @@ node_js:
 - '0.10'
 env:
   matrix:
+  - MODULE=pimatic
   - MODULE=pimatic-athome
   - MODULE=pimatic-ble
   - MODULE=pimatic-coc
