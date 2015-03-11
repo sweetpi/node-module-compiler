@@ -28,7 +28,7 @@ uname -a
 $CPP --version
 PARAMS="--build-from-source --platform=linux --arch=x64 --target_arch=arm --target_platform=linux"
 VERBOSE=1 npm install ${MODULE} ${PARAMS}
-if [ "$MODULE" == "pimatic" ]; then
+if [ "$MODULE" = "pimatic" ]; then
   cd node_modules/pimatic
   VERBOSE=1 npm install sqlite3 ${PARAMS}
   cd $DIR
