@@ -33,5 +33,5 @@ if [ "$MODULE" = "pimatic" ]; then
   VERBOSE=1 npm install sqlite3 ${PARAMS}
   cd $DIR
 fi
-npm install coffee-script fs.extra colors
+npm install coffee-script@1.8.0 fs.extra colors
 node ./coffee-cache-compiler.js ./node_modules/${MODULE}
