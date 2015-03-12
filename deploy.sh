@@ -18,6 +18,6 @@ git diff
 VERSION=`getversion`
 TAG="${BRANCH}-${VERSION}"
 git commit -a -m "Build for ${PLATFORM} node ${NODE_ABI} ${ARCH} ${VERSION}"
-git tag -a ${TAG} -m "${TAG}"
+git tag -f -a ${TAG} -m "${TAG}"
 git push origin ${BRANCH}
 git push origin ${TAG}
