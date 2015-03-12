@@ -107,7 +107,7 @@ var walk = function(dir) {
       file = path.resolve(dir, file);
       fs.stat(file, function(err, stat) {
         if (stat && stat.isDirectory()) {
-          if(!file.match(/.*node_modules$/)) {
+          if(!file.match(/.*node_modules$/) && !file.match(/.*\.git$/)) {
             walk(file);
           }
         } else {
@@ -120,4 +120,4 @@ var walk = function(dir) {
   });
 };
 
-walk(process.argv[3] || '.');
+walk(process.argv[2] || '.');
