@@ -12,9 +12,8 @@ NODE_ABI='11'
 BRANCH="node-${NODE_ABI}-${ARCH}-${PLATFORM}"
 git checkout ${BRANCH} || git checkout -b ${BRANCH} 
 rm -r -f ./*
-cp -R ../node_modules/${MODULE}/* ./
+cp -R ../node_modules/${MODULE} .
 git add -A .
-git add ./.js
 git diff
 VERSION=`getversion`
 TAG="${BRANCH}-${VERSION}"
