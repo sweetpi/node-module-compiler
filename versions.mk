@@ -21,7 +21,7 @@ pimatic-max@0.8.10
 pimatic-mobile-frontend@0.8.52
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.8
-pimatic-mysensors@0.8.9
+pimatic-mysensors@0.8.10
 pimatic-openweather@0.8.3
 pimatic-otgw@0.0.1
 pimatic-ouimeaux@0.1.0
