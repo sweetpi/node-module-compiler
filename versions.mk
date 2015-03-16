@@ -1,4 +1,4 @@
-pimatic@0.8.60
+pimatic@0.8.61
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
 pimatic-coc@0.8.3
@@ -18,7 +18,7 @@ pimatic-location@0.1.2
 pimatic-log-reader@0.8.2
 pimatic-mail@0.8.3
 pimatic-max@0.8.10
-pimatic-mobile-frontend@0.8.52
+pimatic-mobile-frontend@0.8.53
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.9
 pimatic-mysensors@0.8.10
