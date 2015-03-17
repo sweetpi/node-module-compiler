@@ -30,7 +30,7 @@ pimatic-pilight@0.8.6
 pimatic-ping@0.8.3
 pimatic-play@0.8.0
 pimatic-pushbullet@0.8.4
-pimatic-pushover@0.8.2
+pimatic-pushover@0.8.3
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.10
 pimatic-sispmctl@0.8.2
