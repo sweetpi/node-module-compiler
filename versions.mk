@@ -11,7 +11,7 @@ pimatic-gpio@0.8.4
 pimatic-homeduino@0.8.45
 pimatic-ifttt@0.1.1
 pimatic-kodi@0.0.4
-pimatic-lcd@0.8.2
+pimatic-lcd@0.8.3
 pimatic-links@0.8.5
 pimatic-lm-sensors@0.1.4
 pimatic-location@0.1.2
