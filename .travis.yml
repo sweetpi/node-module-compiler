@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mysensors
+  - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
