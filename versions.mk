@@ -43,4 +43,4 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-weather@0.8.11
 pimatic-youless@0.4.1
-pimatic-z-way@0.9.0
+pimatic-z-way@0.10.0
