@@ -41,6 +41,6 @@ pimatic-thinkingcleaner@0.8.2
 pimatic-ultrasonic@0.8.4
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
-pimatic-weather@0.8.11
+pimatic-weather@0.8.13
 pimatic-youless@0.4.1
 pimatic-z-way@0.10.0
