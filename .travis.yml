@@ -40,6 +40,7 @@ env:
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
+  - MODULE=pimatic-solarview
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-thinkingcleaner
