@@ -23,7 +23,7 @@ pimatic-mochad@0.8.2
 pimatic-mpd@0.8.9
 pimatic-mysensors@0.8.11
 pimatic-nut@0.1.0
-pimatic-openweather@0.8.5
+pimatic-openweather@0.8.6
 pimatic-otgw@0.0.1
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
@@ -35,7 +35,6 @@ pimatic-pushover@0.8.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.10
 pimatic-sispmctl@0.8.2
-pimatic-solarview@0.0.1
 pimatic-sunrise@0.8.0
 pimatic-sysinfo@0.8.12
 pimatic-thinkingcleaner@0.8.2
