@@ -11,6 +11,7 @@ env:
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-dhtxx
   - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-edimax
   - MODULE=pimatic-filebrowser
   - MODULE=pimatic-fritz
   - MODULE=pimatic-gpio
