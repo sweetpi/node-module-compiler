@@ -37,6 +37,7 @@ env:
   - MODULE=pimatic-pilight
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
+  - MODULE=pimatic-plugin-iwy-light-master
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-sensortag
