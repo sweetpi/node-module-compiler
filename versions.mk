@@ -12,6 +12,7 @@ pimatic-fritz@0.2.2
 pimatic-gpio@0.8.4
 pimatic-homeduino@0.8.50
 pimatic-ifttt@0.1.1
+pimatic-iwy-light-master@0.0.3-0
 pimatic-kodi@0.0.7
 pimatic-lcd@0.8.3
 pimatic-links@0.8.5

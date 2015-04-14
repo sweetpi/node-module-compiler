@@ -17,6 +17,7 @@ env:
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-iwy-light-master
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
   - MODULE=pimatic-links
