@@ -46,6 +46,6 @@ pimatic-ultrasonic@0.8.4
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-weather@0.8.15
-pimatic-yoctopuce@1.0.2
+pimatic-yoctopuce@1.0.3
 pimatic-youless@0.4.1
 pimatic-z-way@0.10.0
