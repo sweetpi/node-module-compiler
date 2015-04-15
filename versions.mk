@@ -1,7 +1,7 @@
 pimatic@0.8.66
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
-pimatic-coc@0.8.4
+pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-dht-sensors@0.8.4
 pimatic-dhtxx@0.8.4
