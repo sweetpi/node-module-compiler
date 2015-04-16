@@ -5,7 +5,7 @@ pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-dht-sensors@0.8.4
 pimatic-dhtxx@0.8.4
-pimatic-ds18b20@0.8.6
+pimatic-ds18b20@0.8.7
 pimatic-edimax@0.0.4
 pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.2
