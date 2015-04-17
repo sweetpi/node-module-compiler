@@ -52,6 +52,7 @@ env:
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-weather
+  - MODULE=pimatic-websolarlog
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless
   - MODULE=pimatic-z-way
