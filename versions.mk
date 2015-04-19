@@ -1,6 +1,7 @@
 pimatic@0.8.66
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
+pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-dht-sensors@0.8.4
@@ -33,6 +34,7 @@ pimatic-piblaster@0.8.1
 pimatic-pilight@0.8.6
 pimatic-ping@0.8.3
 pimatic-play@0.8.0
+pimatic-probe@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.4
 pimatic-sensortag@0.8.3

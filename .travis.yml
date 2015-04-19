@@ -6,6 +6,7 @@ env:
   - MODULE=pimatic
   - MODULE=pimatic-athome
   - MODULE=pimatic-ble
+  - MODULE=pimatic-bluebean
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
   - MODULE=pimatic-dht-sensors
@@ -39,6 +40,7 @@ env:
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
   - MODULE=pimatic-plugin-iwy-light-master
+  - MODULE=pimatic-probe
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-sensortag
