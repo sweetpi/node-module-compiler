@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
+  - MODULE=pimatic-milight
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
