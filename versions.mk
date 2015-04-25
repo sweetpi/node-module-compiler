@@ -16,6 +16,7 @@ pimatic-ifttt@0.1.1
 pimatic-iwy-light-master@0.0.3
 pimatic-kodi@0.0.7
 pimatic-lcd@0.8.3
+pimatic-led-light@0.0.1
 pimatic-links@0.8.5
 pimatic-lm-sensors@0.1.4
 pimatic-location@0.1.2

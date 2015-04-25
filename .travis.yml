@@ -21,6 +21,7 @@ env:
   - MODULE=pimatic-iwy-light-master
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
+  - MODULE=pimatic-led-light
   - MODULE=pimatic-links
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
