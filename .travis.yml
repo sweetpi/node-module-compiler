@@ -3,7 +3,6 @@ node_js:
 - '0.10'
 env:
   matrix:
-  - MODULE=pimatic
   - MODULE=pimatic-athome
   - MODULE=pimatic-ble
   - MODULE=pimatic-bluebean
@@ -17,8 +16,9 @@ env:
   - MODULE=pimatic-fritz
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
+  - MODULE=pimatic-homeduino-dst-
   - MODULE=pimatic-ifttt
-  - MODULE=pimatic-iwy-light-master
+  - MODULE=pimatic-iwy-light-mast
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
@@ -29,7 +29,7 @@ env:
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
   - MODULE=pimatic-milight
-  - MODULE=pimatic-mobile-frontend
+  - MODULE=pimatic-mobile-fronten
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mysensors
@@ -38,10 +38,10 @@ env:
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
   - MODULE=pimatic-piblaster
-  - MODULE=pimatic-pilight
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
-  - MODULE=pimatic-plugin-iwy-light-master
+  - MODULE=pimatic-plugin-iwy-lig
+  - MODULE=pimatic-plugin-templat
   - MODULE=pimatic-probe
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
@@ -51,11 +51,10 @@ env:
   - MODULE=pimatic-solarview
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
-  - MODULE=pimatic-thinkingcleaner
+  - MODULE=pimatic-thinkingcleane
   - MODULE=pimatic-ultrasonic
-  - MODULE=pimatic-voice-recognition
+  - MODULE=pimatic-voice-recognit
   - MODULE=pimatic-volkszaehler
-  - MODULE=pimatic-weather
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless
