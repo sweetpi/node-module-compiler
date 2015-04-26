@@ -16,9 +16,7 @@ env:
   - MODULE=pimatic-fritz
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
-  - MODULE=pimatic-homeduino-dst-
   - MODULE=pimatic-ifttt
-  - MODULE=pimatic-iwy-light-mast
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
@@ -29,7 +27,7 @@ env:
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
   - MODULE=pimatic-milight
-  - MODULE=pimatic-mobile-fronten
+  - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mysensors
@@ -40,8 +38,7 @@ env:
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
-  - MODULE=pimatic-plugin-iwy-lig
-  - MODULE=pimatic-plugin-templat
+  - MODULE=pimatic-plugin-iwy-light-master
   - MODULE=pimatic-probe
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
@@ -51,9 +48,9 @@ env:
   - MODULE=pimatic-solarview
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
-  - MODULE=pimatic-thinkingcleane
+  - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-ultrasonic
-  - MODULE=pimatic-voice-recognit
+  - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-yoctopuce
