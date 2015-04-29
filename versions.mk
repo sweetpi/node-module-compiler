@@ -39,7 +39,7 @@ pimatic-pushover@0.8.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.10
 pimatic-sispmctl@0.8.2
-pimatic-solarview@0.0.5
+pimatic-solarview@0.0.6
 pimatic-sunrise@0.8.0
 pimatic-sysinfo@0.8.12
 pimatic-thinkingcleaner@0.8.2
