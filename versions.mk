@@ -1,4 +1,4 @@
-pimatic@0.8.66
+pimatic@0.8.67
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
