@@ -33,7 +33,7 @@ pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.3
 pimatic-play@0.8.0
-pimatic-probe@0.0.7
+pimatic-probe@0.0.8
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.4
 pimatic-sensortag@0.8.3
