@@ -45,6 +45,7 @@ env:
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-solarview
+  - MODULE=pimatic-sonos
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-thinkingcleaner
