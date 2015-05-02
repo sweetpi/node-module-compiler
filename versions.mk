@@ -42,7 +42,7 @@ pimatic-sispmctl@0.8.3
 pimatic-solarview@0.0.6
 pimatic-sonos@0.0.1
 pimatic-sunrise@0.8.0
-pimatic-sysinfo@0.8.12
+pimatic-sysinfo@0.8.13
 pimatic-thinkingcleaner@0.8.2
 pimatic-ultrasonic@0.8.4
 pimatic-voice-recognition@0.8.0
