@@ -9,7 +9,6 @@ pimatic-ds18b20@0.8.8
 pimatic-edimax@0.0.9
 pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.2
-pimatic-gpio@0.8.4
 pimatic-homeduino@0.8.51
 pimatic-ifttt@0.1.1
 pimatic-kodi@0.0.7
