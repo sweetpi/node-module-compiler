@@ -23,7 +23,7 @@ pimatic-log-reader@0.8.2
 pimatic-mail@0.8.3
 pimatic-max@0.8.12
 pimatic-milight@0.0.4
-pimatic-mobile-frontend@0.8.63
+pimatic-mobile-frontend@0.8.64
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.9
 pimatic-mysensors@0.8.17
