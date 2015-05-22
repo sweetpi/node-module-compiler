@@ -52,6 +52,7 @@ env:
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-ultrasonic
+  - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-websolarlog

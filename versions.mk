@@ -47,6 +47,7 @@ pimatic-sunrise@0.8.1
 pimatic-sysinfo@0.8.13
 pimatic-thinkingcleaner@0.8.2
 pimatic-ultrasonic@0.8.4
+pimatic-upnp-root@0.0.2
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-websolarlog@0.0.1
