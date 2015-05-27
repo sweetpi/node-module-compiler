@@ -1,4 +1,4 @@
-pimatic@0.8.69
+pimatic@0.8.70
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
@@ -20,7 +20,7 @@ pimatic-led-light@0.0.1
 pimatic-links@0.8.5
 pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
-pimatic-log-reader@0.8.2
+pimatic-log-reader@0.8.3
 pimatic-mail@0.8.3
 pimatic-max@0.8.12
 pimatic-milight@0.0.4
