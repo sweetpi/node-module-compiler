@@ -7,7 +7,7 @@ pimatic-cron@0.8.5
 pimatic-dewpoint@0.8.0
 pimatic-dht-sensors@0.8.4
 pimatic-ds18b20@0.8.8
-pimatic-edimax@0.0.9
+pimatic-edimax@0.1.0
 pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.2
 pimatic-fronius-solar@0.0.5
