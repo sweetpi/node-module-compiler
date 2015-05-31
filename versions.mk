@@ -1,7 +1,6 @@
 pimatic@0.8.71
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
-pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-dewpoint@0.8.0
