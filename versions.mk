@@ -1,13 +1,14 @@
 pimatic@0.8.71
 pimatic-athome@0.8.2
 pimatic-ble@0.8.0
-pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-dewpoint@0.8.0
 pimatic-dht-sensors@0.8.4
 pimatic-ds18b20@0.8.8
+pimatic-easybox@0.1.2
 pimatic-edimax@0.1.0
+pimatic-enigma2@0.1.1
 pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.2
 pimatic-fronius-solar@0.0.5
@@ -52,4 +53,5 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-websolarlog@0.0.1
 pimatic-yoctopuce@1.0.7
+pimatic-youless@0.4.1
 pimatic-z-way@0.10.0
