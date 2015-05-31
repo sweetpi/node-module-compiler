@@ -12,7 +12,9 @@ env:
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-easybox
   - MODULE=pimatic-edimax
+  - MODULE=pimatic-enigma2
   - MODULE=pimatic-filebrowser
   - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
