@@ -17,7 +17,7 @@ pimatic-fronius-solar@0.0.5
 pimatic-gpio@0.8.6
 pimatic-homeduino@0.8.52
 pimatic-ifttt@0.1.1
-pimatic-kodi@0.1.0
+pimatic-kodi@0.1.1
 pimatic-lcd@0.8.3
 pimatic-led-light@0.0.1
 pimatic-links@0.8.5
