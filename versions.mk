@@ -39,6 +39,7 @@ pimatic-piblaster@0.8.1
 pimatic-ping@0.8.5
 pimatic-play@0.8.0
 pimatic-probe@0.0.9
+pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-sensortag@0.8.3

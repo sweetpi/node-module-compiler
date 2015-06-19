@@ -44,6 +44,7 @@ env:
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
   - MODULE=pimatic-probe
+  - MODULE=pimatic-prowl
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-sensortag
