@@ -1,5 +1,6 @@
 pimatic@0.8.73
 pimatic-athome@0.8.2
+pimatic-bh1750@0.1.0
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
@@ -16,6 +17,7 @@ pimatic-fritz@0.2.5
 pimatic-fronius-solar@0.0.5
 pimatic-gpio@0.8.6
 pimatic-homeduino@0.8.53
+pimatic-homegear@0.0.1
 pimatic-ifttt@0.1.1
 pimatic-kodi@0.1.3
 pimatic-lcd@0.8.3

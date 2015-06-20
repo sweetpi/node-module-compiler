@@ -5,6 +5,7 @@ env:
   matrix:
   - MODULE=pimatic
   - MODULE=pimatic-athome
+  - MODULE=pimatic-bh1750
   - MODULE=pimatic-ble
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-coc
@@ -21,6 +22,7 @@ env:
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
+  - MODULE=pimatic-homegear
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
