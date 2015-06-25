@@ -58,6 +58,7 @@ pimatic-upnp-root@0.0.6
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-websolarlog@0.0.1
+pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.1
 pimatic-z-way@0.10.0
