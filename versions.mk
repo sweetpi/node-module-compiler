@@ -1,6 +1,7 @@
 pimatic@0.8.74
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
+pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
@@ -15,15 +16,12 @@ pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.5
 pimatic-fronius-solar@0.0.6
 pimatic-gpio@0.8.6
-pimatic-homeduino@0.8.54
 pimatic-homegear@0.0.1
 pimatic-kodi@0.1.3
 pimatic-lcd@0.8.3
 pimatic-links@0.8.5
-pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
 pimatic-log-reader@0.8.5
-pimatic-mail@0.8.3
 pimatic-max@0.8.12
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.64
