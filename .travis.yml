@@ -28,6 +28,7 @@ env:
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
   - MODULE=pimatic-links
+  - MODULE=pimatic-lirc
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
