@@ -24,6 +24,7 @@ env:
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-ipcamera
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
