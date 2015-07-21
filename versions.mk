@@ -19,7 +19,7 @@ pimatic-gpio@0.8.6
 pimatic-homeduino@0.8.55
 pimatic-homegear@0.0.1
 pimatic-ifttt@0.1.1
-pimatic-ipcamera@0.1.1
+pimatic-ipcamera@0.1.2
 pimatic-kodi@0.1.3
 pimatic-lcd@0.8.3
 pimatic-led-light@0.1.0
