@@ -5,7 +5,7 @@ pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
-pimatic-dewpoint@0.8.0
+pimatic-dewpoint@0.8.2
 pimatic-dht-sensors@0.8.4
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
