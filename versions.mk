@@ -37,7 +37,7 @@ pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
 pimatic-mysensors@0.8.20
 pimatic-nut@0.1.0
-pimatic-openweather@0.8.14
+pimatic-openweather@0.8.15
 pimatic-otgw@0.0.1
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
