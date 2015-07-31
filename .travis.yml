@@ -40,6 +40,7 @@ env:
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mpd
+  - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
