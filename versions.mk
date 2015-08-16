@@ -11,7 +11,7 @@ pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
 pimatic-edimax@0.1.0
 pimatic-emon@0.2.0
-pimatic-enigma2@0.1.1
+pimatic-enigma2@0.1.2
 pimatic-filebrowser@0.8.0
 pimatic-fritz@0.2.5
 pimatic-fronius-solar@0.0.6
