@@ -42,7 +42,7 @@ pimatic-openweather@0.8.15
 pimatic-otgw@0.0.1
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
-pimatic-ping@0.8.5
+pimatic-ping@0.8.6
 pimatic-play@0.8.0
 pimatic-probe@0.1.0
 pimatic-prowl@0.0.1
