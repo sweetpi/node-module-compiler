@@ -30,6 +30,7 @@ pimatic-location@0.2.1
 pimatic-log-reader@0.8.5
 pimatic-mail@0.8.3
 pimatic-max@0.8.12
+pimatic-maxcul@0.1.0
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.66
 pimatic-mochad@0.8.2
