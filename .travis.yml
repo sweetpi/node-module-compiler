@@ -23,6 +23,7 @@ env:
   - MODULE=pimatic-gpio
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
+  - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-kodi
