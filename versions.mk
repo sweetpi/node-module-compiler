@@ -21,7 +21,7 @@ pimatic-homegear@0.0.1
 pimatic-iframe@0.0.1
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1
-pimatic-kodi@0.1.3
+pimatic-kodi@0.1.4
 pimatic-lcd@0.8.3
 pimatic-led-light@0.1.0
 pimatic-links@0.8.5
