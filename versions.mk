@@ -1,4 +1,4 @@
-pimatic@0.8.83
+pimatic@0.8.84
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
