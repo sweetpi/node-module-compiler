@@ -36,7 +36,7 @@ pimatic-mobile-frontend@0.8.67
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.20
+pimatic-mysensors@0.8.21
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.15
 pimatic-otgw@0.0.1
