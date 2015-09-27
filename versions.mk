@@ -19,7 +19,7 @@ pimatic-fronius-solar@0.0.6
 pimatic-gpio@0.8.9
 pimatic-homeduino@0.8.60
 pimatic-homegear@0.0.1
-pimatic-iframe@0.0.4
+pimatic-iframe@0.1.0
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1
 pimatic-kodi@0.1.4
