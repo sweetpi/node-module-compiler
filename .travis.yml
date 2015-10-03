@@ -65,6 +65,7 @@ env:
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-ultrasonic
+  - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
