@@ -51,6 +51,7 @@ env:
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
+  - MODULE=pimatic-plex
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
   - MODULE=pimatic-pushbullet

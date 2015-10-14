@@ -46,6 +46,7 @@ pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.6
 pimatic-play@0.8.0
+pimatic-plex@0.0.1
 pimatic-probe@0.1.1
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
