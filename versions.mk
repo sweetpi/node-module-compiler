@@ -1,4 +1,4 @@
-pimatic@0.8.88
+pimatic@0.8.89
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
