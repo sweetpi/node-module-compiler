@@ -34,7 +34,7 @@ pimatic-mail@0.8.5
 pimatic-max@0.8.12
 pimatic-maxcul@0.1.0
 pimatic-milight@0.0.4
-pimatic-mobile-frontend@0.8.69
+pimatic-mobile-frontend@0.8.70
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
 pimatic-mqtt-simple@0.1.1
