@@ -69,4 +69,4 @@ pimatic-websolarlog@0.0.1
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.1
-pimatic-z-way@1.0.1
+pimatic-z-way@1.1.0
