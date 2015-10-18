@@ -19,6 +19,7 @@ env:
   - MODULE=pimatic-emon
   - MODULE=pimatic-enigma2
   - MODULE=pimatic-filebrowser
+  - MODULE=pimatic-filter
   - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-gpio
