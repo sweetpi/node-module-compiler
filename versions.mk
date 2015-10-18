@@ -2,7 +2,6 @@ pimatic@0.8.90
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
-pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
@@ -14,7 +13,7 @@ pimatic-edimax@0.3.0
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-filebrowser@0.8.0
-pimatic-filter@0.8.1
+pimatic-filter@0.8.2
 pimatic-fritz@0.2.5
 pimatic-fronius-solar@0.0.6
 pimatic-gpio@0.8.9
