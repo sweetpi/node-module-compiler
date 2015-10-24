@@ -71,6 +71,7 @@ env:
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
+  - MODULE=pimatic-wakeonlan
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
   - MODULE=pimatic-yoctopuce
