@@ -23,6 +23,7 @@ env:
   - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-gpio
+  - MODULE=pimatic-hap
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
   - MODULE=pimatic-iframe
