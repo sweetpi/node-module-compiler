@@ -18,7 +18,7 @@ pimatic-filter@0.8.2
 pimatic-fritz@0.2.5
 pimatic-fronius-solar@0.0.6
 pimatic-gpio@0.8.10
-pimatic-hap@0.0.1
+pimatic-hap@0.0.2
 pimatic-homeduino@0.8.61
 pimatic-homegear@0.0.1
 pimatic-iframe@0.1.2
