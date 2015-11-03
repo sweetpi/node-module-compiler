@@ -33,10 +33,10 @@ pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
 pimatic-log-reader@0.8.5
 pimatic-mail@0.8.5
-pimatic-max@0.8.12
+pimatic-max@0.8.13
 pimatic-maxcul@0.1.0
 pimatic-milight@0.0.4
-pimatic-mobile-frontend@0.8.70
+pimatic-mobile-frontend@0.8.71
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
 pimatic-mqtt-simple@0.1.1
