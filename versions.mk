@@ -43,7 +43,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.22
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.17
-pimatic-otgw@0.0.1
+pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.6
