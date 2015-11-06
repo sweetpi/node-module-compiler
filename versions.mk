@@ -31,7 +31,7 @@ pimatic-links@0.8.5
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
-pimatic-log-reader@0.8.5
+pimatic-log-reader@0.8.7
 pimatic-mail@0.8.5
 pimatic-max@0.8.13
 pimatic-maxcul@0.1.0
@@ -54,7 +54,7 @@ pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.12
+pimatic-shell-execute@0.8.13
 pimatic-sispmctl@0.8.3
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.0.9
