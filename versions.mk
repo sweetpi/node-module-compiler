@@ -46,7 +46,7 @@ pimatic-openweather@0.8.17
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
-pimatic-ping@0.8.7
+pimatic-ping@0.8.8
 pimatic-play@0.8.0
 pimatic-plex@0.0.1
 pimatic-probe@0.1.1
