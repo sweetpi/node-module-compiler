@@ -67,7 +67,7 @@ pimatic-unipi-evok@0.2.1
 pimatic-upnp-root@0.0.7
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
-pimatic-wakeonlan@0.1.0
+pimatic-wakeonlan@0.2.0
 pimatic-websolarlog@0.0.1
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
