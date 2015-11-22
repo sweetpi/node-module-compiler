@@ -14,7 +14,7 @@ pimatic-edimax@0.3.0
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-filebrowser@0.8.0
-pimatic-filter@0.8.2
+pimatic-filter@0.8.3
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.6
 pimatic-gpio@0.8.10
