@@ -1,4 +1,5 @@
-pimatic-bh1750@0.1.1
+pimatic@0.8.95
+pimatic-angular-material-frontend@0.2.1
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
