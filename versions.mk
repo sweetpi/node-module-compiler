@@ -49,7 +49,7 @@ pimatic-piblaster@0.8.1
 pimatic-ping@0.8.9
 pimatic-play@0.8.0
 pimatic-plex@0.0.1
-pimatic-probe@0.2.1
+pimatic-probe@0.2.2
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
