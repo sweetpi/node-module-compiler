@@ -17,7 +17,7 @@ pimatic-filebrowser@0.8.0
 pimatic-filter@0.8.3
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.7
-pimatic-gpio@0.8.10
+pimatic-gpio@0.8.11
 pimatic-hap@0.3.4
 pimatic-homeduino@0.8.64
 pimatic-homegear@0.0.1
