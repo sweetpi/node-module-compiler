@@ -58,7 +58,7 @@ pimatic-shell-execute@0.8.13
 pimatic-sispmctl@0.8.3
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.0.9
-pimatic-sonos@0.0.2
+pimatic-sonos@0.1.0
 pimatic-sunrise@0.8.2
 pimatic-sysinfo@0.8.13
 pimatic-thinkingcleaner@0.8.2
