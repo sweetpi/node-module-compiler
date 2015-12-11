@@ -11,6 +11,7 @@ env:
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
+  - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-ds18b20
