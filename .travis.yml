@@ -52,6 +52,7 @@ env:
   - MODULE=pimatic-ouimeaux
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
+  - MODULE=pimatic-pio-remote
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
   - MODULE=pimatic-probe
