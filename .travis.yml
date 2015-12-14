@@ -56,7 +56,6 @@ env:
   - MODULE=pimatic-pio-remote
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
-  - MODULE=pimatic-plugin-commons
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
   - MODULE=pimatic-pushbullet

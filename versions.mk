@@ -51,7 +51,6 @@ pimatic-ping@0.8.9
 pimatic-pio-remote@0.2.1
 pimatic-play@0.8.0
 pimatic-plex@0.0.1
-pimatic-plugin-commons@0.8.3
 pimatic-probe@0.2.2
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
