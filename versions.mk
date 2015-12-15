@@ -6,7 +6,7 @@ pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
-pimatic-denon-avr@0.8.4
+pimatic-denon-avr@0.8.5
 pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.4
 pimatic-ds18b20@0.8.8
