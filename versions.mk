@@ -28,7 +28,7 @@ pimatic-ipcamera@1.1.1
 pimatic-johnny-five@0.8.0
 pimatic-kodi@0.1.5
 pimatic-lcd@0.8.3
-pimatic-led-light@0.3.1
+pimatic-led-light@0.3.2
 pimatic-links@0.8.5
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.1.4
