@@ -30,6 +30,7 @@ env:
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-ipcamera
+  - MODULE=pimatic-johnny-five
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
