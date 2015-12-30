@@ -12,7 +12,7 @@ pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.4
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.0
+pimatic-edimax@0.3.1
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-filebrowser@0.8.0
