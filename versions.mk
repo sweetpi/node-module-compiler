@@ -1,5 +1,8 @@
+pimatic@0.8.98
 pimatic-angular-material-frontend@0.2.1
+pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
+pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-calendar@0.8.0
 pimatic-coc@0.8.5
@@ -13,6 +16,7 @@ pimatic-edimax@0.3.2
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-filebrowser@0.8.0
+pimatic-filter@0.8.4
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.7
 pimatic-gpio@0.8.13
@@ -51,6 +55,7 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.1
 pimatic-probe@0.2.2
 pimatic-prowl@0.0.1
+pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.13
