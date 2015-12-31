@@ -5,7 +5,6 @@ pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-calendar@0.8.0
-pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-denon-avr@0.8.5
 pimatic-dewpoint@0.8.3
@@ -59,7 +58,6 @@ pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.13
-pimatic-sispmctl@0.8.3
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.0
 pimatic-sonos@0.1.0
