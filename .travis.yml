@@ -20,6 +20,7 @@ env:
   - MODULE=pimatic-edimax
   - MODULE=pimatic-emon
   - MODULE=pimatic-enigma2
+  - MODULE=pimatic-ethboard
   - MODULE=pimatic-filebrowser
   - MODULE=pimatic-filter
   - MODULE=pimatic-fritz
