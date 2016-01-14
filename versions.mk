@@ -24,6 +24,7 @@ pimatic-gpio@0.8.13
 pimatic-hap@0.5.1
 pimatic-homeduino@0.8.66
 pimatic-homegear@0.1.0
+pimatic-hue@0.0.3
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1

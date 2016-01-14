@@ -29,6 +29,7 @@ env:
   - MODULE=pimatic-hap
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
+  - MODULE=pimatic-hue
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-ipcamera
