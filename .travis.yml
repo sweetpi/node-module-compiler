@@ -10,6 +10,7 @@ env:
   - MODULE=pimatic-ble
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-calendar
+  - MODULE=pimatic-can
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
   - MODULE=pimatic-denon-avr

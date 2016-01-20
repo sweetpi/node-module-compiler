@@ -5,6 +5,7 @@ pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-calendar@0.8.0
+pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.5
 pimatic-denon-avr@0.8.5
@@ -24,7 +25,7 @@ pimatic-gpio@0.8.13
 pimatic-hap@0.5.1
 pimatic-homeduino@0.8.66
 pimatic-homegear@0.1.0
-pimatic-hue@0.0.3
+pimatic-hue@0.0.4
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1
