@@ -29,7 +29,7 @@ pimatic-hue@0.0.4
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1
-pimatic-johnny-five@0.8.4
+pimatic-johnny-five@0.8.5
 pimatic-kodi@0.1.5
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.3
