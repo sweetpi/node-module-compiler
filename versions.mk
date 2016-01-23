@@ -62,7 +62,7 @@ pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.13
+pimatic-shell-execute@0.8.14
 pimatic-sispmctl@0.8.3
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.1
