@@ -61,7 +61,7 @@ pimatic-probe@0.2.2
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
-pimatic-rflink@0.1.0
+pimatic-rflink@0.1.1
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.14
 pimatic-sispmctl@0.8.3
