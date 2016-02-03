@@ -69,6 +69,7 @@ env:
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-rflink
+  - MODULE=pimatic-rfxcom
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
