@@ -3,11 +3,9 @@ pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
-pimatic-bluebean@0.8.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
-pimatic-cron@0.8.6
 pimatic-denon-avr@0.8.5
 pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.4
