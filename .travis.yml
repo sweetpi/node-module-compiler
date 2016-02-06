@@ -54,6 +54,7 @@ env:
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
+  - MODULE=pimatic-mythermostat
   - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
   - MODULE=pimatic-otgw
