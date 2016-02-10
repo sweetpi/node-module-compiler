@@ -74,7 +74,7 @@ pimatic-solarview@0.8.1
 pimatic-sonos@0.1.0
 pimatic-sunrise@0.8.2
 pimatic-sysinfo@0.8.13
-pimatic-thinkingcleaner@0.8.2
+pimatic-thinkingcleaner@0.8.3
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.3
 pimatic-upnp-root@0.0.7
