@@ -77,7 +77,7 @@ pimatic-sysinfo@0.8.13
 pimatic-thinkingcleaner@0.8.3
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.3
-pimatic-upnp-root@0.0.7
+pimatic-upnp-root@0.8.8
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-wakeonlan@0.2.1
