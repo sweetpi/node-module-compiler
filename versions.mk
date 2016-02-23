@@ -18,12 +18,12 @@ pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
 pimatic-filebrowser@0.8.0
-pimatic-filter@0.8.5
+pimatic-filter@0.8.6
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.7
 pimatic-gpio@0.8.13
-pimatic-hap@0.5.6
+pimatic-hap@0.6.0
 pimatic-homeduino@0.8.71
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
