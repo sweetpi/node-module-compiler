@@ -1,4 +1,4 @@
-pimatic@0.8.100
+pimatic@0.8.101
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -10,7 +10,7 @@ pimatic-coc@0.8.5
 pimatic-cron@0.8.6
 pimatic-denon-avr@0.8.5
 pimatic-dewpoint@0.8.3
-pimatic-dht-sensors@0.8.4
+pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
 pimatic-edimax@0.3.3
@@ -27,11 +27,12 @@ pimatic-hap@0.6.0
 pimatic-homeduino@0.8.71
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
+pimatic-hue-zll@0.1.0
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.1.0
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.5
+pimatic-jeelabs@0.8.6
 pimatic-johnny-five@0.8.7
 pimatic-kodi@0.1.5
 pimatic-lcd@0.8.3

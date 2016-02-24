@@ -32,6 +32,7 @@ env:
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
   - MODULE=pimatic-hue
+  - MODULE=pimatic-hue-zll
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-intergasincomfort
