@@ -23,7 +23,7 @@ pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.7
 pimatic-gpio@0.8.13
-pimatic-hap@0.6.0
+pimatic-hap@0.6.1
 pimatic-homeduino@0.8.71
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
