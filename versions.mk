@@ -1,5 +1,6 @@
 pimatic@0.8.101
 pimatic-angular-material-frontend@0.2.1
+pimatic-arduino-updater@0.1.0
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
@@ -69,7 +70,7 @@ pimatic-pushover@0.8.5
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.14
+pimatic-shell-execute@0.8.15
 pimatic-sispmctl@0.8.4
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.1
