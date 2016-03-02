@@ -32,7 +32,7 @@ pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.1.0
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.6
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.8.7
 pimatic-kodi@0.1.5
 pimatic-lcd@0.8.3
@@ -49,7 +49,7 @@ pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
-pimatic-mqtt@0.8.2
+pimatic-mqtt@0.8.4
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.23
 pimatic-mythermostat@0.0.1
@@ -88,4 +88,4 @@ pimatic-websolarlog@0.0.2
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
-pimatic-z-way@1.1.0
+pimatic-z-way@1.2.0
