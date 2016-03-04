@@ -27,7 +27,7 @@ pimatic-hap@0.6.1
 pimatic-homeduino@0.8.71
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
-pimatic-hue-zll@0.1.0
+pimatic-hue-zll@0.1.1
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.1.0
