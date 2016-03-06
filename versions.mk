@@ -8,12 +8,12 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.6
-pimatic-denon-avr@0.8.5
+pimatic-denon-avr@0.8.6
 pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.3
+pimatic-edimax@0.3.4
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
@@ -33,7 +33,7 @@ pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.1.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
-pimatic-johnny-five@0.8.7
+pimatic-johnny-five@0.8.8
 pimatic-kodi@0.1.5
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.3
@@ -49,7 +49,7 @@ pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
-pimatic-mqtt@0.8.4
+pimatic-mqtt@0.8.5
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.23
 pimatic-mythermostat@0.0.1
@@ -73,7 +73,7 @@ pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.15
 pimatic-sispmctl@0.8.4
 pimatic-smartmeter@0.0.15
-pimatic-solarview@0.8.1
+pimatic-solarview@0.8.2
 pimatic-sonos@0.1.0
 pimatic-sunrise@0.8.2
 pimatic-sysinfo@0.8.13
@@ -84,7 +84,7 @@ pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-wakeonlan@0.2.1
-pimatic-websolarlog@0.0.2
+pimatic-websolarlog@0.0.3
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
