@@ -70,7 +70,7 @@ pimatic-pushover@0.8.5
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.15
+pimatic-shell-execute@0.8.16
 pimatic-sispmctl@0.8.4
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.2
