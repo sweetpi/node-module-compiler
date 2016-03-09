@@ -67,7 +67,7 @@ pimatic-probe@0.2.2
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
-pimatic-quote-of-the-day@1.0.21
+pimatic-quote-of-the-day@1.0.3
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
