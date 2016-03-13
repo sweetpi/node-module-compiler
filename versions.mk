@@ -49,7 +49,7 @@ pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.2
 pimatic-mpd@0.8.11
-pimatic-mqtt@0.8.5
+pimatic-mqtt@0.8.6
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.23
 pimatic-mythermostat@0.0.1
