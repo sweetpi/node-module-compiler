@@ -1,4 +1,4 @@
-pimatic@0.8.101
+pimatic@0.8.102
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -13,7 +13,7 @@ pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.4
+pimatic-edimax@0.3.5
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
@@ -21,10 +21,10 @@ pimatic-filebrowser@0.8.0
 pimatic-filter@0.8.6
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
-pimatic-fronius-solar@0.0.7
+pimatic-fronius-solar@0.0.8
 pimatic-gpio@0.8.13
 pimatic-hap@0.6.1
-pimatic-homeduino@0.8.71
+pimatic-homeduino@0.8.72
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.1.1
@@ -54,7 +54,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.23
 pimatic-mythermostat@0.0.1
 pimatic-nut@0.1.0
-pimatic-openweather@0.8.18
+pimatic-openweather@0.8.19
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
