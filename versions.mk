@@ -17,7 +17,7 @@ pimatic-edimax@0.3.5
 pimatic-emon@0.2.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
-pimatic-filebrowser@0.8.0
+pimatic-filebrowser@0.8.2
 pimatic-filter@0.8.6
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
@@ -47,7 +47,7 @@ pimatic-max@0.8.14
 pimatic-maxcul@0.2.0
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
-pimatic-mochad@0.8.2
+pimatic-mochad@0.8.3
 pimatic-mpd@0.8.11
 pimatic-mqtt@0.8.6
 pimatic-mqtt-simple@0.1.1
@@ -63,7 +63,7 @@ pimatic-pio-remote@0.3.1
 pimatic-play@0.8.0
 pimatic-plex@0.0.1
 pimatic-plugin-ethboard@0.0.3
-pimatic-probe@0.2.2
+pimatic-probe@0.2.3
 pimatic-prowl@0.0.1
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
@@ -71,7 +71,7 @@ pimatic-quote-of-the-day@1.0.4
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.16
+pimatic-shell-execute@0.8.17
 pimatic-sispmctl@0.8.4
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.3
