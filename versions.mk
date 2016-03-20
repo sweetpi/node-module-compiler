@@ -43,7 +43,7 @@ pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
 pimatic-log-reader@0.8.7
 pimatic-mail@0.8.5
-pimatic-max@0.8.14
+pimatic-max@0.8.15
 pimatic-maxcul@0.2.0
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
@@ -61,10 +61,10 @@ pimatic-piblaster@0.8.1
 pimatic-ping@0.8.9
 pimatic-pio-remote@0.3.1
 pimatic-play@0.8.0
-pimatic-plex@0.0.1
+pimatic-plex@0.0.5
 pimatic-plugin-ethboard@0.0.3
 pimatic-probe@0.2.3
-pimatic-prowl@0.0.1
+pimatic-prowl@0.0.2
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.4
