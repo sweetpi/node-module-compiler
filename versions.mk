@@ -72,8 +72,8 @@ pimatic-quote-of-the-day@1.0.4
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.19
-pimatic-sispmctl@0.8.5
+pimatic-shell-execute@0.8.20
+pimatic-sispmctl@0.8.6
 pimatic-smartmeter@0.0.15
 pimatic-solarview@0.8.4
 pimatic-sonos@0.1.0
