@@ -17,7 +17,7 @@ pimatic-edimax@0.3.6
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
-pimatic-filebrowser@0.8.3
+pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.6
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
@@ -50,7 +50,7 @@ pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.3
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
-pimatic-mqtt@0.8.6
+pimatic-mqtt@0.8.7
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.23
 pimatic-mythermostat@0.0.1
