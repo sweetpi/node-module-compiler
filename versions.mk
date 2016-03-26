@@ -14,7 +14,7 @@ pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
 pimatic-edimax@0.3.6
-pimatic-emon@0.2.0
+pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
 pimatic-filebrowser@0.8.3
@@ -30,7 +30,7 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.1.1
 pimatic-iframe@0.1.2
 pimatic-ifttt@0.1.1
-pimatic-intergasincomfort@0.2.0
+pimatic-intergasincomfort@0.2.2
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.8.8
