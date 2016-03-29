@@ -13,7 +13,7 @@ pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.6
+pimatic-edimax@0.3.7
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
@@ -52,7 +52,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
 pimatic-mqtt@0.8.7
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.23
+pimatic-mysensors@0.8.25
 pimatic-mythermostat@0.0.1
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
