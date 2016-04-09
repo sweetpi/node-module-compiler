@@ -18,7 +18,7 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.7
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.8.6
+pimatic-filter@0.8.7
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.11
@@ -43,7 +43,7 @@ pimatic-lm-sensors@0.1.4
 pimatic-location@0.2.1
 pimatic-log-reader@0.8.8
 pimatic-mail@0.8.5
-pimatic-max@0.8.16
+pimatic-max@0.8.17
 pimatic-maxcul@0.2.0
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
@@ -52,7 +52,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
 pimatic-mqtt@0.8.7
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.25
+pimatic-mysensors@0.8.27
 pimatic-mythermostat@0.0.1
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
@@ -63,12 +63,11 @@ pimatic-ping@0.8.12
 pimatic-pio-remote@0.3.1
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
-pimatic-plugin-ethboard@0.0.3
 pimatic-probe@0.2.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
-pimatic-quote-of-the-day@1.0.4
+pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.1
 pimatic-sensortag@0.8.3
@@ -86,7 +85,7 @@ pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
 pimatic-wakeonlan@0.2.1
-pimatic-websolarlog@0.0.3
+pimatic-websolarlog@0.0.4
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
