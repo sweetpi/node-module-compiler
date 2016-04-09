@@ -1,7 +1,6 @@
 pimatic@0.8.102
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
-pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-calendar@0.8.0
@@ -21,7 +20,6 @@ pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.7
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
-pimatic-fronius-solar@0.0.11
 pimatic-gpio@0.8.15
 pimatic-hap@0.6.1
 pimatic-homeduino@0.8.73
@@ -87,6 +85,5 @@ pimatic-volkszaehler@0.2.0
 pimatic-wakeonlan@0.2.1
 pimatic-websolarlog@0.0.4
 pimatic-wink@1.0.0
-pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.2.0
