@@ -28,7 +28,7 @@ pimatic-homeduino@0.8.73
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.2.0
-pimatic-iframe@0.1.2
+pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.2
 pimatic-ipcamera@1.1.1
@@ -40,11 +40,11 @@ pimatic-led-light@0.3.3
 pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.1.4
-pimatic-location@0.2.1
+pimatic-location@0.2.3
 pimatic-log-reader@0.8.8
 pimatic-mail@0.8.5
 pimatic-max@0.8.17
-pimatic-maxcul@0.2.0
+pimatic-maxcul@0.2.9
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.3
@@ -69,7 +69,7 @@ pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.4.2
-pimatic-rfxcom@0.8.1
+pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.20
 pimatic-sispmctl@0.8.6
@@ -78,7 +78,7 @@ pimatic-solarview@0.8.4
 pimatic-sonos@0.1.0
 pimatic-sunrise@0.8.4
 pimatic-sysinfo@0.8.13
-pimatic-thinkingcleaner@0.8.3
+pimatic-thinkingcleaner@0.8.4
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.7
 pimatic-upnp-root@0.8.9
