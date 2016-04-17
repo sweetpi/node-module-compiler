@@ -54,6 +54,7 @@ env:
   - MODULE=pimatic-milight
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
+  - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
   - MODULE=pimatic-mqtt

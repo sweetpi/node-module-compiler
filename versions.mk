@@ -1,4 +1,4 @@
-pimatic@0.8.102
+pimatic@0.8.103
 pimatic-angular-material-frontend@0.2.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -8,7 +8,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.8
-pimatic-denon-avr@0.8.7
+pimatic-denon-avr@0.8.8
 pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
@@ -21,7 +21,7 @@ pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.7
 pimatic-foscam@0.8.6
 pimatic-fritz@0.3.3
-pimatic-fronius-solar@0.0.11
+pimatic-fronius-solar@0.0.12
 pimatic-gpio@0.8.15
 pimatic-hap@0.6.1
 pimatic-homeduino@0.8.73
@@ -44,10 +44,11 @@ pimatic-location@0.2.3
 pimatic-log-reader@0.8.8
 pimatic-mail@0.8.5
 pimatic-max@0.8.17
-pimatic-maxcul@0.2.9
+pimatic-maxcul@0.3.1
 pimatic-milight@0.0.4
 pimatic-mobile-frontend@0.8.82
 pimatic-mochad@0.8.3
+pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
 pimatic-mqtt@0.8.7
@@ -59,7 +60,7 @@ pimatic-openweather@0.8.22
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
-pimatic-ping@0.8.12
+pimatic-ping@0.8.13
 pimatic-pio-remote@0.3.1
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
@@ -73,11 +74,11 @@ pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.20
 pimatic-sispmctl@0.8.6
-pimatic-smartmeter@0.0.15
+pimatic-smartmeter@0.0.16
 pimatic-solarview@0.8.4
 pimatic-sonos@0.1.0
-pimatic-sunrise@0.8.4
-pimatic-sysinfo@0.8.13
+pimatic-sunrise@0.8.7
+pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.4
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.7
