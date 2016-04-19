@@ -55,13 +55,14 @@ pimatic-mqtt@0.8.7
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.27
 pimatic-mythermostat@0.0.1
+pimatic-netatmo@0.0.1
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.13
-pimatic-pio-remote@0.3.1
+pimatic-pio-remote@0.4.0
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-probe@0.2.4
@@ -75,8 +76,8 @@ pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.20
 pimatic-sispmctl@0.8.6
 pimatic-smartmeter@0.0.16
-pimatic-solarview@0.8.4
-pimatic-sonos@0.1.0
+pimatic-solarview@0.8.6
+pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.4
