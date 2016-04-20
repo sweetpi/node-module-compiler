@@ -8,7 +8,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.8
-pimatic-denon-avr@0.8.8
+pimatic-denon-avr@0.8.9
 pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.8
@@ -55,7 +55,7 @@ pimatic-mqtt@0.8.7
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.27
 pimatic-mythermostat@0.0.1
-pimatic-netatmo@0.0.1
+pimatic-netatmo@0.0.2
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
 pimatic-otgw@0.0.2
