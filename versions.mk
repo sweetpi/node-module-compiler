@@ -1,4 +1,4 @@
-pimatic@0.8.104
+pimatic@0.8.107
 pimatic-angular-material-frontend@0.3.0
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -16,7 +16,7 @@ pimatic-easybox@0.1.2
 pimatic-edimax@0.3.8
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
-pimatic-ethboard@0.0.7
+pimatic-ethboard@0.0.8
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.7
 pimatic-foscam@0.8.6
@@ -51,7 +51,7 @@ pimatic-mochad@0.8.3
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
-pimatic-mqtt@0.8.9
+pimatic-mqtt@0.8.11
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.30
 pimatic-mythermostat@0.0.1
@@ -91,4 +91,4 @@ pimatic-websolarlog@0.0.4
 pimatic-wink@1.0.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
-pimatic-z-way@1.2.0
+pimatic-z-way@1.2.1
