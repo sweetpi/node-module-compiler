@@ -58,6 +58,7 @@ pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.5
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
+pimatic-orvibo@0.0.1
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1

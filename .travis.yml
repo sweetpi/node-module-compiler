@@ -64,6 +64,7 @@ env:
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
+  - MODULE=pimatic-orvibo
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
   - MODULE=pimatic-piblaster
