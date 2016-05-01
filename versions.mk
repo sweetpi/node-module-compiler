@@ -58,7 +58,7 @@ pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.5
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
-pimatic-orvibo@0.0.1
+pimatic-orvibo@0.0.2
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
@@ -76,7 +76,8 @@ pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.20
 pimatic-sispmctl@0.8.6
-pimatic-smartmeter@0.0.16
+pimatic-smartmeter@0.0.18
+pimatic-smartmeter-old@0.0.17
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
