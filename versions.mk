@@ -13,13 +13,13 @@ pimatic-dewpoint@0.8.3
 pimatic-dht-sensors@0.8.5
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.8
+pimatic-edimax@0.3.10
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
-pimatic-ethboard@0.0.8
+pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.7
-pimatic-foscam@0.8.6
+pimatic-foscam@0.8.9
 pimatic-fritz@0.3.3
 pimatic-fronius-solar@0.0.12
 pimatic-gpio@0.8.15
@@ -53,7 +53,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.2
 pimatic-mqtt@0.8.11
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.30
+pimatic-mysensors@0.8.31
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.5
 pimatic-nut@0.1.0
