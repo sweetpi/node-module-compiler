@@ -4,6 +4,7 @@ pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
+pimatic-bmp180@0.0.2
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
@@ -55,7 +56,7 @@ pimatic-mqtt@0.8.11
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.31
 pimatic-mythermostat@0.0.1
-pimatic-netatmo@0.0.5
+pimatic-netatmo@0.0.6
 pimatic-nut@0.1.0
 pimatic-openweather@0.8.22
 pimatic-orvibo@0.0.2

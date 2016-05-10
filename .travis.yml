@@ -10,6 +10,7 @@ env:
   - MODULE=pimatic-bh1750
   - MODULE=pimatic-ble
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-bmp180
   - MODULE=pimatic-calendar
   - MODULE=pimatic-can
   - MODULE=pimatic-coc
