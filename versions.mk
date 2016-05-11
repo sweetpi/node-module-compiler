@@ -4,7 +4,7 @@ pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
-pimatic-bmp180@0.0.2
+pimatic-bmp180@0.0.3
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
