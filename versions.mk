@@ -19,13 +19,13 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.8.7
+pimatic-filter@0.8.8
 pimatic-foscam@0.8.9
 pimatic-fritz@0.4.3
 pimatic-fronius-solar@0.0.12
 pimatic-gpio@0.8.15
-pimatic-hap@0.6.3
-pimatic-homeduino@0.8.80
+pimatic-hap@0.6.4
+pimatic-homeduino@0.8.82
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.2.0
@@ -75,7 +75,7 @@ pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.20
+pimatic-shell-execute@0.8.21
 pimatic-sispmctl@0.8.6
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
@@ -83,9 +83,9 @@ pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-thinkingcleaner@0.8.4
+pimatic-thinkingcleaner@0.8.6
 pimatic-ultrasonic@0.8.6
-pimatic-unipi-evok@0.2.7
+pimatic-unipi-evok@0.2.8
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.2.0
