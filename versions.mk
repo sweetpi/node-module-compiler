@@ -47,6 +47,7 @@ pimatic-mail@0.8.6
 pimatic-max@0.8.17
 pimatic-maxcul@0.4.1
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.8.83
 pimatic-mochad@0.8.3
 pimatic-mopidy@0.1.0
