@@ -31,7 +31,7 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.2.1
 pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
-pimatic-intergasincomfort@0.2.2
+pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.3
@@ -73,7 +73,7 @@ pimatic-prowl@0.0.2
 pimatic-pushbullet@0.8.4
 pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.6
-pimatic-rflink@0.4.2
+pimatic-rflink@0.5.1
 pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
