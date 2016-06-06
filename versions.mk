@@ -22,13 +22,13 @@ pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.8
 pimatic-foscam@0.8.9
 pimatic-fritz@0.4.3
-pimatic-fronius-solar@0.0.12
+pimatic-fronius-solar@0.0.13
 pimatic-gpio@0.8.15
 pimatic-hap@0.6.4
 pimatic-homeduino@0.8.83
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
-pimatic-hue-zll@0.2.0
+pimatic-hue-zll@0.2.1
 pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.2
@@ -59,7 +59,7 @@ pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.7
 pimatic-nut@0.2.0
-pimatic-openweather@0.8.22
+pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
@@ -76,7 +76,7 @@ pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.4.2
 pimatic-rfxcom@0.8.2
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.21
+pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
