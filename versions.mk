@@ -65,7 +65,7 @@ pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
-pimatic-pio-remote@0.4.1
+pimatic-pio-remote@0.4.2
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-probe@0.2.5
