@@ -1,4 +1,3 @@
-pimatic@0.8.107
 pimatic-angular-material-frontend@0.3.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -35,6 +34,7 @@ pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.3
+pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
 pimatic-links@0.8.6
