@@ -1,3 +1,4 @@
+pimatic@0.8.107
 pimatic-angular-material-frontend@0.3.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -23,7 +24,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.4.3
 pimatic-fronius-solar@0.0.13
 pimatic-gpio@0.8.15
-pimatic-hap@0.6.4
+pimatic-hap@0.7.0
 pimatic-homeduino@0.8.83
 pimatic-homegear@0.1.0
 pimatic-hue@0.1.0
