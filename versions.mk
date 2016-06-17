@@ -27,6 +27,7 @@ pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
 pimatic-homeduino@0.8.83
 pimatic-homegear@0.1.0
+pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.2.1
 pimatic-iframe@0.1.3

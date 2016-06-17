@@ -33,6 +33,7 @@ env:
   - MODULE=pimatic-hap
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
+  - MODULE=pimatic-hongkongpollution
   - MODULE=pimatic-hue
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-iframe
