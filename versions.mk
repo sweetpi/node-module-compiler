@@ -42,8 +42,8 @@ pimatic-led-light@0.3.5
 pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.2.0
-pimatic-location@0.2.3
-pimatic-log-reader@0.8.8
+pimatic-location@0.2.4
+pimatic-log-reader@0.8.9
 pimatic-mail@0.8.6
 pimatic-max@0.8.17
 pimatic-maxcul@0.4.1
@@ -86,6 +86,7 @@ pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
+pimatic-uber@1.0.0
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.8
 pimatic-upnp-root@0.8.9
