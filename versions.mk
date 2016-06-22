@@ -1,4 +1,4 @@
-pimatic@0.8.107
+pimatic@0.9.26
 pimatic-angular-material-frontend@0.3.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -14,7 +14,7 @@ pimatic-dewpoint@0.8.4
 pimatic-dht-sensors@0.8.6
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.10
+pimatic-edimax@0.3.11
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
@@ -91,10 +91,10 @@ pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.8
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
-pimatic-volkszaehler@0.2.0
+pimatic-volkszaehler@0.3.0
 pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
-pimatic-wink@1.0.0
+pimatic-wink@1.0.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.0
