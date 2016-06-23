@@ -1,4 +1,4 @@
-pimatic@0.9.26
+pimatic@0.9.27
 pimatic-angular-material-frontend@0.3.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -49,7 +49,7 @@ pimatic-max@0.8.17
 pimatic-maxcul@0.4.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
-pimatic-mobile-frontend@0.8.83
+pimatic-mobile-frontend@0.9.9
 pimatic-mochad@0.8.3
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
@@ -76,6 +76,7 @@ pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.5.1
 pimatic-rfxcom@0.8.2
+pimatic-sensibo@0.9.0-a.0
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6

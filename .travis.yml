@@ -83,6 +83,7 @@ env:
   - MODULE=pimatic-quote-of-the-day
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rfxcom
+  - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
