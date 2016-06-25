@@ -1,4 +1,4 @@
-pimatic@0.9.27
+pimatic@0.9.28
 pimatic-angular-material-frontend@0.3.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
@@ -25,7 +25,7 @@ pimatic-fritz@0.4.3
 pimatic-fronius-solar@0.0.13
 pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
-pimatic-homeduino@0.8.83
+pimatic-homeduino@0.9.4
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
@@ -76,7 +76,7 @@ pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.5.1
 pimatic-rfxcom@0.8.2
-pimatic-sensibo@0.9.0-a.0
+pimatic-sensibo@0.9.0-a.1
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
@@ -92,7 +92,7 @@ pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.8
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
-pimatic-volkszaehler@0.3.0
+pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
 pimatic-wink@1.0.1
