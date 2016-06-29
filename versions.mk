@@ -76,7 +76,7 @@ pimatic-pushover@0.8.5
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.5.1
 pimatic-rfxcom@0.8.2
-pimatic-sensibo@0.9.0-a.1
+pimatic-sensibo@0.9.0-a.3
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
