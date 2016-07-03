@@ -54,7 +54,7 @@ pimatic-mochad@0.8.3
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
-pimatic-mqtt@0.8.12
+pimatic-mqtt@0.8.13
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
@@ -95,7 +95,7 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
-pimatic-wink@1.0.1
+pimatic-wink@1.1.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.0
