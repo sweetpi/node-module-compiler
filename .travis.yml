@@ -58,6 +58,7 @@ env:
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mochad-monitor
+  - MODULE=pimatic-mochad-simple
   - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
