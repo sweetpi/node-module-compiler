@@ -84,6 +84,7 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
+pimatic-sms@1.0.1
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
