@@ -89,6 +89,7 @@ env:
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
+  - MODULE=pimatic-slack
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-old
   - MODULE=pimatic-solarview

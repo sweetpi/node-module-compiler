@@ -81,6 +81,7 @@ pimatic-sensibo@0.9.0-a.3
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
+pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-solarview@0.8.6
