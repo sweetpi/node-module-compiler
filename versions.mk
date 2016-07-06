@@ -72,7 +72,7 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-probe@0.2.5
 pimatic-prowl@0.0.2
-pimatic-pushbullet@0.8.4
+pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.5.1
@@ -84,7 +84,8 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
-pimatic-sms@1.0.1
+pimatic-smartmeter2@0.0.18
+pimatic-sms@1.0.3
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
