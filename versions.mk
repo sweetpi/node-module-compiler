@@ -51,7 +51,7 @@ pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.9.9
 pimatic-mochad@0.8.3
-pimatic-mochad-simple@0.5.8
+pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
@@ -75,7 +75,7 @@ pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
 pimatic-quote-of-the-day@1.0.6
-pimatic-rflink@0.5.1
+pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
 pimatic-sensibo@0.9.0-a.3
 pimatic-sensortag@0.8.3
