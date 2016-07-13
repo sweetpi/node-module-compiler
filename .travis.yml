@@ -80,6 +80,7 @@ env:
   - MODULE=pimatic-plugin-ethboard
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
+  - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-quote-of-the-day

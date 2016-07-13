@@ -72,6 +72,7 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-probe@0.2.5
 pimatic-prowl@0.0.2
+pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
 pimatic-quote-of-the-day@1.0.6
