@@ -9,12 +9,12 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.8
-pimatic-denon-avr@0.8.9
-pimatic-dewpoint@0.8.4
+pimatic-denon-avr@0.9.0
+pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.11
+pimatic-edimax@0.3.12
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
