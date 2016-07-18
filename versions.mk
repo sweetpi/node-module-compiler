@@ -1,5 +1,6 @@
 pimatic@0.9.28
 pimatic-angular-material-frontend@0.3.1
+pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
 pimatic-bh1750@0.1.1
 pimatic-ble@0.8.0
@@ -48,6 +49,7 @@ pimatic-mail@0.8.6
 pimatic-max@0.8.17
 pimatic-maxcul@0.4.1
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.9.9
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0

@@ -5,6 +5,7 @@ env:
   matrix:
   - MODULE=pimatic
   - MODULE=pimatic-angular-material-frontend
+  - MODULE=pimatic-anymote
   - MODULE=pimatic-arduino-updater
   - MODULE=pimatic-athome
   - MODULE=pimatic-bh1750
@@ -67,6 +68,7 @@ env:
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-netatmo
+  - MODULE=pimatic-node-red
   - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
