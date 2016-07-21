@@ -22,11 +22,11 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.8
 pimatic-foscam@0.8.9
-pimatic-fritz@0.4.3
+pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.13
 pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
-pimatic-homeduino@0.9.4
+pimatic-homeduino@0.8.85
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
