@@ -64,6 +64,7 @@ pimatic-netatmo@0.0.7
 pimatic-nut@0.2.0
 pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
+pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
@@ -93,6 +94,7 @@ pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-uber@1.0.0
+pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.9
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
@@ -101,4 +103,5 @@ pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
 pimatic-wink@1.1.0
 pimatic-yoctopuce@1.0.7
+pimatic-youless@0.4.2
 pimatic-z-way@1.3.0
