@@ -14,7 +14,6 @@ pimatic-denon-avr@0.9.0
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
 pimatic-ds18b20@0.8.9
-pimatic-easybox@0.1.2
 pimatic-edimax@0.3.12
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
@@ -35,7 +34,6 @@ pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.3
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
