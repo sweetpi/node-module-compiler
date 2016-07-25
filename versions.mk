@@ -1,4 +1,4 @@
-pimatic@0.9.29
+pimatic@0.9.30
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
