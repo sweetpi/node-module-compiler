@@ -38,18 +38,22 @@ pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.3
 pimatic-kodi@0.1.6
+pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
 pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.2.0
+pimatic-location@0.2.4
 pimatic-log-reader@0.8.9
 pimatic-mail@0.8.6
 pimatic-max@0.8.17
 pimatic-maxcul@0.4.1
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.9.9
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
+pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.0
@@ -75,6 +79,7 @@ pimatic-pushover@0.9.0
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
+pimatic-sensibo@0.9.0-a.3
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
@@ -83,6 +88,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
+pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.1
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
@@ -91,6 +97,7 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.8.6
 pimatic-unipi-evok@0.2.9
+pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
