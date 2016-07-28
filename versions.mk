@@ -61,6 +61,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.7
+pimatic-node-red@0.0.2
 pimatic-nut@0.2.0
 pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
