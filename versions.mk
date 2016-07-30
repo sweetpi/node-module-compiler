@@ -1,4 +1,4 @@
-pimatic@0.9.31
+pimatic@0.9.32
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
@@ -30,7 +30,7 @@ pimatic-homeduino@0.8.85
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
-pimatic-hue-zll@0.2.1
+pimatic-hue-zll@0.3.0
 pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.3
@@ -90,7 +90,7 @@ pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.2
+pimatic-solvisremote@0.0.3
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
