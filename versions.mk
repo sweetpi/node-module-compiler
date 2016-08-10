@@ -92,7 +92,7 @@ pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.3
+pimatic-solvisremote@0.0.4
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
