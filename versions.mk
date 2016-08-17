@@ -98,7 +98,7 @@ pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.8.6
+pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.9
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
