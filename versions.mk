@@ -6,7 +6,7 @@ pimatic-athome@0.8.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
-pimatic-bmp180@1.0.1
+pimatic-bmp180@2.0.1
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
@@ -28,7 +28,7 @@ pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.13
 pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
-pimatic-homeduino@0.8.85
+pimatic-homeduino@0.9.8
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
