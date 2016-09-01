@@ -17,7 +17,7 @@ pimatic-dht-sensors@0.8.6
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-edimax@0.3.12
+pimatic-edimax@0.3.13
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
@@ -25,7 +25,7 @@ pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.8
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.1
-pimatic-fronius-solar@0.0.13
+pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
 pimatic-homeduino@0.9.8
