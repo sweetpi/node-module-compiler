@@ -11,6 +11,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.8.5
 pimatic-cron@0.8.8
+pimatic-dash-button@0.0.2
 pimatic-denon-avr@0.9.0
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6

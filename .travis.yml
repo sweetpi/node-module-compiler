@@ -17,6 +17,7 @@ env:
   - MODULE=pimatic-can
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
+  - MODULE=pimatic-dash-button
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
