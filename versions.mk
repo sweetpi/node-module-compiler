@@ -1,5 +1,6 @@
-pimatic@0.9.32
+pimatic@0.9.33
 pimatic-alarm@0.0.2
+pimatic-amazing-dash-button@0.9.2
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
@@ -9,7 +10,7 @@ pimatic-bluebean@0.8.0
 pimatic-bmp180@2.0.1
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-coc@0.8.5
+pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.0.2
 pimatic-denon-avr@0.9.0
@@ -29,7 +30,7 @@ pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.7.0
-pimatic-homeduino@0.9.8
+pimatic-homeduino@0.9.9
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
@@ -53,7 +54,7 @@ pimatic-max@0.8.17
 pimatic-maxcul@0.5.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
-pimatic-mobile-frontend@0.9.9
+pimatic-mobile-frontend@0.9.11
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
