@@ -115,6 +115,7 @@ env:
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-wakeonlan
   - MODULE=pimatic-websolarlog
+  - MODULE=pimatic-wemo
   - MODULE=pimatic-wink
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless

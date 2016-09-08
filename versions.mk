@@ -1,6 +1,6 @@
 pimatic@0.9.33
 pimatic-alarm@0.0.2
-pimatic-amazing-dash-button@0.9.2
+pimatic-amazing-dash-button@0.9.4
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
@@ -12,7 +12,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
-pimatic-dash-button@0.0.2
+pimatic-dash-button@0.1.0
 pimatic-denon-avr@0.9.0
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
@@ -107,6 +107,7 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
+pimatic-wemo@0.0.2
 pimatic-wink@1.1.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
