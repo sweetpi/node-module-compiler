@@ -1,6 +1,6 @@
 pimatic@0.9.33
 pimatic-alarm@0.0.2
-pimatic-amazing-dash-button@0.9.4
+pimatic-amazing-dash-button@0.9.5
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
@@ -65,7 +65,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.7
-pimatic-node-red@0.0.3
+pimatic-node-red@0.0.4
 pimatic-nut@0.2.0
 pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
@@ -107,7 +107,7 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
 pimatic-websolarlog@0.0.4
-pimatic-wemo@0.0.2
+pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
