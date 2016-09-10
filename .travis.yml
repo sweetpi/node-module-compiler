@@ -107,6 +107,7 @@ env:
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-thinkingcleaner
+  - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
   - MODULE=pimatic-unipi-evok
