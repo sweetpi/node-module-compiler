@@ -29,7 +29,8 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.7.0
+pimatic-hap@0.8.0
+pimatic-harmonyhub@0.0.2
 pimatic-homeduino@0.9.9
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
@@ -99,7 +100,7 @@ pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
-pimatic-tplink-smartplug@0.0.1
+pimatic-tplink-smartplug@0.0.2
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.9

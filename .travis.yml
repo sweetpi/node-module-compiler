@@ -36,6 +36,7 @@ env:
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-gpio
   - MODULE=pimatic-hap
+  - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
   - MODULE=pimatic-hongkongpollution
