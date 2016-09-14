@@ -82,6 +82,7 @@ pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
+pimatic-pushsafer@1.0.0
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2

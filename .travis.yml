@@ -90,6 +90,7 @@ env:
   - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
+  - MODULE=pimatic-pushsafer
   - MODULE=pimatic-quote-of-the-day
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rfxcom
