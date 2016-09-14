@@ -73,7 +73,6 @@ pimatic-orvibo@0.0.2
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-piblaster@0.8.1
-pimatic-ping@0.8.14
 pimatic-pio-remote@0.4.2
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
@@ -91,7 +90,6 @@ pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
-pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-solarview@0.8.6
@@ -102,7 +100,6 @@ pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.2
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.9
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
