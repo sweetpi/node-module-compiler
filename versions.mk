@@ -34,6 +34,7 @@ pimatic-harmonyhub@0.0.2
 pimatic-homeduino@0.9.9
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
+pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.0
 pimatic-iframe@0.1.3
 pimatic-ifttt@0.1.1
