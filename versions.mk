@@ -24,14 +24,14 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.8.8
+pimatic-filter@0.8.9
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.8.0
 pimatic-harmonyhub@0.0.2
-pimatic-homeduino@0.9.9
+pimatic-homeduino@0.9.10
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
