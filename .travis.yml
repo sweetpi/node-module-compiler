@@ -79,6 +79,7 @@ env:
   - MODULE=pimatic-orvibo
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
+  - MODULE=pimatic-owntracks
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
   - MODULE=pimatic-pio-remote
