@@ -31,7 +31,7 @@ pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.8.0
 pimatic-harmonyhub@0.0.2
-pimatic-homeduino@0.9.10
+pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
@@ -66,7 +66,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.8
-pimatic-node-red@0.0.4
+pimatic-node-red@0.0.5
 pimatic-nut@0.2.0
 pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
