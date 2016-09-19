@@ -41,6 +41,7 @@ pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
+pimatic-johnny-five@0.9.3
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
@@ -104,6 +105,7 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.2
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
+pimatic-unipi-evok@0.2.9
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
@@ -113,3 +115,4 @@ pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
+pimatic-z-way@1.3.0
