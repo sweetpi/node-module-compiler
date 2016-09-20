@@ -72,7 +72,7 @@ pimatic-openweather@0.8.23
 pimatic-orvibo@0.0.2
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
-pimatic-owntracks@1.0.1
+pimatic-owntracks@1.0.2
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.4.2
