@@ -30,7 +30,7 @@ pimatic-fritz@0.5.1
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.8.0
-pimatic-harmonyhub@0.0.4
+pimatic-harmonyhub@0.0.5
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.0
 pimatic-hongkongpollution@0.0.1
