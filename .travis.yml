@@ -74,6 +74,7 @@ env:
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-node-red
+  - MODULE=pimatic-nuki
   - MODULE=pimatic-nut
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo

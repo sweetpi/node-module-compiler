@@ -1,6 +1,6 @@
-pimatic@0.9.33
+pimatic@0.9.34
 pimatic-alarm@0.1.1
-pimatic-amazing-dash-button@0.9.5
+pimatic-amazing-dash-button@0.9.7
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.8.2
@@ -13,7 +13,7 @@ pimatic-can@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.1.0
-pimatic-denon-avr@0.9.0
+pimatic-denon-avr@0.9.1
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
 pimatic-diy-controls@0.0.1
@@ -67,8 +67,9 @@ pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.8
 pimatic-node-red@0.0.5
+pimatic-nuki@0.9.0
 pimatic-nut@0.2.0
-pimatic-openweather@0.9.0
+pimatic-openweather@0.9.1
 pimatic-orvibo@0.0.2
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
