@@ -119,6 +119,7 @@ env:
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-wakeonlan
+  - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wemo
   - MODULE=pimatic-wink

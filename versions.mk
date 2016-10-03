@@ -76,7 +76,7 @@ pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
-pimatic-pio-remote@0.4.2
+pimatic-pio-remote@0.5.1
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-probe@0.2.5
@@ -111,6 +111,7 @@ pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-wakeonlan@0.9.1
+pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
