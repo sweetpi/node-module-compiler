@@ -67,7 +67,7 @@ pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.8
 pimatic-node-red@0.0.5
-pimatic-nuki@0.9.0
+pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-openweather@0.9.1
 pimatic-orvibo@0.0.2
