@@ -115,6 +115,7 @@ pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
+pimatic-yamaha-avr@0.9.0-pre1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.2

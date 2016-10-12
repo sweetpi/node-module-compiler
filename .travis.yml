@@ -123,6 +123,7 @@ env:
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wemo
   - MODULE=pimatic-wink
+  - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless
   - MODULE=pimatic-z-way
