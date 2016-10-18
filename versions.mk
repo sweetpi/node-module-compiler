@@ -1,6 +1,6 @@
 pimatic@0.9.34
 pimatic-alarm@0.1.1
-pimatic-amazing-dash-button@0.9.8
+pimatic-amazing-dash-button@0.9.9
 pimatic-angular-material-frontend@0.3.1
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
@@ -12,7 +12,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
-pimatic-dash-button@0.1.0
+pimatic-dash-button@0.2.0
 pimatic-denon-avr@0.9.1
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
@@ -51,7 +51,7 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.4
 pimatic-log-reader@0.9.0
 pimatic-mail@0.8.6
-pimatic-max@0.8.17
+pimatic-max@0.8.18
 pimatic-maxcul@0.9.0
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
@@ -61,7 +61,7 @@ pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
-pimatic-mqtt@0.9.1
+pimatic-mqtt@0.9.2
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
@@ -84,7 +84,7 @@ pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
-pimatic-pushsafer@1.0.0
+pimatic-pushsafer@1.0.2
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
@@ -115,7 +115,7 @@ pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
-pimatic-yamaha-avr@0.9.0-pre1
+pimatic-yamaha-avr@0.9.0-pre3
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.2
