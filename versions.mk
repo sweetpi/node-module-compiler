@@ -13,7 +13,7 @@ pimatic-can@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
-pimatic-denon-avr@0.9.1
+pimatic-denon-avr@0.9.2
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.8.6
 pimatic-diy-controls@0.0.1
@@ -70,7 +70,7 @@ pimatic-node-red@0.0.5
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-openweather@0.9.1
-pimatic-orvibo@0.0.2
+pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
@@ -115,7 +115,7 @@ pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
-pimatic-yamaha-avr@0.9.0-pre3
+pimatic-yamaha-avr@0.9.0
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.2
