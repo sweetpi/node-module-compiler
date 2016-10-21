@@ -6,7 +6,6 @@ pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
 pimatic-ble@0.8.0
-pimatic-bluebean@0.8.0
 pimatic-bmp180@2.0.1
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
@@ -82,13 +81,11 @@ pimatic-plex@0.0.6
 pimatic-probe@0.2.6
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
-pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.0
 pimatic-pushsafer@1.0.2
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
-pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.8.22
 pimatic-sispmctl@0.8.6
@@ -97,7 +94,6 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
