@@ -52,7 +52,7 @@ pimatic-location@0.2.4
 pimatic-log-reader@0.9.0
 pimatic-mail@0.8.6
 pimatic-max@0.8.18
-pimatic-maxcul@0.9.0
+pimatic-maxcul@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.9.11
@@ -66,7 +66,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
 pimatic-mythermostat@0.0.1
 pimatic-netatmo@0.0.8
-pimatic-node-red@0.0.5
+pimatic-node-red@0.0.6
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-openweather@0.9.1
@@ -103,14 +103,14 @@ pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-thinkingcleaner@0.8.6
-pimatic-tplink-smartplug@0.0.2
+pimatic-tplink-smartplug@0.0.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.9
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
-pimatic-wakeonlan@0.9.1
+pimatic-wakeonlan@0.9.3
 pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
