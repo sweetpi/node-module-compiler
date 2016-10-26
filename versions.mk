@@ -52,7 +52,7 @@ pimatic-location@0.2.4
 pimatic-log-reader@0.9.0
 pimatic-mail@0.8.6
 pimatic-max@0.8.18
-pimatic-maxcul@0.9.1
+pimatic-maxcul@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
 pimatic-mobile-frontend@0.9.11
@@ -69,7 +69,7 @@ pimatic-netatmo@0.0.8
 pimatic-node-red@0.0.6
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
-pimatic-openweather@0.9.1
+pimatic-openweather@0.9.3
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
