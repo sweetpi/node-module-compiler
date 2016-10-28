@@ -26,7 +26,7 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.8.9
 pimatic-foscam@0.8.9
-pimatic-fritz@0.5.1
+pimatic-fritz@0.5.2
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.8.0
@@ -41,7 +41,7 @@ pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
-pimatic-johnny-five@0.9.3
+pimatic-johnny-five@0.9.4
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
