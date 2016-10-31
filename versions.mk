@@ -15,7 +15,7 @@ pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
 pimatic-denon-avr@0.9.3
 pimatic-dewpoint@0.9.0
-pimatic-dht-sensors@0.8.6
+pimatic-dht-sensors@0.9.2
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
