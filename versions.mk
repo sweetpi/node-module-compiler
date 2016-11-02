@@ -1,4 +1,4 @@
-pimatic@0.9.34
+pimatic@0.9.35
 pimatic-alarm@0.1.1
 pimatic-amazing-dash-button@0.9.9
 pimatic-angular-material-frontend@0.3.1
@@ -29,7 +29,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.2
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.8.0
+pimatic-hap@0.8.2
 pimatic-harmonyhub@0.0.5
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.0
@@ -83,7 +83,7 @@ pimatic-probe@0.2.6
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
-pimatic-pushover@0.9.0
+pimatic-pushover@0.9.1
 pimatic-pushsafer@1.0.2
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
@@ -116,7 +116,7 @@ pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.2
-pimatic-yamaha-avr@0.9.0
+pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.2
