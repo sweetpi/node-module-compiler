@@ -59,6 +59,7 @@ env:
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
   - MODULE=pimatic-maxcul
+  - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
   - MODULE=pimatic-milight-reloaded
   - MODULE=pimatic-mobile-frontend
