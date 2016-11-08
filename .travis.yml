@@ -106,6 +106,7 @@ env:
   - MODULE=pimatic-smartmeter-old
   - MODULE=pimatic-smartmeter2
   - MODULE=pimatic-sms
+  - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
   - MODULE=pimatic-solvisremote
   - MODULE=pimatic-sonos

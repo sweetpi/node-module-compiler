@@ -29,7 +29,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.2
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.8.3
+pimatic-hap@0.9.0
 pimatic-harmonyhub@0.0.5
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.0
@@ -98,6 +98,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
+pimatic-snmp@0.1.1
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
@@ -116,7 +117,7 @@ pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
-pimatic-wmi@0.1.6
+pimatic-wmi@0.1.7
 pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
