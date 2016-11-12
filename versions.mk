@@ -42,6 +42,7 @@ pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.6
+pimatic-knmi-weather@0.9.0
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
@@ -51,8 +52,8 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.4
 pimatic-log-reader@0.9.0
 pimatic-mail@0.8.6
-pimatic-max@0.8.18
-pimatic-maxcul@0.9.2
+pimatic-max@0.8.19
+pimatic-maxcul@0.9.3
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
@@ -85,7 +86,7 @@ pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.2
-pimatic-pushsafer@1.0.2
+pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.6
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
