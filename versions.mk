@@ -1,4 +1,4 @@
-pimatic@0.9.35
+pimatic@0.9.36
 pimatic-alarm@0.1.1
 pimatic-amazing-dash-button@0.9.10
 pimatic-angular-material-frontend@0.3.1
@@ -42,7 +42,7 @@ pimatic-intergasincomfort@0.2.3
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.6
-pimatic-knmi-weather@0.9.0
+pimatic-knmi-weather@0.9.1
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
 pimatic-led-light@0.3.5
