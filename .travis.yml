@@ -127,6 +127,7 @@ env:
   - MODULE=pimatic-wemo
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
+  - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless
