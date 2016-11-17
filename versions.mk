@@ -30,7 +30,7 @@ pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.9.0
-pimatic-harmonyhub@0.0.5
+pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
 pimatic-hongkongpollution@0.0.1
@@ -53,7 +53,7 @@ pimatic-location@0.2.4
 pimatic-log-reader@0.9.0
 pimatic-mail@0.8.6
 pimatic-max@0.8.19
-pimatic-maxcul@0.9.3
+pimatic-maxcul@0.9.4
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.2
@@ -99,7 +99,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-snmp@0.1.3
+pimatic-snmp@0.2.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
