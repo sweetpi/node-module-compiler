@@ -24,7 +24,7 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.8.9
+pimatic-filter@0.9.0
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
@@ -56,7 +56,7 @@ pimatic-max@0.8.19
 pimatic-maxcul@0.9.4
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
-pimatic-milight-reloaded@0.9.2
+pimatic-milight-reloaded@0.9.3
 pimatic-mobile-frontend@0.9.11
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
@@ -66,7 +66,7 @@ pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.4
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.34
-pimatic-mythermostat@0.0.1
+pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.8
 pimatic-node-red@0.0.6
 pimatic-nuki@0.9.1
@@ -99,7 +99,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-snmp@0.2.0
+pimatic-snmp@0.2.1
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
