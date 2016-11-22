@@ -50,7 +50,7 @@ pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.4
-pimatic-log-reader@0.9.0
+pimatic-log-reader@0.9.1
 pimatic-mail@0.8.6
 pimatic-max@0.8.19
 pimatic-maxcul@0.9.4
