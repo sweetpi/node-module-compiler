@@ -1,4 +1,4 @@
-pimatic@0.9.36
+pimatic@0.9.37
 pimatic-alarm@0.1.1
 pimatic-amazing-dash-button@0.9.10
 pimatic-angular-material-frontend@0.3.1
@@ -87,7 +87,7 @@ pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.2
 pimatic-pushsafer@1.0.3
-pimatic-quote-of-the-day@1.0.6
+pimatic-quote-of-the-day@1.0.7
 pimatic-rflink@0.6.0
 pimatic-rfxcom@0.8.2
 pimatic-sensibo@0.9.0-a.4
@@ -124,4 +124,4 @@ pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.4.2
 pimatic-z-way@1.3.2
-pimatic-zwave-usb@0.0.1
+pimatic-zwave-usb@0.0.2
