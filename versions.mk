@@ -65,7 +65,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.4
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.34
+pimatic-mysensors@0.8.35
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.8
 pimatic-node-red@0.0.6
