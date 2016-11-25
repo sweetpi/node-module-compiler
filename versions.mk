@@ -53,7 +53,7 @@ pimatic-location@0.2.4
 pimatic-log-reader@0.9.1
 pimatic-mail@0.8.6
 pimatic-max@0.8.19
-pimatic-maxcul@0.9.4
+pimatic-maxcul@0.9.5
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.3
