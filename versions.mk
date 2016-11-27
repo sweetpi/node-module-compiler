@@ -8,6 +8,7 @@ pimatic-bh1750@0.2.0
 pimatic-ble@0.8.0
 pimatic-bluebean@0.8.0
 pimatic-bmp180@2.0.1
+pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-coc@0.9.0
