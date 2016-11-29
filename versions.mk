@@ -25,12 +25,12 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.9.0
+pimatic-filter@0.9.1
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.9.0
+pimatic-hap@0.9.1
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
@@ -120,9 +120,9 @@ pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
-pimatic-xmpp@0.0.3
+pimatic-xmpp@0.0.4
 pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
-pimatic-youless@0.4.2
+pimatic-youless@0.5.0
 pimatic-z-way@1.3.2
 pimatic-zwave-usb@0.0.2
