@@ -84,6 +84,7 @@ env:
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
   - MODULE=pimatic-owntracks
+  - MODULE=pimatic-phone
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
   - MODULE=pimatic-pio-remote

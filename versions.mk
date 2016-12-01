@@ -77,6 +77,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
+pimatic-phone@0.1.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.1
@@ -120,7 +121,7 @@ pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
-pimatic-xmpp@0.0.4
+pimatic-xmpp@0.0.6
 pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
