@@ -1,7 +1,7 @@
 pimatic@0.9.37
 pimatic-alarm@0.1.1
-pimatic-amazing-dash-button@0.9.10
-pimatic-angular-material-frontend@0.3.1
+pimatic-amazing-dash-button@0.9.11
+pimatic-angular-material-frontend@0.3.2
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
@@ -11,6 +11,7 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
+pimatic-chronotherm@0.9.6
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
@@ -30,7 +31,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.9.1
+pimatic-hap@0.9.2
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
@@ -77,7 +78,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
-pimatic-phone@0.1.0
+pimatic-phone@0.4.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.1
@@ -101,7 +102,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-snmp@0.2.1
+pimatic-snmp@0.3.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
