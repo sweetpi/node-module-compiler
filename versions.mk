@@ -11,7 +11,7 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-chronotherm@0.9.6
+pimatic-chronotherm@0.9.6-1
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
@@ -65,7 +65,7 @@ pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
-pimatic-mqtt@0.9.4
+pimatic-mqtt@0.9.5
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.35
 pimatic-mythermostat@0.0.3
@@ -78,7 +78,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
-pimatic-phone@0.4.0
+pimatic-phone@0.4.1
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.1
