@@ -102,7 +102,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-snmp@0.3.0
+pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
@@ -116,6 +116,7 @@ pimatic-unipi-evok@0.2.10
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
+pimatic-vsphere@0.1.1
 pimatic-wakeonlan@0.9.3
 pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.4

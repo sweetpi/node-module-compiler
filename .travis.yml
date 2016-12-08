@@ -124,6 +124,7 @@ env:
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
+  - MODULE=pimatic-vsphere
   - MODULE=pimatic-wakeonlan
   - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-websolarlog
