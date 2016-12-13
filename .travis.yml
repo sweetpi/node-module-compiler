@@ -5,6 +5,7 @@ env:
   matrix:
   - MODULE=pimatic
   - MODULE=pimatic-alarm
+  - MODULE=pimatic-alert
   - MODULE=pimatic-amazing-dash-button
   - MODULE=pimatic-angular-material-frontend
   - MODULE=pimatic-anymote

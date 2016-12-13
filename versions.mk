@@ -1,5 +1,6 @@
 pimatic@0.9.37
 pimatic-alarm@0.1.1
+pimatic-alert@0.2.2
 pimatic-amazing-dash-button@0.9.11
 pimatic-angular-material-frontend@0.3.2
 pimatic-anymote@0.1.1
@@ -11,7 +12,7 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-chronotherm@0.9.6-1
+pimatic-chronotherm@0.9.6-2
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
@@ -40,7 +41,7 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.0
 pimatic-iframe@0.2.0
 pimatic-ifttt@0.1.1
-pimatic-intergasincomfort@0.2.3
+pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.6
@@ -78,7 +79,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
-pimatic-phone@0.4.2
+pimatic-phone@0.4.3
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.1
@@ -91,7 +92,7 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.2
 pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.7
-pimatic-rflink@0.6.0
+pimatic-rflink@0.7.0
 pimatic-rfxcom@0.8.2
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
