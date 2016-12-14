@@ -1,5 +1,6 @@
 pimatic@0.9.37
 pimatic-alarm@0.1.1
+pimatic-alert@0.2.3
 pimatic-amazing-dash-button@0.9.11
 pimatic-angular-material-frontend@0.3.2
 pimatic-anymote@0.1.1
