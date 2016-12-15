@@ -117,6 +117,7 @@ env:
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
+  - MODULE=pimatic-telegram
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-uber
