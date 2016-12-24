@@ -28,6 +28,7 @@ env:
   - MODULE=pimatic-diy-controls
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-easybox
+  - MODULE=pimatic-echo
   - MODULE=pimatic-edimax
   - MODULE=pimatic-emon
   - MODULE=pimatic-enigma2

@@ -1,6 +1,6 @@
 pimatic@0.9.37
 pimatic-alarm@0.2.0
-pimatic-alert@0.3.5
+pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.11
 pimatic-angular-material-frontend@0.3.2
 pimatic-anymote@0.1.1
@@ -22,6 +22,7 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
+pimatic-echo@0.0.1
 pimatic-edimax@0.3.14
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
@@ -79,7 +80,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
-pimatic-phone@0.4.4
+pimatic-phone@0.4.5
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.2
@@ -109,7 +110,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.0.2
+pimatic-telegram@1.0.4
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.5
 pimatic-uber@1.0.0
