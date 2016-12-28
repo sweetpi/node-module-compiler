@@ -2,7 +2,7 @@ pimatic@0.9.37
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.11
-pimatic-angular-material-frontend@0.3.2
+pimatic-angular-material-frontend@0.3.3
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
@@ -22,13 +22,13 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-echo@0.0.1
+pimatic-echo@0.0.4
 pimatic-edimax@0.3.14
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.9.1
+pimatic-filter@0.9.2
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
@@ -80,7 +80,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owntracks@1.0.2
-pimatic-phone@0.4.5
+pimatic-phone@0.4.6
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.2
@@ -97,7 +97,7 @@ pimatic-rflink@0.7.0
 pimatic-rfxcom@0.8.2
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.8.22
+pimatic-shell-execute@0.9.8
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
@@ -110,7 +110,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.0.4
+pimatic-telegram@1.0.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.5
 pimatic-uber@1.0.0
