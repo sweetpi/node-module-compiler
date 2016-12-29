@@ -28,12 +28,12 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.9.2
+pimatic-filter@0.9.3
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.9.2
+pimatic-hap@0.9.3
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
@@ -61,6 +61,7 @@ pimatic-maxcul@0.9.5
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.3
+pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.11
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
@@ -110,7 +111,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.0.6
+pimatic-telegram@1.0.8
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.5
 pimatic-uber@1.0.0
