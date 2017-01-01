@@ -87,6 +87,7 @@ env:
   - MODULE=pimatic-orvibo
   - MODULE=pimatic-otgw
   - MODULE=pimatic-ouimeaux
+  - MODULE=pimatic-owjs
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-phone
   - MODULE=pimatic-piblaster
