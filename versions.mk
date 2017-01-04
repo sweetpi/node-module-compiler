@@ -22,7 +22,7 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-easybox@0.1.2
-pimatic-echo@0.0.4
+pimatic-echo@0.0.5
 pimatic-edimax@0.3.14
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
@@ -33,7 +33,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.3
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
-pimatic-hap@0.9.3
+pimatic-hap@0.9.4
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
@@ -49,7 +49,7 @@ pimatic-johnny-five@0.9.6
 pimatic-knmi-weather@0.9.1
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
-pimatic-led-light@0.3.5
+pimatic-led-light@0.9.3
 pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.2.0
@@ -92,7 +92,7 @@ pimatic-probe@0.2.6
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
-pimatic-pushover@0.9.2
+pimatic-pushover@0.9.3
 pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.7
 pimatic-rflink@0.7.0
@@ -128,7 +128,7 @@ pimatic-websolarlog@0.0.4
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
-pimatic-xmpp@0.0.6
+pimatic-xmpp@0.0.7
 pimatic-yamaha-avr@0.9.1
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
