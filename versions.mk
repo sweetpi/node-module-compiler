@@ -1,4 +1,4 @@
-pimatic@0.9.37
+pimatic@0.9.38
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.11
@@ -72,11 +72,11 @@ pimatic-mqtt@0.9.5
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.8.35
 pimatic-mythermostat@0.0.3
-pimatic-netatmo@0.0.8
+pimatic-netatmo@0.0.9
 pimatic-node-red@0.0.6
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
-pimatic-openweather@0.9.3
+pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
@@ -112,9 +112,9 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.0.8
+pimatic-telegram@1.1.1
 pimatic-thinkingcleaner@0.8.6
-pimatic-tplink-smartplug@0.0.5
+pimatic-tplink-smartplug@0.0.7
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.10
