@@ -12,7 +12,7 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-chronotherm@0.9.74
+pimatic-chronotherm@0.9.8
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
