@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-diy-controls
   - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-dwd
   - MODULE=pimatic-easybox
   - MODULE=pimatic-echo
   - MODULE=pimatic-edimax
