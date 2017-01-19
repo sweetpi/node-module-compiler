@@ -12,7 +12,7 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-chronotherm@0.9.8
+pimatic-chronotherm@0.9.8-1
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-dash-button@0.2.0
@@ -46,7 +46,7 @@ pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
-pimatic-johnny-five@0.9.7
+pimatic-johnny-five@0.9.9
 pimatic-knmi-weather@0.9.1
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
@@ -113,7 +113,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.1.2
+pimatic-telegram@1.1.3
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-uber@1.0.0
