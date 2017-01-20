@@ -97,7 +97,7 @@ pimatic-pushover@0.9.3
 pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.7
 pimatic-rflink@0.7.0
-pimatic-rfxcom@0.8.2
+pimatic-rfxcom@1.0.1
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.9.8
@@ -113,7 +113,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
-pimatic-telegram@1.1.3
+pimatic-telegram@1.1.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-uber@1.0.0
