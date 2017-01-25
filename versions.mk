@@ -21,7 +21,7 @@ pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
-pimatic-dwd@0.1.0
+pimatic-dwd@0.1.1
 pimatic-easybox@0.1.2
 pimatic-echo@0.0.5
 pimatic-edimax@0.3.15
@@ -50,7 +50,7 @@ pimatic-johnny-five@0.9.11
 pimatic-knmi-weather@0.9.1
 pimatic-kodi@0.1.6
 pimatic-lcd@0.8.3
-pimatic-led-light@0.9.4
+pimatic-led-light@0.9.5
 pimatic-links@0.8.6
 pimatic-lirc@0.0.2
 pimatic-lm-sensors@0.2.0
@@ -83,7 +83,7 @@ pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.5
 pimatic-owntracks@1.0.2
-pimatic-phone@0.4.7
+pimatic-phone@0.5.0
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.2
