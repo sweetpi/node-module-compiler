@@ -15,6 +15,7 @@ pimatic-can@0.1.3
 pimatic-chronotherm@0.9.8-1
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
+pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.0
 pimatic-denon-avr@0.9.3
 pimatic-dewpoint@0.9.0
@@ -48,7 +49,7 @@ pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.11
 pimatic-knmi-weather@0.9.1
-pimatic-kodi@0.1.6
+pimatic-kodi@0.1.8
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-links@0.8.6
