@@ -48,7 +48,7 @@ pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.11
-pimatic-knmi-weather@0.9.1
+pimatic-knmi-weather@0.9.2
 pimatic-kodi@0.1.8
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
