@@ -24,7 +24,7 @@ pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.1.1
 pimatic-easybox@0.1.2
-pimatic-echo@0.0.5
+pimatic-echo@0.0.6
 pimatic-edimax@0.3.15
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
