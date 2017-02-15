@@ -3,11 +3,13 @@ node_js:
 - '0.10'
 env:
   matrix:
+  - MODULE=pimatic
   - MODULE=pimatic-alarm
   - MODULE=pimatic-alert
   - MODULE=pimatic-amazing-dash-button
   - MODULE=pimatic-angular-material-frontend
   - MODULE=pimatic-anymote
+  - MODULE=pimatic-arduino-updater
   - MODULE=pimatic-athome
   - MODULE=pimatic-bh1750
   - MODULE=pimatic-ble
@@ -70,6 +72,7 @@ env:
   - MODULE=pimatic-mjpg
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
+  - MODULE=pimatic-mochad-monitor
   - MODULE=pimatic-mochad-simple
   - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
@@ -94,6 +97,7 @@ env:
   - MODULE=pimatic-pio-remote
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
+  - MODULE=pimatic-plugin-ethboard
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
   - MODULE=pimatic-ps4waker
