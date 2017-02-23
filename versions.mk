@@ -1,4 +1,3 @@
-pimatic@0.9.38
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.11
@@ -47,7 +46,6 @@ pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
-pimatic-johnny-five@0.9.11
 pimatic-knmi-weather@0.9.2
 pimatic-kodi@0.1.8
 pimatic-lcd@0.8.3
@@ -64,7 +62,6 @@ pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.3
 pimatic-mjpg@0.0.1
-pimatic-mobile-frontend@0.9.11
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
@@ -84,7 +81,6 @@ pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.5
 pimatic-owntracks@1.0.2
-pimatic-phone@0.8.3
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.2
@@ -108,18 +104,14 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
-pimatic-snmp@0.4.0
-pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
-pimatic-sysinfo@0.8.14
 pimatic-telegram@1.1.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
-pimatic-unipi-evok@0.2.10
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
@@ -132,7 +124,4 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-xmpp@0.0.7
 pimatic-yamaha-avr@0.9.1
-pimatic-yoctopuce@1.0.7
-pimatic-youless@0.5.0
 pimatic-z-way@1.4.2
-pimatic-zwave-usb@0.0.5
