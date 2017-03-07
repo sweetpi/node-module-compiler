@@ -17,7 +17,7 @@ pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.0
-pimatic-denon-avr@0.9.5
+pimatic-denon-avr@0.9.6
 pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
