@@ -54,7 +54,7 @@ pimatic-kodi@0.1.8
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-links@0.8.6
-pimatic-lirc@0.0.2
+pimatic-lirc@0.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
