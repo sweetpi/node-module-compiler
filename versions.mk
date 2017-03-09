@@ -12,7 +12,6 @@ pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
-pimatic-chronotherm@0.9.8-1
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-customcss@0.1.0
@@ -33,7 +32,6 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.3
 pimatic-foscam@0.8.9
-pimatic-fritz@0.5.5
 pimatic-fronius-solar@0.0.16
 pimatic-gpio@0.8.15
 pimatic-hap@0.9.5
@@ -73,7 +71,6 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.5
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.8.35
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
 pimatic-node-red@0.0.8
@@ -98,13 +95,11 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.3
 pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.7
-pimatic-rflink@0.7.0
 pimatic-rfxcom@1.0.4
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.9.8
 pimatic-sispmctl@0.8.6
-pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
