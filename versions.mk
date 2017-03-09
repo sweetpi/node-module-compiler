@@ -7,7 +7,6 @@ pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
 pimatic-ble@0.8.0
-pimatic-bluebean@0.8.0
 pimatic-bmp180@2.0.1
 pimatic-buienradar@0.1.0
 pimatic-calendar@0.8.0
@@ -23,11 +22,9 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.1.1
-pimatic-dwd-weather@0.9.0
 pimatic-easybox@0.1.2
 pimatic-echo@0.0.6
 pimatic-edimax@0.3.15
-pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
@@ -39,7 +36,6 @@ pimatic-gpio@0.8.15
 pimatic-hap@0.9.5
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
-pimatic-homegear@0.1.1
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.0
@@ -47,11 +43,9 @@ pimatic-iframe@0.2.0
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.11
 pimatic-knmi-weather@0.9.2
 pimatic-kodi@0.1.8
-pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
@@ -59,8 +53,6 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
 pimatic-mail@0.8.6
-pimatic-max@0.8.19
-pimatic-maxcul@0.9.5
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.3
@@ -111,15 +103,12 @@ pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.5
-pimatic-sonos@0.1.1
 pimatic-sunrise@0.8.7
 pimatic-sysinfo@0.8.14
 pimatic-telegram@1.1.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.9.0
 pimatic-unipi-evok@0.2.10
 pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
