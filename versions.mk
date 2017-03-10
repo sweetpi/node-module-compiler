@@ -91,7 +91,7 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.2
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
-pimatic-probe@0.2.6
+pimatic-probe@0.2.7
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
