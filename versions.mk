@@ -60,7 +60,7 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
 pimatic-mail@0.8.6
-pimatic-max@0.8.19
+pimatic-max@0.9.0
 pimatic-maxcul@0.9.5
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
