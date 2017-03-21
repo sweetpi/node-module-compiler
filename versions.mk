@@ -129,7 +129,7 @@ pimatic-volkszaehler@0.3.1
 pimatic-vsphere@0.1.1
 pimatic-wakeonlan@0.9.3
 pimatic-watchdog-unix@0.0.1
-pimatic-websolarlog@0.0.4
+pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
