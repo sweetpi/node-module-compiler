@@ -35,7 +35,7 @@ pimatic-filter@0.9.3
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.5
 pimatic-fronius-solar@0.0.16
-pimatic-google-calendar@0.2.4
+pimatic-google-calendar@0.2.6
 pimatic-gpio@0.8.15
 pimatic-hap@0.10.0
 pimatic-harmonyhub@0.0.6
