@@ -134,7 +134,7 @@ pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-xmpp@0.0.7
-pimatic-yamaha-avr@0.9.2
+pimatic-yamaha-avr@0.9.3
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.2
