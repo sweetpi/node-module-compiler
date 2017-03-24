@@ -138,4 +138,4 @@ pimatic-yamaha-avr@0.9.3
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.2
-pimatic-zwave-usb@0.0.8
+pimatic-zwave-usb@0.0.9
