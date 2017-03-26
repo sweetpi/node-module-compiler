@@ -101,7 +101,7 @@ pimatic-pushsafer@1.0.3
 pimatic-quote-of-the-day@1.0.7
 pimatic-rflink@0.7.0
 pimatic-rfxcom@1.0.4
-pimatic-rpi433@0.0.2
+pimatic-rpi433@0.0.3
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.9.8
