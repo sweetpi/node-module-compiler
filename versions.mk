@@ -128,7 +128,7 @@ pimatic-upnp-root@0.8.9
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vsphere@0.1.1
-pimatic-wakeonlan@0.9.3
+pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
