@@ -65,6 +65,7 @@ env:
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
+  - MODULE=pimatic-luxtronik2
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
   - MODULE=pimatic-maxcul

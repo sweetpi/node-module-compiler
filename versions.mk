@@ -59,6 +59,7 @@ pimatic-lirc@0.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
+pimatic-luxtronik2@0.0.2
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@0.9.5
