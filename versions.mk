@@ -86,6 +86,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.5
+pimatic-owntracks@1.0.2
 pimatic-phone@0.9.6
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
@@ -138,4 +139,5 @@ pimatic-xmpp@0.0.7
 pimatic-yamaha-avr@0.9.3
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
+pimatic-z-way@1.4.2
 pimatic-zwave-usb@0.0.9
