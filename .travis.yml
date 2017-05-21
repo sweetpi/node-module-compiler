@@ -101,6 +101,7 @@ env:
   - MODULE=pimatic-pio-remote
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
+  - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
   - MODULE=pimatic-ps4waker
