@@ -90,7 +90,7 @@ pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.5
 pimatic-owntracks@1.0.2
-pimatic-pcf8574@1.0.0
+pimatic-pcf8574@1.0.1
 pimatic-phone@0.9.6
 pimatic-piblaster@0.8.1
 pimatic-ping@0.8.14
