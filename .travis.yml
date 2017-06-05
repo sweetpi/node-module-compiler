@@ -15,6 +15,7 @@ env:
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-bme280
   - MODULE=pimatic-bmp180
+  - MODULE=pimatic-bmp280
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-can
