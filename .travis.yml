@@ -111,6 +111,7 @@ env:
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
   - MODULE=pimatic-quote-of-the-day
+  - MODULE=pimatic-radiohead
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rfxcom
   - MODULE=pimatic-rpi433
