@@ -90,6 +90,7 @@ env:
   - MODULE=pimatic-node-red
   - MODULE=pimatic-nuki
   - MODULE=pimatic-nut
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
   - MODULE=pimatic-otgw
