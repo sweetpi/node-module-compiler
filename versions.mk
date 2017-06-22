@@ -36,7 +36,7 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.3
 pimatic-foscam@0.8.9
-pimatic-fritz@0.5.5
+pimatic-fritz@0.5.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.8.15
