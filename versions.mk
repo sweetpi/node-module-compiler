@@ -82,7 +82,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.0
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
-pimatic-node-red@1.0.2
+pimatic-node-red@1.0.3
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-onkyo@0.2.0
