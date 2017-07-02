@@ -114,7 +114,7 @@ pimatic-rpi433@0.0.3
 pimatic-samsung-tv@0.9.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
-pimatic-shell-execute@0.9.10
+pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
