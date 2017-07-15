@@ -100,7 +100,7 @@ pimatic-pio-remote@0.5.2
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.15.0
-pimatic-probe@0.2.7
+pimatic-probe@0.3.0
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
