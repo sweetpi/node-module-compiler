@@ -34,7 +34,6 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.9.3
 pimatic-foscam@0.8.9
 pimatic-fritz@0.5.6
 pimatic-fronius-solar@0.0.17
@@ -122,7 +121,6 @@ pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
-pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
