@@ -89,6 +89,7 @@ pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-onkyo@0.2.0
 pimatic-openweather@0.9.4
+pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.6
@@ -121,6 +122,7 @@ pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
+pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
