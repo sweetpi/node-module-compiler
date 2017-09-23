@@ -114,6 +114,7 @@ pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.0.3
 pimatic-samsung-tv@0.9.0
+pimatic-samsung-tv-2016@0.2.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-shell-execute@0.9.11
