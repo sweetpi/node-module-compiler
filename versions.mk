@@ -84,7 +84,7 @@ pimatic-mysensors@0.9.0
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.0.2
-pimatic-node-red@1.0.6
+pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-onkyo@0.2.0
