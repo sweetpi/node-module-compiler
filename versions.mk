@@ -67,7 +67,7 @@ pimatic-log-reader@0.9.1
 pimatic-luxtronik2@0.0.2
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
-pimatic-maxcul@0.9.5
+pimatic-maxcul@0.9.6
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.14
