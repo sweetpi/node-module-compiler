@@ -134,7 +134,7 @@ pimatic-sysinfo@0.8.14
 pimatic-telegram@1.1.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
-pimatic-tradfri@0.1.11
+pimatic-tradfri@0.1.12
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.0
 pimatic-unieq-box@0.9.0
