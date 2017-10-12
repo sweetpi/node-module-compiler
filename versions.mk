@@ -40,7 +40,7 @@ pimatic-fritz@0.5.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.0
-pimatic-hap@0.10.0
+pimatic-hap@0.11.0
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
