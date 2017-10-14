@@ -153,6 +153,7 @@ env:
   - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wemo
+  - MODULE=pimatic-wifiswitch
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
   - MODULE=pimatic-xmpp
