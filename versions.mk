@@ -148,6 +148,7 @@ pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
+pimatic-wifiswitch@0.0.1
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-xmpp@0.0.10
