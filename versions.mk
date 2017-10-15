@@ -136,7 +136,7 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.13
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.9.0
+pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.2.10
 pimatic-upnp-root@0.8.9
