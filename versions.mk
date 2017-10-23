@@ -39,7 +39,6 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.5.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
-pimatic-gpio@0.9.0
 pimatic-hap@0.11.0
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
@@ -71,7 +70,6 @@ pimatic-maxcul@0.9.7
 pimatic-metar-weather@0.9.1
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.14
-pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
@@ -144,11 +142,8 @@ pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
-pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
-pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
-pimatic-wifiswitch@0.0.2
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-xmpp@0.0.10
