@@ -19,6 +19,7 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-can
+  - MODULE=pimatic-charts
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
