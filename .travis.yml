@@ -153,6 +153,7 @@ env:
   - MODULE=pimatic-vvo
   - MODULE=pimatic-wakeonlan
   - MODULE=pimatic-watchdog-unix
+  - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wemo
   - MODULE=pimatic-wifiswitch
