@@ -141,6 +141,7 @@ env:
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
+  - MODULE=pimatic-tv-program
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
   - MODULE=pimatic-unieq-box
