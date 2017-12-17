@@ -6,7 +6,7 @@ pimatic-angular-material-frontend@0.3.3
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
-pimatic-ble@0.8.0
+pimatic-ble@0.9.2
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.2
 pimatic-bmp180@2.0.1
