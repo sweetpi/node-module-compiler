@@ -125,6 +125,7 @@ env:
   - MODULE=pimatic-samsung-tv-2016
   - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
+  - MODULE=pimatic-serial
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-slack
