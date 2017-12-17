@@ -126,6 +126,8 @@ env:
   - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-serial
+  - MODULE=pimatic-serial-benqbeamer
+  - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-slack
