@@ -32,7 +32,7 @@ pimatic-dwd@0.1.1
 pimatic-dwd-weather@0.9.3
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.2
-pimatic-edimax@0.3.18
+pimatic-edimax@0.3.19
 pimatic-efergye2@0.9.6
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
