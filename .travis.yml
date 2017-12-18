@@ -31,6 +31,7 @@ env:
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-diy-controls
+  - MODULE=pimatic-dlnacasts
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dwd
   - MODULE=pimatic-dwd-weather
