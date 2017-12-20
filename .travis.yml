@@ -71,6 +71,7 @@ env:
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
   - MODULE=pimatic-lirc
+  - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
