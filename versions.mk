@@ -27,7 +27,7 @@ pimatic-dewpoint@0.9.0
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
-pimatic-dooya@0.0.1
+pimatic-dooya@0.0.2
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.1.1
 pimatic-dwd-weather@0.9.3
