@@ -147,7 +147,7 @@ pimatic-telegram@1.1.6
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.17
-pimatic-tv-program@0.0.5
+pimatic-tv-program@0.1.0
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
