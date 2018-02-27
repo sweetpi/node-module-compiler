@@ -22,6 +22,7 @@ env:
   - MODULE=pimatic-calendar
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
+  - MODULE=pimatic-check-alive
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
