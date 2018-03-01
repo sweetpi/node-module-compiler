@@ -21,7 +21,7 @@ pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
-pimatic-css-inject@0.0.1
+pimatic-css-inject@0.0.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-denon-avr@0.9.10
