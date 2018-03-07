@@ -1,10 +1,12 @@
 pimatic@0.9.42
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
+pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
+pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -17,6 +19,7 @@ pimatic-can@0.1.3
 pimatic-charts@0.0.3
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
+pimatic-climasens@0.1.0
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
@@ -31,6 +34,7 @@ pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.1.1
 pimatic-dwd-weather@0.9.4
+pimatic-easybox@0.1.2
 pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
 pimatic-efergye2@0.9.6
