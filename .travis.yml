@@ -9,6 +9,7 @@ env:
   - MODULE=pimatic-amazing-dash-button
   - MODULE=pimatic-angular-material-frontend
   - MODULE=pimatic-anymote
+  - MODULE=pimatic-aqara
   - MODULE=pimatic-athome
   - MODULE=pimatic-bh1750
   - MODULE=pimatic-ble
