@@ -94,6 +94,7 @@ pimatic-mqtt@0.9.9
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.0
 pimatic-mythermostat@0.0.3
+pimatic-nefit@0.1.0
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
 pimatic-node-red@1.0.7
