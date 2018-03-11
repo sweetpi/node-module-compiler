@@ -4,7 +4,7 @@ pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
-pimatic-aqara@0.2.8
+pimatic-aqara@0.2.9
 pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
