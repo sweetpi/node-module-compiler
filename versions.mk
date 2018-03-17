@@ -116,6 +116,7 @@ pimatic-pio-remote@0.5.2
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
+pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
@@ -127,6 +128,7 @@ pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
+pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
@@ -153,6 +155,7 @@ pimatic-tradfri@0.1.17
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
+pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.0
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
