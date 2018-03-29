@@ -155,6 +155,7 @@ pimatic-telegram@1.1.10
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.17
+pimatic-tts@0.0.1
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
