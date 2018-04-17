@@ -4,10 +4,14 @@ pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
+pimatic-aqara@0.4.4
+pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
+pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
+pimatic-bme280@0.1.2
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
