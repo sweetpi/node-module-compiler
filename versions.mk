@@ -60,6 +60,7 @@ pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
+pimatic-i2c-bme280@0.0.1-security
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
