@@ -11,6 +11,7 @@ env:
   - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
   - MODULE=pimatic-athome
+  - MODULE=pimatic-backup
   - MODULE=pimatic-bh1750
   - MODULE=pimatic-ble
   - MODULE=pimatic-ble-itag
