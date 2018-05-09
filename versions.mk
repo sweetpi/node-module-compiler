@@ -178,7 +178,7 @@ pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
-pimatic-wunderground@0.2.3
+pimatic-wunderground@0.2.4
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
