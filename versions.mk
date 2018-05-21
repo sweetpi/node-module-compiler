@@ -143,6 +143,7 @@ pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
+pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
@@ -182,5 +183,4 @@ pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
-pimatic-z-way@1.4.3
 pimatic-zwave-usb@0.0.11
