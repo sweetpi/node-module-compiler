@@ -1,4 +1,3 @@
-pimatic-alarm@0.2.0
 pimatic-anymote@0.1.1
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
@@ -19,7 +18,6 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
-pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
 pimatic-homegear@0.1.1
@@ -35,12 +33,10 @@ pimatic-kodi@0.1.9
 pimatic-links@0.8.6
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
-pimatic-luxtronik2@0.0.4
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight-reloaded@0.9.17
-pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
@@ -74,19 +70,17 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter2@0.0.18
 pimatic-sunrise@0.9.2
-pimatic-sysinfo@0.8.14
 pimatic-telegram@1.1.11
 pimatic-tplink-smartplug@0.0.7
 pimatic-tv-program@0.1.3
 pimatic-unieq-box@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
-pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-yamaha-avr@0.9.4
-pimatic-zwave-usb@0.0.11
