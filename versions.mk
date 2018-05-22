@@ -2,9 +2,9 @@ pimatic@0.9.42
 pimatic-aqara@0.4.4
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
-pimatic-ble@0.9.3
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
+pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
@@ -26,6 +26,7 @@ pimatic-holidays@0.0.3
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
+pimatic-hue@0.1.0
 pimatic-i2c-bme280@0.9.0
 pimatic-iframe@0.3.1
 pimatic-intergasincomfort@0.3.0
@@ -35,6 +36,7 @@ pimatic-knmi-weather@0.9.3
 pimatic-kodi@0.1.9
 pimatic-led-light@0.9.5
 pimatic-links@0.8.6
+pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-log-to-syslog@1.0.0
@@ -43,11 +45,11 @@ pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight-reloaded@0.9.17
+pimatic-mobile-frontend@0.9.12
 pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
-pimatic-netatmo@0.0.9
 pimatic-nuki@0.9.1
 pimatic-onkyo@0.2.0
 pimatic-openweather@0.9.4
@@ -58,6 +60,7 @@ pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
+pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
@@ -74,6 +77,7 @@ pimatic-slack@1.0.1
 pimatic-smartmeter-old@0.0.17
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
+pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-telegram@1.1.11
 pimatic-tplink-smartplug@0.0.7
@@ -82,8 +86,10 @@ pimatic-tv-program@0.1.3
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-voice-recognition@0.8.0
+pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vvo@0.0.7
+pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wink@1.1.0
