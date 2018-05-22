@@ -12,9 +12,12 @@ pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
+pimatic-bme280@0.1.2
+pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
@@ -24,6 +27,7 @@ pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
+pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.10
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -64,6 +68,7 @@ pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.3
+pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
@@ -73,6 +78,7 @@ pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
+pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
@@ -95,6 +101,7 @@ pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.17
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
+pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-onkyo@0.2.0
@@ -102,6 +109,7 @@ pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
+pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
