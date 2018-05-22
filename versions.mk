@@ -28,17 +28,14 @@ pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
-pimatic-denon-avr@0.9.10
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
-pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.1
 pimatic-dwd-weather@0.9.4
 pimatic-easybox@0.1.2
-pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
 pimatic-efergye2@0.9.6
 pimatic-emon@0.3.0
@@ -48,7 +45,6 @@ pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
-pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
@@ -64,7 +60,6 @@ pimatic-i2c-bme280@0.9.0
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
-pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.3
@@ -73,7 +68,6 @@ pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
-pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
@@ -83,17 +77,14 @@ pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
-pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.17
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
-pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
-pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
@@ -165,7 +156,6 @@ pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
-pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
