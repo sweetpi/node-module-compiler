@@ -20,7 +20,6 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
-pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.0
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
@@ -33,7 +32,6 @@ pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
-pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.1
 pimatic-dwd-weather@0.9.4
@@ -130,11 +128,9 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@1.3.0
 pimatic-raspbee@0.0.7
 pimatic-rflink@0.7.2
-pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
-pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
@@ -172,6 +168,7 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
+pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
@@ -183,3 +180,4 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
+pimatic-zwave-usb@0.0.11
