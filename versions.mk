@@ -33,6 +33,7 @@ pimatic-kodi@0.1.9
 pimatic-links@0.8.6
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
+pimatic-log-to-syslog@1.0.0
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
@@ -42,6 +43,7 @@ pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-nanoleaf@0.0.4
 pimatic-netatmo@0.0.9
+pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
 pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.1.2
@@ -63,6 +65,7 @@ pimatic-raspbee@0.0.7
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-sensortag@0.8.3
+pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
@@ -74,7 +77,6 @@ pimatic-telegram@1.1.11
 pimatic-tplink-smartplug@0.0.7
 pimatic-tv-program@0.1.3
 pimatic-unieq-box@0.9.0
-pimatic-voice-recognition@0.8.0
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
