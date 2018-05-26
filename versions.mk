@@ -1,5 +1,6 @@
 pimatic@0.9.42
 pimatic-alarm@0.2.0
+pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
@@ -22,7 +23,6 @@ pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.0
 pimatic-coc@0.9.0
-pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
@@ -84,6 +84,7 @@ pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.17
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
@@ -106,7 +107,6 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -157,6 +157,7 @@ pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
+pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
@@ -171,6 +172,7 @@ pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
+pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
