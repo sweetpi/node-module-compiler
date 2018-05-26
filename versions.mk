@@ -16,12 +16,12 @@ pimatic-bme280@0.1.2
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
-pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.0
+pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
@@ -49,7 +49,6 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
-pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-holidays@0.0.3
@@ -76,6 +75,7 @@ pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
+pimatic-log-reader@0.9.1
 pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
@@ -158,7 +158,6 @@ pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
