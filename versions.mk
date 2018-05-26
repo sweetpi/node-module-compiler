@@ -43,6 +43,7 @@ pimatic-edimax@0.3.19
 pimatic-efergye2@0.9.6
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
+pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
@@ -134,7 +135,6 @@ pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
-pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
