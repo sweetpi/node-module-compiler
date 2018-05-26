@@ -43,7 +43,6 @@ pimatic-edimax@0.3.19
 pimatic-efergye2@0.9.6
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
-pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
@@ -65,6 +64,7 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.3
 pimatic-kodi@0.1.9
