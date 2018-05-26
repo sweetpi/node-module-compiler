@@ -23,6 +23,7 @@ pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.0
 pimatic-coc@0.9.0
+pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
@@ -64,7 +65,6 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.3
 pimatic-kodi@0.1.9
@@ -107,6 +107,7 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
+pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
