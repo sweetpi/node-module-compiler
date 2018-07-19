@@ -22,6 +22,7 @@ env:
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-raspbee
+  - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-unipi-evok
