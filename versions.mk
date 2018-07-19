@@ -17,6 +17,7 @@ pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
 pimatic-owntracks@1.0.2
 pimatic-raspbee@0.0.7
+pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
 pimatic-unipi-evok@0.3.1
