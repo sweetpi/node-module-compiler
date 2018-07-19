@@ -12,6 +12,7 @@ env:
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
+  - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-log-to-syslog
