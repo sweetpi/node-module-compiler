@@ -12,6 +12,7 @@ env:
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-netatmo
+  - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-wink
