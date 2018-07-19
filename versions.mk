@@ -7,6 +7,7 @@ pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-mysensors@0.9.2
 pimatic-netatmo@0.0.9
+pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
 pimatic-unipi-evok@0.3.1
 pimatic-wink@1.1.0
