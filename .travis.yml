@@ -7,6 +7,7 @@ env:
   - MODULE=pimatic-anymote
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-chronotherm
+  - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ethboard
