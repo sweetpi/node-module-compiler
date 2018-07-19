@@ -13,5 +13,6 @@ pimatic-owntracks@1.0.2
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
 pimatic-unipi-evok@0.3.1
+pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wink@1.1.0
