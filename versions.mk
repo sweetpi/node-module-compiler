@@ -4,6 +4,8 @@ pimatic-bluebean@0.8.0
 pimatic-chronotherm@0.9.8-10
 pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
+pimatic-ethboard@0.0.9
+pimatic-filter@0.9.4
 pimatic-ifttt@0.1.1
 pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
