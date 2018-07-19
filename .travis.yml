@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-unipi-evok
+  - MODULE=pimatic-upnp-root
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
