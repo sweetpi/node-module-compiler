@@ -5,6 +5,7 @@ env:
   matrix:
   - MODULE=pimatic
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-mail
@@ -12,9 +13,11 @@ env:
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-netatmo
+  - MODULE=pimatic-owntracks
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-unipi-evok
+  - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
   global:
     secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
