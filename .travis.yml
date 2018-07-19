@@ -6,6 +6,7 @@ env:
   - MODULE=pimatic
   - MODULE=pimatic-anymote
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-chronotherm
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ifttt
