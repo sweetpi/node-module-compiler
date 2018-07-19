@@ -1,5 +1,6 @@
 pimatic@0.9.43
 pimatic-bluebean@0.8.0
+pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
 pimatic-ifttt@0.1.1
 pimatic-mail@0.8.6
@@ -7,7 +8,9 @@ pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-mysensors@0.9.2
 pimatic-netatmo@0.0.9
+pimatic-owntracks@1.0.2
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
 pimatic-unipi-evok@0.3.1
+pimatic-websolarlog@0.0.5
 pimatic-wink@1.1.0
