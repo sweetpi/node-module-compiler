@@ -11,6 +11,7 @@ env:
   - MODULE=pimatic-mail
   - MODULE=pimatic-maxcul
   - MODULE=pimatic-metar-weather
+  - MODULE=pimatic-milight
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-owntracks
