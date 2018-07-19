@@ -9,6 +9,7 @@ pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
 pimatic-hue-zll@0.3.1
 pimatic-ifttt@0.1.1
+pimatic-log-to-syslog@1.0.0
 pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
