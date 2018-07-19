@@ -4,6 +4,7 @@ node_js:
 env:
   matrix:
   - MODULE=pimatic
+  - MODULE=pimatic-anymote
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
