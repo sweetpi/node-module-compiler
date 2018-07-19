@@ -1,4 +1,5 @@
 pimatic@0.9.43
+pimatic-anymote@0.1.1
 pimatic-bluebean@0.8.0
 pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
