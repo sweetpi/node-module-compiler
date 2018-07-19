@@ -9,6 +9,8 @@ env:
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
+  - MODULE=pimatic-ethboard
+  - MODULE=pimatic-filter
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-mail
   - MODULE=pimatic-maxcul
