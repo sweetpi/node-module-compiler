@@ -15,6 +15,7 @@ env:
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
+  - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
