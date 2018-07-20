@@ -17,6 +17,7 @@ env:
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-lgtv
+  - MODULE=pimatic-livolo
   - MODULE=pimatic-log-to-syslog
   - MODULE=pimatic-mail
   - MODULE=pimatic-maxcul
