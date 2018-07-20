@@ -55,6 +55,7 @@ pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
+pimatic-sensortag@0.8.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-smartmeter-gas@0.0.1
