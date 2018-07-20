@@ -13,6 +13,7 @@ env:
   - MODULE=pimatic-can
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-dht-sensors
+  - MODULE=pimatic-diy-controls
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
