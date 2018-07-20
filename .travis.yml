@@ -20,6 +20,7 @@ env:
   - MODULE=pimatic-filter
   - MODULE=pimatic-foscam
   - MODULE=pimatic-fronius-solar
+  - MODULE=pimatic-google-calendar
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
