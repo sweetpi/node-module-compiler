@@ -48,6 +48,7 @@ env:
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
+  - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
