@@ -24,6 +24,7 @@ pimatic-harmonyhub@0.0.6
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-hue-zll@0.3.1
+pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-knmi-weather@0.9.4
 pimatic-lgtv@0.8.2
