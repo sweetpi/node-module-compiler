@@ -43,6 +43,7 @@ pimatic-plugin-openhr20@0.16.0
 pimatic-pushbullet@0.9.0
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
+pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
