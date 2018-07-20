@@ -26,6 +26,8 @@ env:
   - MODULE=pimatic-foscam
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-google-calendar
+  - MODULE=pimatic-gpio
+  - MODULE=pimatic-hap
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
@@ -68,6 +70,7 @@ env:
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
+  - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tts
   - MODULE=pimatic-ultrasonic
