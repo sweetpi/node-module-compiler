@@ -6,6 +6,8 @@ env:
   - MODULE=pimatic
   - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
+  - MODULE=pimatic-ble
+  - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-can
   - MODULE=pimatic-chronotherm
@@ -45,6 +47,8 @@ env:
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv-2016
+  - MODULE=pimatic-serial-benqbeamer
+  - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
