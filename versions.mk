@@ -39,6 +39,7 @@ pimatic-plugin-openhr20@0.16.0
 pimatic-pushbullet@0.9.0
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
+pimatic-samsung-tv-2016@0.4.0
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
