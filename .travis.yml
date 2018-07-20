@@ -7,6 +7,7 @@ env:
   - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
   - MODULE=pimatic-ble
+  - MODULE=pimatic-ble-itag
   - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-can
