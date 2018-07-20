@@ -27,6 +27,7 @@ pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-nuki@0.9.1
 pimatic-owntracks@1.0.2
+pimatic-plugin-openhr20@0.16.0
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-smartmeter-gas@0.0.1
