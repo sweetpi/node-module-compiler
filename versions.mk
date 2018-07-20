@@ -7,6 +7,7 @@ pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-can@0.1.3
+pimatic-charts@0.0.4
 pimatic-chronotherm@0.9.8-10
 pimatic-cron@0.8.8
 pimatic-dewpoint@0.9.2
