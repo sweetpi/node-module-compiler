@@ -5,6 +5,7 @@ env:
   matrix:
   - MODULE=pimatic
   - MODULE=pimatic-anymote
+  - MODULE=pimatic-aqara
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-can
   - MODULE=pimatic-chronotherm
@@ -32,6 +33,7 @@ env:
   - MODULE=pimatic-nuki
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-raspbee
+  - MODULE=pimatic-rpi433
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
