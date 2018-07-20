@@ -9,11 +9,13 @@ env:
   - MODULE=pimatic-can
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-dht-sensors
+  - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
   - MODULE=pimatic-harmonyhub
+  - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-lgtv
