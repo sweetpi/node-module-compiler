@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-nikoniko
+  - MODULE=pimatic-nuki
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-smartmeter-gas
