@@ -1,6 +1,8 @@
 pimatic@0.9.43
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
+pimatic-ble@0.9.3
+pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-can@0.1.3
 pimatic-chronotherm@0.9.8-10
@@ -40,6 +42,8 @@ pimatic-pushbullet@0.9.0
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv-2016@0.4.0
+pimatic-serial-benqbeamer@0.0.2
+pimatic-serial-ivisions@0.0.2
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
