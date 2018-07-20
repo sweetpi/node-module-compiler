@@ -2,6 +2,7 @@ pimatic@0.9.43
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
 pimatic-ble@0.9.3
+pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-can@0.1.3
