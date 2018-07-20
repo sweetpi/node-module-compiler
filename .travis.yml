@@ -29,6 +29,7 @@ env:
   - MODULE=pimatic-maxcul
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
+  - MODULE=pimatic-mpower
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-netatmo
