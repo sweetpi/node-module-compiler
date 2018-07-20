@@ -24,6 +24,7 @@ pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
