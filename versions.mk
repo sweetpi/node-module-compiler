@@ -1,6 +1,7 @@
 pimatic@0.9.43
 pimatic-anymote@0.1.1
 pimatic-bluebean@0.8.0
+pimatic-can@0.1.3
 pimatic-chronotherm@0.9.8-10
 pimatic-dht-sensors@0.9.3
 pimatic-echo@0.5.3
