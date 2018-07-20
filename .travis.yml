@@ -35,6 +35,7 @@ env:
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-nuki
   - MODULE=pimatic-owntracks
+  - MODULE=pimatic-ping
   - MODULE=pimatic-play
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-raspbee
