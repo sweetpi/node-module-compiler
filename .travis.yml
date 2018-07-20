@@ -32,6 +32,7 @@ env:
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-nuki
   - MODULE=pimatic-owntracks
+  - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-smartmeter-gas
