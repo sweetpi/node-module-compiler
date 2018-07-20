@@ -4,6 +4,7 @@ node_js:
 env:
   matrix:
   - MODULE=pimatic
+  - MODULE=pimatic-angular-material-frontend
   - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
   - MODULE=pimatic-ble
@@ -12,11 +13,13 @@ env:
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-can
   - MODULE=pimatic-chronotherm
+  - MODULE=pimatic-cron
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-diy-controls
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
+  - MODULE=pimatic-emon
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
   - MODULE=pimatic-foscam
@@ -47,6 +50,7 @@ env:
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
+  - MODULE=pimatic-plex
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
