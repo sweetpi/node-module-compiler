@@ -12,6 +12,7 @@ env:
   - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-can
+  - MODULE=pimatic-charts
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-cron
   - MODULE=pimatic-dewpoint
