@@ -29,6 +29,7 @@ env:
   - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
+  - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-lgtv
