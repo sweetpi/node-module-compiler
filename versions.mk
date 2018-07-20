@@ -60,6 +60,7 @@ pimatic-samsung-tv-2016@0.4.0
 pimatic-sensortag@0.8.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
+pimatic-shell-execute@0.9.11
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
