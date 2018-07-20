@@ -10,6 +10,7 @@ pimatic-dht-sensors@0.9.3
 pimatic-dwd-weather@0.9.5
 pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
+pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fronius-solar@0.0.17
@@ -45,6 +46,7 @@ pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
+pimatic-tplink-smartplug@0.0.7
 pimatic-tts@0.0.5
 pimatic-ultrasonic@0.9.1
 pimatic-unipi-evok@0.3.1
