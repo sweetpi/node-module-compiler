@@ -38,12 +38,14 @@ env:
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
   - MODULE=pimatic-plugin-openhr20
+  - MODULE=pimatic-pushbullet
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tts
+  - MODULE=pimatic-ultrasonic
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-water-level
