@@ -44,6 +44,7 @@ pimatic-nikoniko@0.8.2
 pimatic-nuki@0.9.1
 pimatic-openweather@0.9.4
 pimatic-owntracks@1.0.2
+pimatic-pcf8574@1.0.4
 pimatic-ping@0.8.14
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
