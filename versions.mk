@@ -33,12 +33,14 @@ pimatic-owntracks@1.0.2
 pimatic-ping@0.8.14
 pimatic-play@0.8.0
 pimatic-plugin-openhr20@0.16.0
+pimatic-pushbullet@0.9.0
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
 pimatic-tplink-smartplug@0.0.7
 pimatic-tts@0.0.5
+pimatic-ultrasonic@0.9.1
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-water-level@0.0.5
