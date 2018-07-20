@@ -32,3 +32,4 @@ pimatic-upnp-root@0.9.0
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wink@1.1.0
+pimatic-wmi@0.1.7
