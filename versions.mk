@@ -19,6 +19,7 @@ pimatic-milight@0.0.4
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
+pimatic-nikoniko@0.8.2
 pimatic-owntracks@1.0.2
 pimatic-raspbee@0.0.7
 pimatic-smartmeter-gas@0.0.1
