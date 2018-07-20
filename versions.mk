@@ -24,6 +24,7 @@ pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-mopidy@0.1.0
 pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
@@ -44,6 +45,7 @@ pimatic-tts@0.0.5
 pimatic-ultrasonic@0.9.1
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wink@1.1.0
