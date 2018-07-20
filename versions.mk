@@ -17,6 +17,7 @@ pimatic-foscam@0.8.9
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-harmonyhub@0.0.6
+pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-hue-zll@0.3.1
 pimatic-ifttt@0.1.1
@@ -42,6 +43,7 @@ pimatic-ping@0.8.14
 pimatic-play@0.8.0
 pimatic-plugin-openhr20@0.16.0
 pimatic-pushbullet@0.9.0
+pimatic-pushover@0.9.4
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
