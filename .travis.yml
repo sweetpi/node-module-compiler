@@ -60,6 +60,7 @@ env:
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
+  - MODULE=pimatic-sensortag
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-smartmeter-gas
