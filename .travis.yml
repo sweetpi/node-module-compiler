@@ -38,6 +38,7 @@ env:
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
+  - MODULE=pimatic-tts
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-water-level
