@@ -1,4 +1,5 @@
 pimatic@0.9.43
+pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
 pimatic-ble@0.9.3
@@ -7,11 +8,13 @@ pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-can@0.1.3
 pimatic-chronotherm@0.9.8-10
+pimatic-cron@0.8.8
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dwd-weather@0.9.5
 pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
+pimatic-emon@0.3.0
 pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
@@ -42,6 +45,7 @@ pimatic-nuki@0.9.1
 pimatic-owntracks@1.0.2
 pimatic-ping@0.8.14
 pimatic-play@0.8.0
+pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
