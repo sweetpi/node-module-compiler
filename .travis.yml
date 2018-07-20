@@ -65,6 +65,7 @@ env:
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
+  - MODULE=pimatic-shell-execute
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
