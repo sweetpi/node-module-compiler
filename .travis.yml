@@ -20,6 +20,7 @@ env:
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-livolo
   - MODULE=pimatic-location
