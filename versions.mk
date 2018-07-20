@@ -9,6 +9,7 @@ pimatic-bluebean@0.8.0
 pimatic-can@0.1.3
 pimatic-chronotherm@0.9.8-10
 pimatic-cron@0.8.8
+pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dwd-weather@0.9.5
