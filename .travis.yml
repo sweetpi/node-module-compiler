@@ -22,6 +22,7 @@ env:
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-google-calendar
   - MODULE=pimatic-harmonyhub
+  - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-ifttt
@@ -47,6 +48,7 @@ env:
   - MODULE=pimatic-play
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-pushbullet
+  - MODULE=pimatic-pushover
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv
