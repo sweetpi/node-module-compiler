@@ -10,6 +10,7 @@ pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
 pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
+pimatic-foscam@0.8.9
 pimatic-fronius-solar@0.0.17
 pimatic-harmonyhub@0.0.6
 pimatic-homeduino@0.9.11
