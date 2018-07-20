@@ -21,6 +21,8 @@ pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
+pimatic-gpio@0.9.0
+pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
@@ -63,6 +65,7 @@ pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-smartmeter-gas@0.0.1
 pimatic-sunrise@0.9.2
+pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tts@0.0.5
 pimatic-ultrasonic@0.9.1
