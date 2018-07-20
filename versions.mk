@@ -12,6 +12,7 @@ pimatic-harmonyhub@0.0.6
 pimatic-hue-zll@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-lgtv@0.8.2
+pimatic-livolo@1.1.1
 pimatic-log-to-syslog@1.0.0
 pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
