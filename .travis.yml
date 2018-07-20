@@ -44,6 +44,7 @@ env:
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
+  - MODULE=pimatic-samsung-tv-2016
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-tplink-smartplug
