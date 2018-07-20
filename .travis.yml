@@ -35,6 +35,7 @@ env:
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
   - MODULE=pimatic-mopidy
+  - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
