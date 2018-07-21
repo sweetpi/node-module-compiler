@@ -73,6 +73,7 @@ env:
   - MODULE=pimatic-prowl
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
+  - MODULE=pimatic-pushsafer
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv
