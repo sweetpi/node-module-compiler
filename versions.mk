@@ -55,6 +55,7 @@ pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
+pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
