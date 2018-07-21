@@ -15,6 +15,7 @@ env:
   - MODULE=pimatic-ble-itag
   - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-bme280
   - MODULE=pimatic-bmp280
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-can
