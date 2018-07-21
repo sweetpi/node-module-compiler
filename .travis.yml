@@ -67,6 +67,7 @@ env:
   - MODULE=pimatic-nut
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
+  - MODULE=pimatic-orvibo
   - MODULE=pimatic-owjs
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-pcf8574
