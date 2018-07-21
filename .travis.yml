@@ -16,6 +16,7 @@ env:
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-chronotherm
+  - MODULE=pimatic-climasens
   - MODULE=pimatic-cron
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
