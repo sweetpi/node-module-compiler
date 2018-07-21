@@ -74,6 +74,7 @@ env:
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-smartmeter-gas
+  - MODULE=pimatic-sms
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
