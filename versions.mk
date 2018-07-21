@@ -1,4 +1,5 @@
 pimatic@0.9.43
+pimatic-alert@0.3.7
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
