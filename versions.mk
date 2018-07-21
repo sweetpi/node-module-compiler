@@ -54,6 +54,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
+pimatic-nanoleaf@0.0.4
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
@@ -83,6 +84,7 @@ pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
+pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-sms@1.0.3
 pimatic-sunrise@0.9.2
