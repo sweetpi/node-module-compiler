@@ -18,6 +18,7 @@ env:
   - MODULE=pimatic-charts
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-climasens
+  - MODULE=pimatic-coc
   - MODULE=pimatic-cron
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
