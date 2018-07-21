@@ -11,6 +11,7 @@ pimatic-bmp280@0.1.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-chronotherm@0.9.8-10
+pimatic-climasens@0.1.3
 pimatic-cron@0.8.8
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
