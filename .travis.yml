@@ -39,6 +39,7 @@ env:
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-lgtv
+  - MODULE=pimatic-links
   - MODULE=pimatic-livolo
   - MODULE=pimatic-location
   - MODULE=pimatic-log-to-syslog
