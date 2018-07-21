@@ -59,6 +59,7 @@ env:
   - MODULE=pimatic-mpower
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
+  - MODULE=pimatic-nanoleaf
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-netcheck
   - MODULE=pimatic-nikoniko
@@ -88,6 +89,7 @@ env:
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
+  - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sms
   - MODULE=pimatic-sunrise
