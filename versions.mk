@@ -57,6 +57,7 @@ pimatic-ping@0.8.14
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
+pimatic-probe@0.3.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-raspbee@0.0.7
