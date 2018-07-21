@@ -104,6 +104,8 @@ env:
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sms
+  - MODULE=pimatic-solarview
+  - MODULE=pimatic-sonos
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-telegram
   - MODULE=pimatic-thinkingcleaner
