@@ -123,6 +123,7 @@ env:
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
+  - MODULE=pimatic-wunderground
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-zwave-usb
   global:
