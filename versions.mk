@@ -92,6 +92,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-sms@1.0.3
 pimatic-sunrise@0.9.2
+pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tts@0.0.5
