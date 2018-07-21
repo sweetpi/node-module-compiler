@@ -68,6 +68,7 @@ env:
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-nuki
   - MODULE=pimatic-nut
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
