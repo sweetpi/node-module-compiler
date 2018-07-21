@@ -9,6 +9,7 @@ pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bmp280@0.1.0
+pimatic-buienradar@0.1.4
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-chronotherm@0.9.8-10
@@ -107,4 +108,5 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
+pimatic-xmpp@0.0.11
 pimatic-zwave-usb@0.0.11
