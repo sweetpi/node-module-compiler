@@ -4,6 +4,7 @@ pimatic-alert@0.3.7
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
+pimatic-athome@0.9.1
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
