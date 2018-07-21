@@ -48,6 +48,7 @@ pimatic-mythermostat@0.0.3
 pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-nuki@0.9.1
+pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
