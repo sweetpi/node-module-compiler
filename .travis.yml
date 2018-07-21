@@ -111,6 +111,7 @@ env:
   - MODULE=pimatic-telegram
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
+  - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
   - MODULE=pimatic-ultrasonic
   - MODULE=pimatic-unipi-evok
