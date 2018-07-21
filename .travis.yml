@@ -11,6 +11,7 @@ env:
   - MODULE=pimatic-ble-itag
   - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-bmp280
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-chronotherm
