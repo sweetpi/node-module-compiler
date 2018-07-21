@@ -17,6 +17,7 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
+  - MODULE=pimatic-check-alive
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-climasens
   - MODULE=pimatic-coc
