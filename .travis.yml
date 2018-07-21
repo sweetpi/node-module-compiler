@@ -31,6 +31,7 @@ env:
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
   - MODULE=pimatic-foscam
+  - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
   - MODULE=pimatic-google-calendar
   - MODULE=pimatic-gpio
