@@ -50,6 +50,7 @@ env:
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-johnny-five
   - MODULE=pimatic-knmi-weather
+  - MODULE=pimatic-led-light
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
   - MODULE=pimatic-livolo
@@ -63,6 +64,7 @@ env:
   - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
+  - MODULE=pimatic-mqtt
   - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
