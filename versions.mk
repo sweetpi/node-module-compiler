@@ -106,6 +106,7 @@ pimatic-sunrise@0.9.2
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
+pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
 pimatic-ultrasonic@0.9.1
 pimatic-unipi-evok@0.3.1
