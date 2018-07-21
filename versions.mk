@@ -62,6 +62,7 @@ pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
+pimatic-orvibo@0.0.3
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
