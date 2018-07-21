@@ -64,6 +64,7 @@ env:
   - MODULE=pimatic-plex
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
+  - MODULE=pimatic-prowl
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-raspbee
@@ -85,6 +86,7 @@ env:
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
+  - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
