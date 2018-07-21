@@ -10,6 +10,7 @@ pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
+pimatic-bme280@0.1.3
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-can@0.1.3
