@@ -62,6 +62,7 @@ env:
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
   - MODULE=pimatic-plugin-openhr20
+  - MODULE=pimatic-probe
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-raspbee
