@@ -69,6 +69,7 @@ pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-smartmeter-gas@0.0.1
+pimatic-sms@1.0.3
 pimatic-sunrise@0.9.2
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
