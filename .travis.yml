@@ -97,6 +97,7 @@ env:
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sms
   - MODULE=pimatic-sunrise
+  - MODULE=pimatic-telegram
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tts
