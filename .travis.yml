@@ -25,6 +25,7 @@ env:
   - MODULE=pimatic-echo
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-emon
+  - MODULE=pimatic-enigma2
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filter
   - MODULE=pimatic-foscam
