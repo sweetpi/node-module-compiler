@@ -4,6 +4,7 @@ node_js:
 env:
   matrix:
   - MODULE=pimatic
+  - MODULE=pimatic-alert
   - MODULE=pimatic-angular-material-frontend
   - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
