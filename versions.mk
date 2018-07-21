@@ -40,6 +40,7 @@ pimatic-knmi-weather@0.9.4
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-livolo@1.1.1
+pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-to-syslog@1.0.0
 pimatic-mail@0.8.6
@@ -75,6 +76,7 @@ pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
+pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
