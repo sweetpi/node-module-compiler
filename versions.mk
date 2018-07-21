@@ -77,6 +77,7 @@ pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.4
+pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.0.7
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
