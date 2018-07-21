@@ -26,6 +26,7 @@ pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
+pimatic-fritz@0.6.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.0
