@@ -20,6 +20,7 @@ pimatic-dwd-weather@0.9.5
 pimatic-echo@0.5.3
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
+pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
