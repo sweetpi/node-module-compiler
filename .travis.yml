@@ -63,6 +63,7 @@ env:
   - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
+  - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-nanoleaf
