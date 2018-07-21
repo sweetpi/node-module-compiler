@@ -37,10 +37,12 @@ env:
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
+  - MODULE=pimatic-homegear-ws
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-ipcamera
+  - MODULE=pimatic-johnny-five
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
