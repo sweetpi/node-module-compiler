@@ -60,6 +60,7 @@ env:
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-netatmo
+  - MODULE=pimatic-netcheck
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-nuki
   - MODULE=pimatic-nut
