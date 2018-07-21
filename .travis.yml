@@ -54,6 +54,7 @@ env:
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-nuki
+  - MODULE=pimatic-nut
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-owntracks
