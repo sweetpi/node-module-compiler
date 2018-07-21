@@ -63,6 +63,7 @@ pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
+pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.1.2
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
