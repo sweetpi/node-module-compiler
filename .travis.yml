@@ -97,6 +97,7 @@ env:
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
+  - MODULE=pimatic-zwave-usb
   global:
     secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
 before_install:
