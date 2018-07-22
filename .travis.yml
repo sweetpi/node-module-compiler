@@ -55,6 +55,7 @@ env:
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-intergasincomfort
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-jeelabs
   - MODULE=pimatic-johnny-five
