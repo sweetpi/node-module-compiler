@@ -59,6 +59,7 @@ env:
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
+  - MODULE=pimatic-log-reader
   - MODULE=pimatic-log-to-syslog
   - MODULE=pimatic-mail
   - MODULE=pimatic-maxcul
