@@ -57,6 +57,7 @@ env:
   - MODULE=pimatic-homegear
   - MODULE=pimatic-homegear-ws
   - MODULE=pimatic-hongkongpollution
+  - MODULE=pimatic-hue
   - MODULE=pimatic-hue-zll
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
@@ -132,6 +133,7 @@ env:
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
+  - MODULE=pimatic-slack
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-sms
