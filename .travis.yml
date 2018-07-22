@@ -45,6 +45,7 @@ env:
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
+  - MODULE=pimatic-homegear
   - MODULE=pimatic-homegear-ws
   - MODULE=pimatic-hongkongpollution
   - MODULE=pimatic-hue-zll
