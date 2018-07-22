@@ -80,6 +80,7 @@ env:
   - MODULE=pimatic-maxcul
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
+  - MODULE=pimatic-milight-reloaded
   - MODULE=pimatic-mobile-frontend
   - MODULE=pimatic-mochad
   - MODULE=pimatic-mopidy
