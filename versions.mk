@@ -106,6 +106,7 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
+pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-telegram@1.1.11
