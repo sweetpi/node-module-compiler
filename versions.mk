@@ -63,6 +63,7 @@ pimatic-log-reader@0.9.1
 pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
+pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
