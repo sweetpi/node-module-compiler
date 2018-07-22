@@ -110,6 +110,7 @@ env:
   - MODULE=pimatic-radiohead
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rflink
+  - MODULE=pimatic-rfxcom
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
