@@ -35,6 +35,7 @@ env:
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-echo
+  - MODULE=pimatic-edimax
   - MODULE=pimatic-efergye2
   - MODULE=pimatic-emon
   - MODULE=pimatic-enigma2
