@@ -55,6 +55,7 @@ env:
   - MODULE=pimatic-jeelabs
   - MODULE=pimatic-johnny-five
   - MODULE=pimatic-knmi-weather
+  - MODULE=pimatic-kodi
   - MODULE=pimatic-led-light
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
@@ -131,6 +132,7 @@ env:
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
+  - MODULE=pimatic-wifiswitch
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
   - MODULE=pimatic-wunderground
