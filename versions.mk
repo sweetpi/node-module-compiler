@@ -11,6 +11,7 @@ pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
+pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-can@0.1.3
@@ -133,5 +134,6 @@ pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
+pimatic-yoctopuce@1.0.7
 pimatic-z-way@1.4.3
 pimatic-zwave-usb@0.0.11
