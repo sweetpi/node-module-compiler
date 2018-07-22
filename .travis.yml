@@ -139,6 +139,8 @@ env:
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-vr-harmonyhub
+  - MODULE=pimatic-vsphere
+  - MODULE=pimatic-wago
   - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
