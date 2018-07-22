@@ -69,6 +69,7 @@ pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
