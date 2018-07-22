@@ -52,6 +52,7 @@ pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
+pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
@@ -127,6 +128,7 @@ pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
+pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-sms@1.0.3
