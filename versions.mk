@@ -22,6 +22,7 @@ pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
+pimatic-dash-button@0.2.1
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
