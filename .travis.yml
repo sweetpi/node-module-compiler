@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-climasens
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
+  - MODULE=pimatic-dash-button
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-diy-controls
