@@ -138,6 +138,7 @@ env:
   - MODULE=pimatic-slack
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
+  - MODULE=pimatic-smartmeter2
   - MODULE=pimatic-sms
   - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
