@@ -122,4 +122,5 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xmpp@0.0.11
+pimatic-z-way@1.4.3
 pimatic-zwave-usb@0.0.11
