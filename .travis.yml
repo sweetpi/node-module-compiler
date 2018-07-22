@@ -95,6 +95,7 @@ env:
   - MODULE=pimatic-owntracks
   - MODULE=pimatic-pcf8574
   - MODULE=pimatic-phone
+  - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
