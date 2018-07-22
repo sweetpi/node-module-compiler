@@ -16,6 +16,7 @@ env:
   - MODULE=pimatic-ble-mi-flora
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-bme280
+  - MODULE=pimatic-bmp180
   - MODULE=pimatic-bmp280
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-can
@@ -138,6 +139,7 @@ env:
   - MODULE=pimatic-wunderground
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
+  - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-z-way
   - MODULE=pimatic-zwave-usb
   global:
