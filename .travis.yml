@@ -111,6 +111,7 @@ env:
   - MODULE=pimatic-sms
   - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
+  - MODULE=pimatic-solvisremote
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-telegram
