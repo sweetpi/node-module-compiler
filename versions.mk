@@ -50,6 +50,7 @@ pimatic-hongkongpollution@0.0.1
 pimatic-hue-zll@0.3.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
+pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
