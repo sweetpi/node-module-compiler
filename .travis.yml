@@ -103,6 +103,7 @@ env:
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
   - MODULE=pimatic-quote-of-the-day
+  - MODULE=pimatic-radiohead
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rpi433
@@ -132,6 +133,7 @@ env:
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
+  - MODULE=pimatic-vr-harmonyhub
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
   - MODULE=pimatic-wifiswitch
