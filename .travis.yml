@@ -68,6 +68,7 @@ env:
   - MODULE=pimatic-log-to-syslog
   - MODULE=pimatic-luxtronik2
   - MODULE=pimatic-mail
+  - MODULE=pimatic-max
   - MODULE=pimatic-maxcul
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
