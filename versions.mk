@@ -29,6 +29,7 @@ pimatic-denon-avr@0.9.10
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
+pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd-weather@0.9.5
 pimatic-echo@0.5.3
