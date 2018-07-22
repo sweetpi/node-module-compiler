@@ -98,6 +98,7 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.4
 pimatic-quote-of-the-day@1.0.7
+pimatic-radiohead@1.3.0
 pimatic-raspbee@0.0.7
 pimatic-rflink@0.7.2
 pimatic-rpi433@0.1.0
@@ -127,6 +128,7 @@ pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
+pimatic-vr-harmonyhub@0.0.6
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wifiswitch@0.0.3
