@@ -36,6 +36,7 @@ env:
   - MODULE=pimatic-diy-controls
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-dwd
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-echo
   - MODULE=pimatic-edimax
