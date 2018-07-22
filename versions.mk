@@ -132,6 +132,7 @@ pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
+pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wifiswitch@0.0.3
