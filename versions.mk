@@ -131,6 +131,7 @@ pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
+pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
