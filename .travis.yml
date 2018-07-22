@@ -64,6 +64,7 @@ env:
   - MODULE=pimatic-maxcul
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
+  - MODULE=pimatic-mochad
   - MODULE=pimatic-mopidy
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
