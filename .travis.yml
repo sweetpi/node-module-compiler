@@ -96,6 +96,7 @@ env:
   - MODULE=pimatic-pushsafer
   - MODULE=pimatic-quote-of-the-day
   - MODULE=pimatic-raspbee
+  - MODULE=pimatic-rflink
   - MODULE=pimatic-rpi433
   - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
