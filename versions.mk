@@ -90,6 +90,7 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
+pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
