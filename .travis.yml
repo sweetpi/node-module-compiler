@@ -134,6 +134,7 @@ env:
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
+  - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
