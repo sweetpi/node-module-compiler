@@ -54,6 +54,7 @@ pimatic-links@0.8.6
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
+pimatic-log-reader@0.9.1
 pimatic-log-to-syslog@1.0.0
 pimatic-mail@0.8.6
 pimatic-maxcul@1.0.7
