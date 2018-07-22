@@ -87,6 +87,7 @@ env:
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-netcheck
   - MODULE=pimatic-nikoniko
+  - MODULE=pimatic-node-red
   - MODULE=pimatic-nuki
   - MODULE=pimatic-nut
   - MODULE=pimatic-onkyo
