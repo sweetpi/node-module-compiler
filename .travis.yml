@@ -160,6 +160,7 @@ env:
   - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-water-level
   - MODULE=pimatic-websolarlog
+  - MODULE=pimatic-wemo
   - MODULE=pimatic-wifiswitch
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
