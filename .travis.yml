@@ -50,6 +50,7 @@ env:
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-ipcamera
+  - MODULE=pimatic-jeelabs
   - MODULE=pimatic-johnny-five
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-led-light
