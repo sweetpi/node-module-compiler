@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-climasens
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
+  - MODULE=pimatic-css-inject
   - MODULE=pimatic-dash-button
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
@@ -104,6 +105,7 @@ env:
   - MODULE=pimatic-phone
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
+  - MODULE=pimatic-pio-remote
   - MODULE=pimatic-play
   - MODULE=pimatic-plex
   - MODULE=pimatic-plugin-openhr20
