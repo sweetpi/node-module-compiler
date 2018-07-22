@@ -45,6 +45,7 @@ pimatic-hue-zll@0.3.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ipcamera@1.1.1
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-led-light@0.9.5
