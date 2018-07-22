@@ -31,6 +31,7 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
+pimatic-dwd@0.9.1
 pimatic-dwd-weather@0.9.5
 pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
