@@ -136,6 +136,7 @@ env:
   - MODULE=pimatic-tts
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
+  - MODULE=pimatic-unieq-box
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
   - MODULE=pimatic-voice-recognition
