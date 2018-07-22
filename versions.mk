@@ -104,6 +104,7 @@ pimatic-shell-execute@0.9.11
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-sms@1.0.3
+pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
