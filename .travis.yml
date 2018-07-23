@@ -96,6 +96,7 @@ env:
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
   - MODULE=pimatic-nanoleaf
+  - MODULE=pimatic-nefit
   - MODULE=pimatic-netatmo
   - MODULE=pimatic-netcheck
   - MODULE=pimatic-nikoniko
