@@ -121,6 +121,7 @@ env:
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
+  - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
@@ -174,6 +175,7 @@ env:
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
+  - MODULE=pimatic-youless
   - MODULE=pimatic-z-way
   - MODULE=pimatic-zwave-usb
   global:
