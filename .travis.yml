@@ -32,6 +32,7 @@ env:
   - MODULE=pimatic-css-inject
   - MODULE=pimatic-customcss
   - MODULE=pimatic-dash-button
+  - MODULE=pimatic-datetime
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
