@@ -45,6 +45,7 @@ env:
   - MODULE=pimatic-emon
   - MODULE=pimatic-enigma2
   - MODULE=pimatic-ethboard
+  - MODULE=pimatic-filebrowser
   - MODULE=pimatic-filter
   - MODULE=pimatic-foscam
   - MODULE=pimatic-fritz
@@ -69,6 +70,7 @@ env:
   - MODULE=pimatic-johnny-five
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-kodi
+  - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
@@ -139,6 +141,7 @@ env:
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
+  - MODULE=pimatic-sispmctl
   - MODULE=pimatic-slack
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
