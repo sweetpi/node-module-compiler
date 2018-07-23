@@ -60,6 +60,7 @@ env:
   - MODULE=pimatic-hongkongpollution
   - MODULE=pimatic-hue
   - MODULE=pimatic-hue-zll
+  - MODULE=pimatic-i2c-bme280
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
   - MODULE=pimatic-intergasincomfort
