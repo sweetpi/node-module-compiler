@@ -169,6 +169,7 @@ env:
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-vr-harmonyhub
   - MODULE=pimatic-vsphere
+  - MODULE=pimatic-vvo
   - MODULE=pimatic-wago
   - MODULE=pimatic-wakeonlan
   - MODULE=pimatic-watchdog-unix
