@@ -14,7 +14,6 @@ pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
-pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
@@ -115,7 +114,6 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
-pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
