@@ -33,6 +33,7 @@ pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
+pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.1
 pimatic-dwd-weather@0.9.5
@@ -74,6 +75,7 @@ pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
+pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.1
 pimatic-log-to-syslog@1.0.0
