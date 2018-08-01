@@ -185,11 +185,13 @@ env:
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
   - MODULE=pimatic-wunderground
+  - MODULE=pimatic-xbox
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
   - MODULE=pimatic-youless
   - MODULE=pimatic-z-way
+  - MODULE=pimatic-ziggo-mediabox
   - MODULE=pimatic-zwave-usb
   global:
     secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
