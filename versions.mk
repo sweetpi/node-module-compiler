@@ -21,7 +21,6 @@ pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
-pimatic-climasens@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
@@ -117,7 +116,6 @@ pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
-pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
