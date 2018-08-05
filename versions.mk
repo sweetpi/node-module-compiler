@@ -17,7 +17,6 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
-pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
@@ -77,7 +76,6 @@ pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
-pimatic-log-reader@0.9.1
 pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
@@ -89,7 +87,6 @@ pimatic-milight-reloaded@0.9.17
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
-pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
@@ -137,7 +134,6 @@ pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
-pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
