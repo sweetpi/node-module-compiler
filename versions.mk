@@ -8,7 +8,6 @@ pimatic-aqara@0.4.4
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
 pimatic-bh1750@0.2.0
-pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -44,7 +43,6 @@ pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
-pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
@@ -56,7 +54,6 @@ pimatic-harmonyhub@0.0.6
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
-pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
@@ -80,7 +77,6 @@ pimatic-location@0.2.5
 pimatic-log-reader@0.9.2
 pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
-pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
@@ -93,7 +89,6 @@ pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
-pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
