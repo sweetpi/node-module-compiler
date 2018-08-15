@@ -53,6 +53,7 @@ pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
+pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
