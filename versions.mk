@@ -155,6 +155,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
+pimatic-tankerkoenig@0.0.3
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
