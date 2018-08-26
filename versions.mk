@@ -34,7 +34,6 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
-pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.1
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
@@ -118,7 +117,6 @@ pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
-pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
