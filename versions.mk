@@ -80,6 +80,7 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.2
 pimatic-log-to-syslog@1.0.0
+pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
@@ -91,6 +92,7 @@ pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
+pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
@@ -151,6 +153,7 @@ pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
+pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
@@ -162,6 +165,7 @@ pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
+pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
@@ -173,6 +177,7 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
+pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
@@ -184,4 +189,5 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
+pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
