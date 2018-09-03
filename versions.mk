@@ -57,7 +57,6 @@ pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
-pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
@@ -93,7 +92,6 @@ pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
-pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
