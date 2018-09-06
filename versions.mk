@@ -38,7 +38,6 @@ pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
-pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
@@ -50,7 +49,6 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
-pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
@@ -122,7 +120,6 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
-pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
@@ -158,7 +155,6 @@ pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
-pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
