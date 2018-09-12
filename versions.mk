@@ -45,6 +45,7 @@ pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
+pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
 pimatic-fronius-solar@0.0.17
@@ -116,6 +117,7 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
+pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
@@ -158,6 +160,7 @@ pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
+pimatic-tradfri@0.1.17
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
