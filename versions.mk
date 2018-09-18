@@ -30,7 +30,6 @@ pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
-pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
@@ -42,7 +41,6 @@ pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
-pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
@@ -96,7 +94,6 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
