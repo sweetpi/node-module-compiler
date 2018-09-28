@@ -66,6 +66,7 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
@@ -89,6 +90,7 @@ pimatic-milight-reloaded@0.9.17
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
+pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
