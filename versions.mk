@@ -146,6 +146,7 @@ pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
+pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
@@ -157,14 +158,17 @@ pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
+pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
 pimatic-tradfri@0.1.19
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
+pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
@@ -176,6 +180,7 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
+pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
