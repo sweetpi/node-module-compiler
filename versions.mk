@@ -66,6 +66,7 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
@@ -101,6 +102,7 @@ pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
+pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
@@ -112,6 +114,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
+pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.4
 pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
@@ -123,6 +126,7 @@ pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
+pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
@@ -169,6 +173,7 @@ pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
+pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
@@ -180,6 +185,7 @@ pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
+pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
