@@ -130,7 +130,7 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
-pimatic-radiohead@1.3.0
+pimatic-radiohead@1.3.1
 pimatic-raspbee@0.0.7
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
