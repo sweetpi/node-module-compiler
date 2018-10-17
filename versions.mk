@@ -3,7 +3,6 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
-pimatic-anymote@0.1.1
 pimatic-aqara@0.4.4
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
@@ -111,7 +110,6 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -154,7 +152,6 @@ pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
-pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
