@@ -160,7 +160,7 @@ pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.7
-pimatic-tradfri@0.1.20
+pimatic-tradfri@0.1.21
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
