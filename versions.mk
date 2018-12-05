@@ -1,5 +1,4 @@
 pimatic@0.9.43
-pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
@@ -27,6 +26,7 @@ pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
+pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -59,9 +59,9 @@ pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
+pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
-pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
@@ -70,8 +70,10 @@ pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
+pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
+pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.2
@@ -79,6 +81,7 @@ pimatic-log-to-syslog@1.0.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
+pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.17
@@ -178,6 +181,7 @@ pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
+pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
