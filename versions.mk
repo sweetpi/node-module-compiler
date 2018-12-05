@@ -19,6 +19,7 @@ pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
+pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-climasens@0.1.3
 pimatic-coc@0.9.0
@@ -30,6 +31,7 @@ pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
+pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
@@ -109,7 +111,6 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -135,7 +136,6 @@ pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
-pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
@@ -154,6 +154,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
+pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
@@ -163,7 +164,6 @@ pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
-pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
@@ -177,12 +177,13 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
-pimatic-wmi@0.1.7
+pimatic-wink@1.1.0
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
+pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
