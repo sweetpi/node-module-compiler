@@ -125,7 +125,6 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
-pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -180,7 +179,6 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
-pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
