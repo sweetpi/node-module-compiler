@@ -74,6 +74,7 @@ pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
+pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
@@ -163,6 +164,7 @@ pimatic-tradfri@0.1.21
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
+pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
 pimatic-upnp-root@0.9.0
