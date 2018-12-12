@@ -11,6 +11,7 @@ pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
+pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
@@ -53,10 +54,12 @@ pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
+pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
+pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
@@ -68,6 +71,7 @@ pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
+pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
