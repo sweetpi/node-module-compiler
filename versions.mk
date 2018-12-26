@@ -44,7 +44,6 @@ pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
-pimatic-filebrowser@0.8.4
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
@@ -87,7 +86,6 @@ pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.17
-pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.12
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
@@ -104,7 +102,6 @@ pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
-pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
@@ -116,7 +113,6 @@ pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
-pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
