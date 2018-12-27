@@ -85,7 +85,6 @@ env:
   - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-log-to-syslog
-  - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
