@@ -4,6 +4,7 @@ pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
+pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
 pimatic-bh1750@0.2.0
@@ -28,6 +29,7 @@ pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
+pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
@@ -63,6 +65,7 @@ pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
+pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
@@ -73,6 +76,7 @@ pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
+pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.2
 pimatic-log-to-syslog@1.0.0
