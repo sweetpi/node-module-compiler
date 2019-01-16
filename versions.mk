@@ -21,6 +21,7 @@ pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
+pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.3
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
