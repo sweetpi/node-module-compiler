@@ -66,7 +66,6 @@ pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
-pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
@@ -111,9 +110,9 @@ pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
+pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
-pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
@@ -134,9 +133,9 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@1.3.1
 pimatic-raspbee@0.0.10
 pimatic-rflink@0.7.2
+pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
-pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
@@ -157,6 +156,7 @@ pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.2
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
+pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.21
@@ -186,6 +186,7 @@ pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
+pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
