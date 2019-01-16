@@ -66,6 +66,7 @@ pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
+pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
@@ -113,6 +114,7 @@ pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
+pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
@@ -136,6 +138,7 @@ pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
+pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
