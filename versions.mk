@@ -127,6 +127,7 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
+pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -149,7 +150,6 @@ pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
-pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
@@ -162,11 +162,13 @@ pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.21
+pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.1
+pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
