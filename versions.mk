@@ -86,6 +86,7 @@ pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
+pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.17
 pimatic-mjpg@0.0.1
@@ -96,6 +97,7 @@ pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
+pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
@@ -114,6 +116,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
+pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
 pimatic-phone@0.9.6
 pimatic-piblaster@0.9.0
