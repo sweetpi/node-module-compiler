@@ -150,6 +150,7 @@ pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
+pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
