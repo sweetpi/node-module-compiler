@@ -64,7 +64,6 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
-pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
