@@ -37,7 +37,6 @@ pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
-pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
@@ -127,6 +126,7 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
+pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
