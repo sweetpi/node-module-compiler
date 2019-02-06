@@ -13,6 +13,7 @@ pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
+pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
@@ -132,6 +133,7 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@1.3.1
+pimatic-raspbee@0.0.10
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
