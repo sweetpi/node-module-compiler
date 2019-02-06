@@ -17,6 +17,7 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
@@ -27,7 +28,6 @@ pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
-pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -52,6 +52,7 @@ pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
+pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.11
@@ -63,6 +64,7 @@ pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
+pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
@@ -121,7 +123,6 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
-pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
