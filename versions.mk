@@ -28,6 +28,7 @@ pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
+pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -123,6 +124,7 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
+pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.2
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
