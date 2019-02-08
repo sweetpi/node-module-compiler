@@ -12,7 +12,6 @@ pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
-pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
@@ -24,7 +23,6 @@ pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.3
 pimatic-coc@0.9.0
-pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
