@@ -65,6 +65,7 @@ pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
+pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
@@ -88,6 +89,7 @@ pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
+pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.13
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
@@ -99,6 +101,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
+pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
