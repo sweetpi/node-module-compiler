@@ -19,6 +19,7 @@ pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
+pimatic-check-alive@0.1.0
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.3
@@ -30,6 +31,7 @@ pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
+pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
@@ -70,6 +72,7 @@ pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
+pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
@@ -153,6 +156,7 @@ pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
+pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.8.14
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
