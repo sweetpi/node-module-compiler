@@ -27,6 +27,7 @@ pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.1
 pimatic-customcss@0.1.0
+pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
@@ -50,6 +51,7 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.6.6
 pimatic-fronius-solar@0.0.17
 pimatic-google-calendar@0.4.1
+pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
@@ -85,6 +87,7 @@ pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
+pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.13
@@ -96,6 +99,7 @@ pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
+pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
