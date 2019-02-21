@@ -80,6 +80,7 @@ pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.2
+pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.2.6
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
@@ -102,6 +103,7 @@ pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
+pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
@@ -150,6 +152,7 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
+pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
