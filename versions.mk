@@ -64,7 +64,6 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
-pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
@@ -100,7 +99,6 @@ pimatic-mqtt@0.9.10
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
-pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
@@ -124,7 +122,6 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
-pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
@@ -176,7 +173,6 @@ pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
-pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
