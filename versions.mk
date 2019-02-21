@@ -67,7 +67,6 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
-pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
 pimatic-kodi@0.1.9
@@ -103,7 +102,6 @@ pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
-pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
@@ -179,7 +177,6 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
-pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
@@ -192,4 +189,3 @@ pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
-pimatic-zwave-usb@0.0.11
