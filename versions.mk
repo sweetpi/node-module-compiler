@@ -101,7 +101,6 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
-pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
@@ -113,7 +112,6 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -137,7 +135,6 @@ pimatic-raspbee@0.0.10
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.0.4
 pimatic-rpi433@0.1.0
-pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
@@ -190,6 +187,5 @@ pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
-pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
