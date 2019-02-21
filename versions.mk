@@ -154,7 +154,6 @@ pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.8.14
@@ -191,5 +190,4 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
-pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
