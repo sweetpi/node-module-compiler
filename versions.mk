@@ -143,6 +143,7 @@ pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
+pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
@@ -166,6 +167,7 @@ pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
+pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.2
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
@@ -189,4 +191,5 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
+pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
