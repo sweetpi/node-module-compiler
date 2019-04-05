@@ -135,7 +135,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@1.3.1
 pimatic-raspbee@0.0.10
 pimatic-rflink@0.7.2
-pimatic-rfxcom@1.0.4
+pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
