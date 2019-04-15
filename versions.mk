@@ -56,7 +56,7 @@ pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
-pimatic-homeduino@0.9.11
+pimatic-homeduino@0.9.12
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
@@ -158,7 +158,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-spritpreise@1.0.0
 pimatic-sunrise@0.9.3
-pimatic-sysinfo@0.9.5
+pimatic-sysinfo@0.9.6
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
