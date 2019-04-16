@@ -79,7 +79,7 @@ pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
-pimatic-log-reader@0.9.2
+pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.2.7
 pimatic-luxtronik2@0.0.4
