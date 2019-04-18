@@ -45,7 +45,7 @@ pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
-pimatic-filebrowser@0.8.4
+pimatic-filebrowser@0.9.1
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
