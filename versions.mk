@@ -70,7 +70,6 @@ pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-knmi-weather@0.9.4
-pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
