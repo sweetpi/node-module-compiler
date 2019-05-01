@@ -3,7 +3,6 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
-pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
@@ -59,7 +58,6 @@ pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.15
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
-pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
