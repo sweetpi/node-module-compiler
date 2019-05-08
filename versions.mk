@@ -15,6 +15,7 @@ pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
+pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
@@ -83,6 +84,7 @@ pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.3.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
+pimatic-max@0.9.0
 pimatic-maxcul@1.0.7
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
