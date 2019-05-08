@@ -81,7 +81,6 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
-pimatic-luftdaten@0.3.0
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
@@ -131,6 +130,7 @@ pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
+pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@1.3.1
 pimatic-raspbee@0.0.10
 pimatic-rflink@0.7.2
