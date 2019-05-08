@@ -75,6 +75,7 @@ pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
+pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
@@ -148,7 +149,6 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
-pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
