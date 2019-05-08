@@ -39,12 +39,10 @@ pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
-pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
-pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
