@@ -1,6 +1,7 @@
 pimatic@0.9.48
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
+pimatic-amazing-dash-button@0.9.14
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
@@ -121,6 +122,7 @@ pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
+pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.4
