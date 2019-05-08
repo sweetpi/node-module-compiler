@@ -90,6 +90,7 @@ pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
+pimatic-mobile-frontend@0.9.15
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
@@ -119,6 +120,7 @@ pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
+pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
@@ -157,6 +159,7 @@ pimatic-sonos@0.1.1
 pimatic-spritpreise@1.0.0
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
+pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
