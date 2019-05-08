@@ -51,7 +51,6 @@ pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-google-calendar@0.4.1
-pimatic-gpio@0.9.0
 pimatic-hap@0.11.1
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
@@ -128,7 +127,6 @@ pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
-pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
