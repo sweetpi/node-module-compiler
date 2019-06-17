@@ -52,7 +52,7 @@ pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
-pimatic-hap@0.11.1
+pimatic-hap@0.11.2
 pimatic-harmonyhub@0.0.6
 pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
