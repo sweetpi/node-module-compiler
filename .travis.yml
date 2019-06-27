@@ -74,6 +74,7 @@ env:
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-jeelabs
   - MODULE=pimatic-johnny-five
+  - MODULE=pimatic-jointspace
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-kodi
   - MODULE=pimatic-lcd
