@@ -1,4 +1,4 @@
-pimatic@0.9.48
+pimatic@0.9.49
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
