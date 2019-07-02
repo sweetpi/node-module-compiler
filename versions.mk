@@ -14,7 +14,6 @@ pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
-pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-can@0.1.3
@@ -48,7 +47,6 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.4
 pimatic-foscam@0.8.9
-pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
@@ -129,7 +127,6 @@ pimatic-plugin-openhr20@0.16.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
-pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
@@ -168,7 +165,6 @@ pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
-pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.2
 pimatic-upnp-root@0.9.0
