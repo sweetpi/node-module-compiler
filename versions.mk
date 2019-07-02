@@ -52,7 +52,9 @@ pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
+pimatic-hap@0.11.2
 pimatic-harmonyhub@0.0.6
+pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
@@ -124,6 +126,7 @@ pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.16.0
+pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
@@ -157,6 +160,8 @@ pimatic-sonos@0.1.1
 pimatic-spritpreise@1.0.0
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
+pimatic-tankerkoenig@0.0.4
+pimatic-telegram@1.1.11
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
