@@ -37,6 +37,7 @@ pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
+pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
@@ -82,6 +83,7 @@ pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.3.0
+pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.0
