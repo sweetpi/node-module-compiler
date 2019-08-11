@@ -3,7 +3,6 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
-pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
@@ -94,11 +93,9 @@ pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.15
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
-pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
-pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
