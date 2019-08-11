@@ -3,6 +3,7 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
+pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.0
@@ -36,7 +37,6 @@ pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
-pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.3
 pimatic-edimax@0.3.19
@@ -82,7 +82,6 @@ pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.3.0
-pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.0
@@ -93,9 +92,11 @@ pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.15
 pimatic-mochad@0.8.3
 pimatic-mochad-simple@0.6.0
+pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.10
+pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
