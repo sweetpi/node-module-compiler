@@ -70,6 +70,7 @@ env:
   - MODULE=pimatic-i2c-bme280
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-influxdb
   - MODULE=pimatic-intergasincomfort
   - MODULE=pimatic-ipcamera
   - MODULE=pimatic-jeelabs
