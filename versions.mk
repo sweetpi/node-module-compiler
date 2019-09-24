@@ -151,7 +151,7 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
-pimatic-smartmeter-obis@0.1.2
+pimatic-smartmeter-obis@0.1.3
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
