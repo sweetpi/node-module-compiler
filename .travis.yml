@@ -158,6 +158,7 @@ env:
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-smartmeter-obis
   - MODULE=pimatic-smartmeter-old
+  - MODULE=pimatic-smartmeter-stats
   - MODULE=pimatic-smartmeter2
   - MODULE=pimatic-smartmeter3
   - MODULE=pimatic-sms
