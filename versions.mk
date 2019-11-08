@@ -165,7 +165,7 @@ pimatic-spritpreise@1.0.0
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
 pimatic-tankerkoenig@0.0.4
-pimatic-telegram@1.1.13
+pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
