@@ -83,7 +83,7 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
-pimatic-luftdaten@0.4.0
+pimatic-luftdaten@0.4.1
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
