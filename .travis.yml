@@ -167,6 +167,7 @@ env:
   - MODULE=pimatic-solvisremote
   - MODULE=pimatic-sonos
   - MODULE=pimatic-spritpreise
+  - MODULE=pimatic-stats
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-tankerkoenig
