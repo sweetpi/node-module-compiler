@@ -55,6 +55,7 @@ env:
   - MODULE=pimatic-foscam
   - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
+  - MODULE=pimatic-gbridge
   - MODULE=pimatic-google-calendar
   - MODULE=pimatic-gpio
   - MODULE=pimatic-hap
