@@ -50,7 +50,7 @@ pimatic-filter@0.9.5
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
-pimatic-gbridge@0.1.19
+pimatic-gbridge@0.1.20
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
 pimatic-hap@0.12.1
