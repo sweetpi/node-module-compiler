@@ -155,6 +155,7 @@ env:
   - MODULE=pimatic-shell-execute
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-slack
+  - MODULE=pimatic-slide
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-smartmeter-obis
