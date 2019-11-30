@@ -164,7 +164,7 @@ pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-spritpreise@1.0.0
-pimatic-stats@0.1.7
+pimatic-stats@0.1.8
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
 pimatic-tankerkoenig@0.0.4
