@@ -155,7 +155,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.10
 pimatic-smartmeter-old@0.0.17
-pimatic-smartmeter-stats@0.1.4
+pimatic-smartmeter-stats@0.1.5
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
