@@ -25,6 +25,7 @@ env:
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
+  - MODULE=pimatic-chromecast
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-chronothermmanu
   - MODULE=pimatic-climasens
