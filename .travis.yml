@@ -146,6 +146,7 @@ env:
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rfxcom
   - MODULE=pimatic-rpi433
+  - MODULE=pimatic-rtl433
   - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
   - MODULE=pimatic-sensibo
