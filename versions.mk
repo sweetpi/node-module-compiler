@@ -141,6 +141,7 @@ pimatic-raspbee@0.1.5
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
+pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-sensibo@0.9.0-a.4
