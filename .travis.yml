@@ -95,6 +95,7 @@ env:
   - MODULE=pimatic-mail
   - MODULE=pimatic-max
   - MODULE=pimatic-maxcul
+  - MODULE=pimatic-mesh
   - MODULE=pimatic-metar-weather
   - MODULE=pimatic-milight
   - MODULE=pimatic-milight-reloaded
