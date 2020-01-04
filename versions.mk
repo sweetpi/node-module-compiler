@@ -44,7 +44,6 @@ pimatic-echo@0.5.5
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
-pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
@@ -104,7 +103,6 @@ pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.2
-pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
