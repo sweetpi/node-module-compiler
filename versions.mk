@@ -79,6 +79,7 @@ pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
+pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
