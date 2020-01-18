@@ -150,6 +150,7 @@ env:
   - MODULE=pimatic-rtl433
   - MODULE=pimatic-samsung-tv
   - MODULE=pimatic-samsung-tv-2016
+  - MODULE=pimatic-save
   - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
   - MODULE=pimatic-serial
