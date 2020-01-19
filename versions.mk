@@ -40,7 +40,7 @@ pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
-pimatic-echo@0.5.5
+pimatic-echo@0.5.6
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
