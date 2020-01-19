@@ -145,7 +145,7 @@ pimatic-rpi433@0.1.0
 pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
-pimatic-save@0.1.4
+pimatic-save@0.1.5
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
