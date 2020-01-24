@@ -144,6 +144,7 @@ env:
   - MODULE=pimatic-quote-of-the-day
   - MODULE=pimatic-radiohead
   - MODULE=pimatic-raspbee
+  - MODULE=pimatic-rfl868
   - MODULE=pimatic-rflink
   - MODULE=pimatic-rfxcom
   - MODULE=pimatic-rpi433
