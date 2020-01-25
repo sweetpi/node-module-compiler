@@ -180,6 +180,7 @@ env:
   - MODULE=pimatic-tankerkoenig
   - MODULE=pimatic-telegram
   - MODULE=pimatic-thinkingcleaner
+  - MODULE=pimatic-tools
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
