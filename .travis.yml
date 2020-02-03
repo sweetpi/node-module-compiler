@@ -61,6 +61,7 @@ env:
   - MODULE=pimatic-gpio
   - MODULE=pimatic-hap
   - MODULE=pimatic-harmonyhub
+  - MODULE=pimatic-hass
   - MODULE=pimatic-hk-avr
   - MODULE=pimatic-holidays
   - MODULE=pimatic-homeduino
