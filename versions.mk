@@ -157,7 +157,7 @@ pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
-pimatic-slide@0.9.4
+pimatic-slide@0.9.5
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.10
