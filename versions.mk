@@ -20,7 +20,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
-pimatic-chromecast@0.9.6
+pimatic-chromecast@1.0.0
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
@@ -30,7 +30,7 @@ pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
-pimatic-deebot@0.0.1
+pimatic-deebot@0.0.2
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
