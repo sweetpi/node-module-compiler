@@ -66,6 +66,7 @@ pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
+pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-influxdb@0.1.2
@@ -106,6 +107,7 @@ pimatic-mqtt@0.9.13
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
+pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-netcheck@1.1.0
