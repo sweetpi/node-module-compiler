@@ -80,7 +80,6 @@ pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
-pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
@@ -91,6 +90,7 @@ pimatic-luftdaten@0.4.7
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
+pimatic-maxcul@1.1.1
 pimatic-mesh@0.1.11
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
@@ -139,7 +139,9 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
+pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
 pimatic-rtl433@1.0.0
