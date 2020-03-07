@@ -17,7 +17,6 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
-pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.1.1
@@ -71,7 +70,6 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
-pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
@@ -114,6 +112,7 @@ pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
+pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
