@@ -23,6 +23,7 @@ pimatic-check-alive@0.1.0
 pimatic-chromecast@1.1.1
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
+pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
@@ -158,6 +159,7 @@ pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-smartmeter@0.0.18
+pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.10
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
