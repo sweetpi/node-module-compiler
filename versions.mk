@@ -37,7 +37,6 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
-pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
@@ -199,7 +198,6 @@ pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
-pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
