@@ -91,7 +91,6 @@ pimatic-luftdaten@0.4.7
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
-pimatic-maxcul@1.1.1
 pimatic-mesh@0.1.11
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
@@ -140,7 +139,6 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
-pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
@@ -197,6 +195,7 @@ pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
+pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
