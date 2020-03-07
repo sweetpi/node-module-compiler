@@ -110,7 +110,6 @@ pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
-pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
@@ -169,6 +168,7 @@ pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
+pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
@@ -204,7 +204,6 @@ pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
-pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
