@@ -22,6 +22,7 @@ pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.1.1
 pimatic-chronotherm@0.9.8-10
+pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
@@ -78,6 +79,7 @@ pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
+pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
@@ -198,7 +200,6 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
-pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
