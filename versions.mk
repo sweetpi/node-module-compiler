@@ -10,7 +10,6 @@ pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
-pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
@@ -30,6 +29,7 @@ pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
+pimatic-deebot@0.0.23
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -59,6 +59,7 @@ pimatic-harmonyhub@0.0.6
 pimatic-hass@0.1.5
 pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
+pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
@@ -133,7 +134,6 @@ pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
-pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
