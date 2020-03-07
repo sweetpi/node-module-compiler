@@ -46,7 +46,6 @@ pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.3
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
-pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
 pimatic-foscam@0.8.9
@@ -200,6 +199,7 @@ pimatic-water-level@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
+pimatic-wink@1.1.0
 pimatic-wmi@0.1.7
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
