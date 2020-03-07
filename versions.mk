@@ -68,7 +68,6 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
-pimatic-ifttt@0.1.1
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
@@ -115,7 +114,6 @@ pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
-pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
@@ -123,6 +121,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
+pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
@@ -140,11 +139,9 @@ pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
 pimatic-raspbee@0.1.5
-pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
-pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.1.9
