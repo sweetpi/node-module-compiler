@@ -1,5 +1,6 @@
 pimatic@0.9.54
 pimatic-alarm@0.2.0
+pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
@@ -38,6 +39,7 @@ pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
 pimatic-dwd@0.9.2
+pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.5
 pimatic-edimax@0.3.19
@@ -83,6 +85,7 @@ pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
+pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.4.7
 pimatic-luxtronik2@0.0.4
@@ -102,6 +105,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-simple@0.1.1
+pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
@@ -149,7 +153,6 @@ pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
-pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
@@ -193,6 +196,7 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
+pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
