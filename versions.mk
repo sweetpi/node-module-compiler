@@ -8,7 +8,6 @@ pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
-pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -58,6 +57,7 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.12.1
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.1.5
+pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
@@ -94,7 +94,6 @@ pimatic-maxcul@1.1.1
 pimatic-mesh@0.1.11
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
-pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
@@ -167,6 +166,7 @@ pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
+pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
