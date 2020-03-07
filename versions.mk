@@ -9,7 +9,6 @@ pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
-pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
@@ -76,13 +75,13 @@ pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
+pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.1
-pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
