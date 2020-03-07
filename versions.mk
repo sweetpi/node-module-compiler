@@ -13,7 +13,6 @@ pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
-pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
@@ -149,11 +148,9 @@ pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.1.9
-pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
-pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
@@ -165,7 +162,6 @@ pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
-pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
