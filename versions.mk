@@ -25,7 +25,6 @@ pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
-pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
@@ -105,7 +104,6 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-simple@0.1.1
-pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
@@ -183,6 +181,7 @@ pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
 pimatic-tv-program@0.1.3
+pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
