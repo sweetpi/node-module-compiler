@@ -140,6 +140,7 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
+pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
@@ -168,6 +169,7 @@ pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
+pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
