@@ -24,6 +24,7 @@ pimatic-chromecast@1.1.1
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
+pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
@@ -92,6 +93,7 @@ pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
 pimatic-mesh@0.1.11
+pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
