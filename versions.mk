@@ -17,6 +17,7 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.1.1
@@ -57,7 +58,6 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.12.1
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.1.5
-pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
@@ -70,6 +70,7 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
+pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
@@ -166,7 +167,6 @@ pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
