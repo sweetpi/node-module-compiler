@@ -126,7 +126,6 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-pcf8574@1.0.6
 pimatic-phone@0.9.7
-pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
@@ -139,7 +138,6 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
-pimatic-radiohead@2.0.0
 pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
