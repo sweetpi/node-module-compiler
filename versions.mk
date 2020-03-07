@@ -8,6 +8,7 @@ pimatic-aqara@0.4.5
 pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
+pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -94,6 +95,7 @@ pimatic-maxcul@1.1.1
 pimatic-mesh@0.1.11
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
@@ -118,7 +120,6 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
