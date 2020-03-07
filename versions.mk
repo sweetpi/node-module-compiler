@@ -34,6 +34,7 @@ pimatic-deebot@0.0.23
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
+pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.0
 pimatic-ds18b20@0.8.9
@@ -71,6 +72,7 @@ pimatic-ifttt@0.1.1
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
+pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
@@ -167,7 +169,6 @@ pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
-pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
