@@ -30,6 +30,7 @@ pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
+pimatic-deebot@0.0.23
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -139,7 +140,6 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
-pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
@@ -162,12 +162,12 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.10
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
+pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
-pimatic-sonos@0.1.1
 pimatic-sounds@0.0.34
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
