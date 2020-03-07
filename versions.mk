@@ -76,7 +76,6 @@ pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
-pimatic-kodi@0.1.9
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
@@ -160,6 +159,7 @@ pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
+pimatic-smartmeter-obis@0.1.10
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
 pimatic-smartmeter2@0.0.18
@@ -196,6 +196,7 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
+pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
