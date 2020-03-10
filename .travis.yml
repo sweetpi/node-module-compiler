@@ -65,6 +65,7 @@ env:
   - MODULE=pimatic-hass
   - MODULE=pimatic-hk-avr
   - MODULE=pimatic-holidays
+  - MODULE=pimatic-home-connect
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
   - MODULE=pimatic-homegear-ws
