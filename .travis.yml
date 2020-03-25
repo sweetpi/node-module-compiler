@@ -83,6 +83,7 @@ env:
   - MODULE=pimatic-jointspace
   - MODULE=pimatic-knmi-weather
   - MODULE=pimatic-kodi
+  - MODULE=pimatic-landroid
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
   - MODULE=pimatic-lgtv
