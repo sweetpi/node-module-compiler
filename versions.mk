@@ -78,7 +78,7 @@ pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
-pimatic-landroid@0.1.15
+pimatic-landroid@0.1.16
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lgtv@0.8.2
