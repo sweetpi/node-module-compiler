@@ -94,7 +94,7 @@ pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
-pimatic-meross@0.0.3
+pimatic-meross@0.0.5
 pimatic-mesh@0.1.11
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
