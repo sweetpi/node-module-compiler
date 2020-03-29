@@ -200,7 +200,7 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.4
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
-pimatic-wavtrigger@0.0.4
+pimatic-wavtrigger@0.0.5
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
