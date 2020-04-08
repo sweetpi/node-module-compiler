@@ -43,6 +43,7 @@ env:
   - MODULE=pimatic-dlnacasts
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
+  - MODULE=pimatic-dummies
   - MODULE=pimatic-dwd
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-easybox
