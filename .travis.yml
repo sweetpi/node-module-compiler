@@ -22,6 +22,7 @@ env:
   - MODULE=pimatic-bmp280
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
+  - MODULE=pimatic-calendar2
   - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
