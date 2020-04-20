@@ -28,6 +28,7 @@ pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
+pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.27
@@ -51,6 +52,7 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
 pimatic-foscam@0.8.9
+pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
@@ -145,6 +147,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
 pimatic-raspbee@0.1.5
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.1.0
 pimatic-rtl433@1.0.0
@@ -168,6 +171,7 @@ pimatic-smartmeter-stats@0.1.10
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
+pimatic-snmp@0.4.0
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
