@@ -34,6 +34,7 @@ pimatic-dash-button@0.2.1
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.28
 pimatic-denon-avr@0.9.11
+pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
@@ -142,6 +143,7 @@ pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
+pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
 pimatic-raspbee@0.1.5
