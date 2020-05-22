@@ -167,7 +167,7 @@ pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
-pimatic-smartmeter-obis@0.1.10
+pimatic-smartmeter-obis@0.1.12
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
 pimatic-smartmeter2@0.0.18
