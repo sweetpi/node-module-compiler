@@ -170,6 +170,7 @@ env:
   - MODULE=pimatic-sispmctl
   - MODULE=pimatic-slack
   - MODULE=pimatic-slide
+  - MODULE=pimatic-sma
   - MODULE=pimatic-smartmeter
   - MODULE=pimatic-smartmeter-gas
   - MODULE=pimatic-smartmeter-obis
