@@ -31,7 +31,7 @@ pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
-pimatic-dashboard@0.1.4
+pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.28
 pimatic-denon-avr@0.9.11
