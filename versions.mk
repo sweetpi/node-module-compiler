@@ -7,7 +7,6 @@ pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.5
 pimatic-athome@0.9.1
-pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
@@ -29,7 +28,6 @@ pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
-pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
@@ -37,7 +35,6 @@ pimatic-deebot@0.0.28
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
-pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
@@ -54,7 +51,6 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
 pimatic-foscam@0.8.9
-pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
@@ -63,7 +59,6 @@ pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.1.5
 pimatic-hk-avr@0.1.0
-pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
@@ -93,9 +88,7 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
-pimatic-luftdaten@0.4.7
 pimatic-luxtronik2@0.0.4
-pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
 pimatic-meross@0.1.5
@@ -141,10 +134,8 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
-pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
-pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.0.0
 pimatic-raspbee@0.1.5
@@ -159,7 +150,6 @@ pimatic-save@0.1.12
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
-pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
@@ -176,7 +166,6 @@ pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
-pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.0.39
 pimatic-spritpreise@1.0.0
@@ -199,12 +188,9 @@ pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
-pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
-pimatic-watchdog-unix@0.0.1
-pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
@@ -213,7 +199,6 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
-pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
