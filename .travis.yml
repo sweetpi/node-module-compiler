@@ -21,6 +21,7 @@ env:
   - MODULE=pimatic-bme280
   - MODULE=pimatic-bmp180
   - MODULE=pimatic-bmp280
+  - MODULE=pimatic-broadlink
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
