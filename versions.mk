@@ -16,7 +16,7 @@ pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
-pimatic-broadlink@0.0.7
+pimatic-broadlink@0.0.8
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
