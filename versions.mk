@@ -28,10 +28,13 @@ pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
+pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
+pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
+pimatic-deebot@0.0.30
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -40,6 +43,7 @@ pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
 pimatic-dummies@0.0.3
+pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.9
@@ -90,11 +94,13 @@ pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-log-to-syslog@1.0.0
+pimatic-luftdaten@0.4.7
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
 pimatic-meross@0.1.5
+pimatic-mesh@0.2.1
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
@@ -103,6 +109,7 @@ pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
+pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-simple@0.1.1
@@ -121,6 +128,7 @@ pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
+pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -164,6 +172,7 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.10
+pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
@@ -191,6 +200,7 @@ pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
+pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
