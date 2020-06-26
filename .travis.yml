@@ -196,6 +196,7 @@ env:
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
+  - MODULE=pimatic-tuya
   - MODULE=pimatic-tv-program
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
