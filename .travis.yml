@@ -61,6 +61,7 @@ env:
   - MODULE=pimatic-ethboard
   - MODULE=pimatic-filebrowser
   - MODULE=pimatic-filter
+  - MODULE=pimatic-floorplan
   - MODULE=pimatic-foscam
   - MODULE=pimatic-fritz
   - MODULE=pimatic-fronius-solar
