@@ -56,7 +56,7 @@ pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
-pimatic-floorplan@0.1.5
+pimatic-floorplan@0.1.6
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
