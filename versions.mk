@@ -18,7 +18,7 @@ pimatic-bluebean@0.8.0
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
-pimatic-broadlink@0.0.16
+pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
@@ -56,7 +56,7 @@ pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
-pimatic-floorplan@0.2.2
+pimatic-floorplan@0.2.3
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
