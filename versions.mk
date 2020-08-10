@@ -31,6 +31,7 @@ pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
+pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
