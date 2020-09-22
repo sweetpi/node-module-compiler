@@ -159,7 +159,7 @@ pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
-pimatic-save@0.1.22
+pimatic-save@0.1.23
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
@@ -174,7 +174,7 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
-pimatic-smartmeter-stats@0.1.22
+pimatic-smartmeter-stats@0.1.23
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-sms@1.0.3
