@@ -128,6 +128,7 @@ pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
+pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
@@ -191,6 +192,9 @@ pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
+pimatic-tradfri@0.1.22
+pimatic-tts@0.0.5
+pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
@@ -206,17 +210,12 @@ pimatic-wakeonlan@0.9.7
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
-pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
-pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-wunderground@0.2.4
-pimatic-xbox@0.1.1
-pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
-pimatic-zwave-usb@0.0.11
