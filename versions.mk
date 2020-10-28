@@ -183,6 +183,7 @@ pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.13
+pimatic-sounds-basic@0.1.20
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
