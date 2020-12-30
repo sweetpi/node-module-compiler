@@ -20,6 +20,7 @@ env:
   - MODULE=pimatic-ble2
   - MODULE=pimatic-ble2-mi-flora
   - MODULE=pimatic-bluebean
+  - MODULE=pimatic-bluelink
   - MODULE=pimatic-bme280
   - MODULE=pimatic-bmp180
   - MODULE=pimatic-bmp280
