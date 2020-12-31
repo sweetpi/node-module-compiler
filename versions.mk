@@ -15,7 +15,7 @@ pimatic-ble-mi-flora@0.0.9
 pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
-pimatic-bluelink@0.0.11
+pimatic-bluelink@0.0.12
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
@@ -155,6 +155,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.1.0
 pimatic-raspbee@0.1.7
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
