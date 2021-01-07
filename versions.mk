@@ -190,7 +190,7 @@ pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
-pimatic-tado-reloaded@0.1.4
+pimatic-tado-reloaded@0.2.0
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
