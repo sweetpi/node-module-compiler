@@ -188,6 +188,7 @@ pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
 pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
+pimatic-sunrise@0.9.3
 pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.3
 pimatic-tankerkoenig@0.0.4
