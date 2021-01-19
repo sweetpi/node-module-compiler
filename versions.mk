@@ -166,6 +166,7 @@ pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
+pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
