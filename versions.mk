@@ -45,6 +45,7 @@ pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
+pimatic-dummies@0.3.2
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-easybox@0.1.2
@@ -52,6 +53,7 @@ pimatic-echo@0.5.9
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
 pimatic-emon@0.3.0
+pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
@@ -66,6 +68,7 @@ pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.7
 pimatic-hk-avr@0.1.0
+pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
@@ -127,8 +130,10 @@ pimatic-nuki@0.9.1
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
+pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
+pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
@@ -150,6 +155,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-radiohead@2.1.0
 pimatic-raspbee@0.1.7
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
@@ -198,6 +204,7 @@ pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
+pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
