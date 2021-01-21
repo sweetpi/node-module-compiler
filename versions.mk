@@ -2,7 +2,6 @@ pimatic@0.9.54
 pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
-pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
@@ -31,13 +30,11 @@ pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
-pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
-pimatic-deebot@0.0.34
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
@@ -59,7 +56,6 @@ pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
 pimatic-floorplan@0.2.13
 pimatic-foscam@0.8.9
-pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
@@ -85,7 +81,6 @@ pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
-pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-landroid@0.1.22
@@ -213,7 +208,6 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-watchdog-unix@0.0.1
-pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
