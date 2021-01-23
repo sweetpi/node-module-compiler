@@ -53,6 +53,7 @@ env:
   - MODULE=pimatic-dummies
   - MODULE=pimatic-dwd
   - MODULE=pimatic-dwd-weather
+  - MODULE=pimatic-dyson
   - MODULE=pimatic-easybox
   - MODULE=pimatic-echo
   - MODULE=pimatic-edimax
