@@ -196,6 +196,7 @@ env:
   - MODULE=pimatic-spritpreise
   - MODULE=pimatic-stats
   - MODULE=pimatic-sunrise
+  - MODULE=pimatic-switchbot
   - MODULE=pimatic-sysinfo
   - MODULE=pimatic-tado-reloaded
   - MODULE=pimatic-tankerkoenig
