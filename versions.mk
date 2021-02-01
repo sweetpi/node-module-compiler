@@ -231,3 +231,4 @@ pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
+pimatic-zwave-usb@0.0.11
