@@ -134,6 +134,7 @@ env:
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-node-red
   - MODULE=pimatic-nuki
+  - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo
