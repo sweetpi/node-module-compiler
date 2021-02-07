@@ -129,7 +129,7 @@ pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
-pimatic-nuki-reloaded@0.9.2
+pimatic-nuki-reloaded@0.9.3
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
