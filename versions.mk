@@ -100,7 +100,6 @@ pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
-pimatic-log-to-syslog@1.0.0
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
@@ -125,7 +124,6 @@ pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
-pimatic-netcheck@1.1.0
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
@@ -140,7 +138,6 @@ pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
-pimatic-pcf8574@1.0.6
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
@@ -155,7 +152,6 @@ pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
-pimatic-radiohead@2.1.0
 pimatic-raspbee@0.1.7
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
@@ -189,7 +185,6 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
-pimatic-spritpreise@1.0.0
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
