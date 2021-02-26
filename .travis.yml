@@ -105,7 +105,6 @@ env:
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
-  - MODULE=pimatic-log-to-syslog
   - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
   - MODULE=pimatic-mail
@@ -130,7 +129,6 @@ env:
   - MODULE=pimatic-nanoleaf
   - MODULE=pimatic-nefit
   - MODULE=pimatic-netatmo
-  - MODULE=pimatic-netcheck
   - MODULE=pimatic-nikoniko
   - MODULE=pimatic-node-red
   - MODULE=pimatic-nuki
@@ -145,7 +143,6 @@ env:
   - MODULE=pimatic-ouimeaux
   - MODULE=pimatic-owjs
   - MODULE=pimatic-owntracks
-  - MODULE=pimatic-pcf8574
   - MODULE=pimatic-phone
   - MODULE=pimatic-piblaster
   - MODULE=pimatic-ping
@@ -160,7 +157,6 @@ env:
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
   - MODULE=pimatic-quote-of-the-day
-  - MODULE=pimatic-radiohead
   - MODULE=pimatic-raspbee
   - MODULE=pimatic-rfl868
   - MODULE=pimatic-rflink
@@ -194,7 +190,6 @@ env:
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sounds
   - MODULE=pimatic-sounds-basic
-  - MODULE=pimatic-spritpreise
   - MODULE=pimatic-stats
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-switchbot
