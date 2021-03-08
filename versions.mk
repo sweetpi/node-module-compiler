@@ -127,7 +127,7 @@ pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
-pimatic-nuki-reloaded@0.9.26
+pimatic-nuki-reloaded@0.9.27
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
