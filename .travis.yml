@@ -224,6 +224,7 @@ env:
   - MODULE=pimatic-wifiswitch
   - MODULE=pimatic-wink
   - MODULE=pimatic-wmi
+  - MODULE=pimatic-woox
   - MODULE=pimatic-wunderground
   - MODULE=pimatic-xbox
   - MODULE=pimatic-xmpp
