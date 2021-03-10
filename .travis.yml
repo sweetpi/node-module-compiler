@@ -98,6 +98,7 @@ env:
   - MODULE=pimatic-landroid
   - MODULE=pimatic-lcd
   - MODULE=pimatic-led-light
+  - MODULE=pimatic-lg-smart-tv
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
   - MODULE=pimatic-lirc
