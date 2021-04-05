@@ -191,7 +191,7 @@ pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
-pimatic-tado-reloaded@0.2.3
+pimatic-tado-reloaded@0.2.4
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
