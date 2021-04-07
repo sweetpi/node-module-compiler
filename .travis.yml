@@ -124,6 +124,7 @@ env:
   - MODULE=pimatic-mpd
   - MODULE=pimatic-mpower
   - MODULE=pimatic-mqtt
+  - MODULE=pimatic-mqtt-ext
   - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
