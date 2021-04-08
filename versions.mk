@@ -119,7 +119,7 @@ pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
-pimatic-mqtt-ext@0.9.5
+pimatic-mqtt-ext@0.9.6
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
