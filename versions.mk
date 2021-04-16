@@ -19,7 +19,6 @@ pimatic-bluelink@0.2.32
 pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
-pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
@@ -68,13 +67,11 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.9
-pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
-pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
@@ -110,7 +107,6 @@ pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
-pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
@@ -135,8 +131,6 @@ pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
-pimatic-orvibo@0.0.3
-pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
