@@ -36,14 +36,18 @@ pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
+pimatic-datetime@0.3.1
 pimatic-deebot@0.0.34
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
+pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
 pimatic-dummies@0.3.2
+pimatic-dwd@0.9.2
+pimatic-dwd-weather@0.9.5
 pimatic-dyson@0.1.3
 pimatic-easybox@0.1.2
 pimatic-echo@0.5.9
@@ -155,6 +159,7 @@ pimatic-raspbee-plus@0.1.1
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
+pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
@@ -188,6 +193,7 @@ pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.5
+pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
@@ -218,6 +224,8 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
+pimatic-xbox@0.1.1
+pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
