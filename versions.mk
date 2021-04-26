@@ -6,6 +6,7 @@ pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
+pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
@@ -28,7 +29,9 @@ pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
+pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
+pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
@@ -73,6 +76,7 @@ pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
+pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
@@ -90,17 +94,20 @@ pimatic-landroid@0.1.22
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
+pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
+pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
 pimatic-meross@0.2.8
+pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
@@ -109,6 +116,7 @@ pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
+pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
@@ -129,6 +137,8 @@ pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
+pimatic-ouimeaux@0.1.0
+pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
@@ -190,6 +200,7 @@ pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
+pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
@@ -204,6 +215,7 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-watchdog-unix@0.0.1
+pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
