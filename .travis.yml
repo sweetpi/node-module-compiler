@@ -186,6 +186,7 @@ env:
   - MODULE=pimatic-smartmeter-stats
   - MODULE=pimatic-smartmeter2
   - MODULE=pimatic-smartmeter3
+  - MODULE=pimatic-smartnora
   - MODULE=pimatic-sms
   - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
