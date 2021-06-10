@@ -132,6 +132,7 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
+pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
@@ -151,6 +152,7 @@ pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
+pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
@@ -205,6 +207,7 @@ pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
+pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
