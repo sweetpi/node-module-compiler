@@ -77,7 +77,6 @@ pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
-pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
@@ -231,5 +230,4 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
-pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
