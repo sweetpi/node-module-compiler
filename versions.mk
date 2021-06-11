@@ -21,7 +21,6 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
-pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
