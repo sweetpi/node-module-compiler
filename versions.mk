@@ -3,7 +3,6 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
-pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
@@ -169,7 +168,6 @@ pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
-pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-slide@0.9.6
