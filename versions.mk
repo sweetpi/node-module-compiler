@@ -6,7 +6,6 @@ pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
-pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
@@ -106,7 +105,6 @@ pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
-pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
