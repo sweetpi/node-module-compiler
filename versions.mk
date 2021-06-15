@@ -110,6 +110,7 @@ pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
+pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
