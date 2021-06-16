@@ -91,6 +91,7 @@ pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
+pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
