@@ -93,6 +93,7 @@ pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
+pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
@@ -174,6 +175,7 @@ pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-sma@0.0.14
 pimatic-smartmeter@0.0.18
+pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
@@ -218,6 +220,7 @@ pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
+pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
