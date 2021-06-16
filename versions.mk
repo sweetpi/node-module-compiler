@@ -54,7 +54,6 @@ pimatic-echo@0.5.9
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
 pimatic-emon@0.3.0
-pimatic-enigma2@0.1.2
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
