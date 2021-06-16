@@ -44,6 +44,7 @@ pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
+pimatic-ds18b20@0.8.9
 pimatic-dummies@0.3.2
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
@@ -149,6 +150,7 @@ pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-ps4waker@0.1.4
+pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
