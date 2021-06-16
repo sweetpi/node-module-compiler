@@ -106,7 +106,6 @@ pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
-pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
@@ -177,6 +176,7 @@ pimatic-sma@0.0.14
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
+pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
