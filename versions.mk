@@ -141,6 +141,7 @@ pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
+pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
@@ -186,6 +187,7 @@ pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
+pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
