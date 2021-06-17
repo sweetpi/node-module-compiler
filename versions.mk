@@ -41,7 +41,6 @@ pimatic-deebot@0.0.35
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
-pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
@@ -73,6 +72,7 @@ pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
+pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
@@ -161,7 +161,6 @@ pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
 pimatic-samsung-tv@0.9.0
-pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.1.24
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
