@@ -112,6 +112,7 @@ pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
+pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
@@ -175,6 +176,7 @@ pimatic-slide@0.9.6
 pimatic-sma@0.0.14
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
+pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
