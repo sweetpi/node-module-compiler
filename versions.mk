@@ -12,7 +12,6 @@ pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
-pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.34
@@ -179,7 +178,6 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
-pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.9
 pimatic-sms@1.0.3
