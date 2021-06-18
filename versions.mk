@@ -4,7 +4,6 @@ pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
-pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
 pimatic-backup@0.2.2
@@ -80,6 +79,7 @@ pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
+pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
