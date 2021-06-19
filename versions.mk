@@ -41,6 +41,7 @@ pimatic-deebot@0.0.35
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
+pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
