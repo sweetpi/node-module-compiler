@@ -59,7 +59,6 @@ pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
 pimatic-filter@0.9.5
 pimatic-floorplan@0.2.13
-pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
@@ -116,6 +115,7 @@ pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
+pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
