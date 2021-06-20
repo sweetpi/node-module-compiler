@@ -123,6 +123,7 @@ pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
+pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
@@ -138,6 +139,7 @@ pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
+pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
@@ -214,6 +216,7 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-watchdog-unix@0.0.1
+pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
