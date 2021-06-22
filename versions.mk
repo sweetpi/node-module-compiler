@@ -29,6 +29,7 @@ pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
+pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
