@@ -45,6 +45,7 @@ pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
+pimatic-dummies@0.3.2
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-dyson@0.1.3
@@ -119,6 +120,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
+pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
@@ -147,7 +149,6 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
-pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -224,6 +225,7 @@ pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
+pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
