@@ -201,12 +201,14 @@ pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
+pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
