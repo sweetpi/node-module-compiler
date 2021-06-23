@@ -23,6 +23,7 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -93,6 +94,7 @@ pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
+pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
