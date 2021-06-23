@@ -31,6 +31,7 @@ pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-climasens@0.1.5
 pimatic-coc@0.9.0
+pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
@@ -88,6 +89,7 @@ pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
 pimatic-knmi-weather@0.9.5
+pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
@@ -211,6 +213,7 @@ pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
+pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
