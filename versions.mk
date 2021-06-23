@@ -157,7 +157,6 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
 pimatic-rfl868@0.7.3
-pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
@@ -180,7 +179,6 @@ pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
-pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.9
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
