@@ -125,6 +125,7 @@ env:
   - MODULE=pimatic-mpower
   - MODULE=pimatic-mqtt
   - MODULE=pimatic-mqtt-ext
+  - MODULE=pimatic-mqtt-publish
   - MODULE=pimatic-mqtt-simple
   - MODULE=pimatic-mysensors
   - MODULE=pimatic-mythermostat
@@ -137,7 +138,6 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-obi-power-outlet
-  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
