@@ -120,6 +120,7 @@ pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
+pimatic-mqtt-publish@0.0.1
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
@@ -132,7 +133,6 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
-pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
