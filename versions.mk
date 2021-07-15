@@ -16,7 +16,6 @@ pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.34
-pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
@@ -125,7 +124,6 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
-pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
