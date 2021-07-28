@@ -23,6 +23,7 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -132,7 +133,6 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
-pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
