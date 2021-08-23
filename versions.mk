@@ -1,10 +1,7 @@
 pimatic@0.9.54
-pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
-pimatic-angular-material-frontend@0.3.4
 pimatic-anymote@0.1.1
-pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
 pimatic-backup@0.2.2
@@ -16,7 +13,6 @@ pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.34
-pimatic-bme280@0.1.3
 pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
