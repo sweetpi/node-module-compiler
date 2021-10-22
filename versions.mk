@@ -8,7 +8,6 @@ pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
 pimatic-backup@0.2.2
-pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
@@ -65,7 +64,6 @@ pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
-pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
 pimatic-hk-avr@0.1.0
