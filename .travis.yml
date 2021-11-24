@@ -34,7 +34,6 @@ env:
   - MODULE=pimatic-chromecast
   - MODULE=pimatic-chronotherm
   - MODULE=pimatic-chronothermmanu
-  - MODULE=pimatic-climasens
   - MODULE=pimatic-coc
   - MODULE=pimatic-cron
   - MODULE=pimatic-css-inject
@@ -138,6 +137,7 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-obi-power-outlet
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
