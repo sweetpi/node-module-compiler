@@ -63,7 +63,6 @@ pimatic-fritz@0.6.7
 pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
-pimatic-gpio@0.9.1
 pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
