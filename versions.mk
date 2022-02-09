@@ -187,7 +187,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
-pimatic-spotify@0.0.2
+pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
