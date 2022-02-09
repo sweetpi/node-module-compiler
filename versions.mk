@@ -132,7 +132,6 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-obi-power-outlet@0.2.0
-pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
@@ -215,6 +214,7 @@ pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
+pimatic-wakeuplight@0.0.2
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
