@@ -23,7 +23,6 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
-pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -188,6 +187,7 @@ pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
+pimatic-spotify@0.0.2
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
