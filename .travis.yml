@@ -137,7 +137,6 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-obi-power-outlet
-  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
@@ -220,6 +219,7 @@ env:
   - MODULE=pimatic-vvo
   - MODULE=pimatic-wago
   - MODULE=pimatic-wakeonlan
+  - MODULE=pimatic-wakeuplight
   - MODULE=pimatic-watchdog-unix
   - MODULE=pimatic-water-level
   - MODULE=pimatic-wavtrigger
