@@ -28,7 +28,6 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
-  - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
   - MODULE=pimatic-chromecast
@@ -193,6 +192,7 @@ env:
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sounds
   - MODULE=pimatic-sounds-basic
+  - MODULE=pimatic-spotify
   - MODULE=pimatic-stats
   - MODULE=pimatic-sunrise
   - MODULE=pimatic-switchbot
