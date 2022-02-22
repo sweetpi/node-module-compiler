@@ -182,6 +182,7 @@ pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
+pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
