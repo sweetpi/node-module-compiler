@@ -135,6 +135,7 @@ env:
   - MODULE=pimatic-nuki
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
+  - MODULE=pimatic-nzbget
   - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
@@ -188,7 +189,6 @@ env:
   - MODULE=pimatic-sms
   - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
-  - MODULE=pimatic-solvisremote
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sounds
   - MODULE=pimatic-sounds-basic
