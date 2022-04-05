@@ -10,6 +10,7 @@ pimatic-athome@0.9.1
 pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
+pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
@@ -34,7 +35,6 @@ pimatic-customcss@0.1.0
 pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
-pimatic-deebot@0.0.35
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
