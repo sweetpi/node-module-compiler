@@ -114,11 +114,11 @@ pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
+pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
-pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
@@ -142,7 +142,6 @@ pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
-pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
@@ -198,6 +197,7 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
+pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
