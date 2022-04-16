@@ -78,6 +78,7 @@ pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
+pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
@@ -109,7 +110,6 @@ pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
 pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
-pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
@@ -147,6 +147,7 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
+pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
@@ -225,6 +226,7 @@ pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
+pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
