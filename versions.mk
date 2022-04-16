@@ -142,14 +142,13 @@ pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
-pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
+pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
-pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
@@ -165,6 +164,7 @@ pimatic-save@0.2.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
+pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
@@ -185,12 +185,10 @@ pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
-pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
-pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
@@ -220,7 +218,6 @@ pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
-pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
