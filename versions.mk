@@ -56,7 +56,6 @@ pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
-pimatic-filter@0.9.5
 pimatic-floorplan@0.2.13
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
@@ -96,12 +95,10 @@ pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
-pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
-pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
 pimatic-meross@0.2.8
@@ -217,6 +214,7 @@ pimatic-wakeonlan@0.9.7
 pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
+pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
