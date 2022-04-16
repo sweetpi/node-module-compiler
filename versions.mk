@@ -52,7 +52,6 @@ pimatic-echo@0.6.0
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
 pimatic-emon@0.3.0
-pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
@@ -133,7 +132,6 @@ pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo-avr@0.2.0
-pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
@@ -170,8 +168,8 @@ pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
-pimatic-slack@1.0.1
 pimatic-slide@0.9.6
+pimatic-sma@0.0.15
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
