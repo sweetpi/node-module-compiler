@@ -121,12 +121,14 @@ pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
+pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
+pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
@@ -169,6 +171,7 @@ pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
+pimatic-slide@0.9.6
 pimatic-sma@0.0.15
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
