@@ -71,6 +71,7 @@ pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
+pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
@@ -212,7 +213,6 @@ pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
-pimatic-wakeonlan@0.9.7
 pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
