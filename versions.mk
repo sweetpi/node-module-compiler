@@ -49,7 +49,6 @@ pimatic-dwd-weather@0.9.5
 pimatic-dyson@0.1.3
 pimatic-easybox@0.1.2
 pimatic-echo@0.6.0
-pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
 pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
@@ -74,6 +73,7 @@ pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
+pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
@@ -95,6 +95,7 @@ pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
+pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
@@ -140,6 +141,7 @@ pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
+pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
@@ -204,6 +206,7 @@ pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
