@@ -174,6 +174,7 @@ pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-sma@0.0.15
 pimatic-smartmeter@0.0.18
+pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
@@ -194,6 +195,7 @@ pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
+pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
@@ -216,6 +218,7 @@ pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
+pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
