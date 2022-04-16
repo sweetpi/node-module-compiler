@@ -36,7 +36,6 @@ pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.35
-pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
@@ -158,7 +157,6 @@ pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
-pimatic-rtl433@1.0.0
 pimatic-sabnzbd@0.0.3
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
