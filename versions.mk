@@ -11,6 +11,7 @@ pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
+pimatic-ble-mi-flora@0.0.9
 pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -55,6 +56,7 @@ pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
+pimatic-filter@0.9.5
 pimatic-floorplan@0.2.13
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
@@ -143,6 +145,7 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
+pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
@@ -194,12 +197,14 @@ pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
+pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
+pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
