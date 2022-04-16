@@ -17,6 +17,7 @@ pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.35
 pimatic-bme280@0.1.3
+pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
@@ -140,6 +141,7 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
+pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
@@ -178,6 +180,7 @@ pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
+pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
