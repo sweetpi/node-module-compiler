@@ -52,6 +52,7 @@ pimatic-echo@0.6.0
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
 pimatic-emon@0.3.0
+pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
@@ -97,13 +98,11 @@ pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
-pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
-pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
@@ -132,6 +131,7 @@ pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo-avr@0.2.0
+pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
@@ -161,13 +161,13 @@ pimatic-sabnzbd@0.0.3
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.2.0
-pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
+pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-sma@0.0.15
 pimatic-smartmeter@0.0.18
@@ -220,7 +220,6 @@ pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
-pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
