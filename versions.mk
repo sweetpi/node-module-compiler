@@ -56,7 +56,6 @@ pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
 pimatic-filebrowser@0.9.2
-pimatic-filter@0.9.5
 pimatic-floorplan@0.2.13
 pimatic-foscam@0.8.9
 pimatic-fritz@0.6.7
@@ -219,6 +218,7 @@ pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
+pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
