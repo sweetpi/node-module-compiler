@@ -11,6 +11,7 @@ pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
+pimatic-ble-mi-flora@0.0.9
 pimatic-ble2@0.9.9
 pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
@@ -213,7 +214,6 @@ pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
-pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
