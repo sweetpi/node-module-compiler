@@ -23,7 +23,6 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
-pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
 pimatic-chronotherm@0.9.8-10
@@ -36,6 +35,7 @@ pimatic-dash-button@0.2.1
 pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.35
+pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
@@ -157,6 +157,7 @@ pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
+pimatic-rtl433@1.0.0
 pimatic-sabnzbd@0.0.3
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
@@ -205,7 +206,6 @@ pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
-pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
@@ -216,7 +216,6 @@ pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
-pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
@@ -225,9 +224,7 @@ pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
-pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
-pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
