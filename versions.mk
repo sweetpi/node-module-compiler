@@ -13,7 +13,6 @@ pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
 pimatic-ble-mi-flora@0.0.9
 pimatic-ble2@0.9.9
-pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.35
 pimatic-bme280@0.1.3
@@ -134,7 +133,6 @@ pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
-pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
 pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
@@ -149,7 +147,6 @@ pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
-pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
