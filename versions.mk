@@ -108,7 +108,6 @@ pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
-pimatic-milight-reloaded@0.9.18
 pimatic-mjpg@0.0.1
 pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
@@ -172,6 +171,7 @@ pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-slide@0.9.6
+pimatic-sma@0.0.15
 pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
@@ -203,13 +203,11 @@ pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
-pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
-pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
@@ -219,7 +217,6 @@ pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
-pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
