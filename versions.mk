@@ -22,7 +22,6 @@ pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
-pimatic-calendar2@0.9.9
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -69,7 +68,6 @@ pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
 pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
-pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
 pimatic-homegear-ws@0.1.8
@@ -82,12 +80,10 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
-pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
 pimatic-jointspace@0.1.0
-pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
@@ -149,7 +145,6 @@ pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
-pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
@@ -215,7 +210,6 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-wakeuplight@0.0.11
-pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
