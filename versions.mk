@@ -91,7 +91,6 @@ pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
-pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
@@ -123,6 +122,7 @@ pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
+pimatic-nefit@0.1.19
 pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
@@ -131,10 +131,10 @@ pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
+pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
-pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
@@ -177,6 +177,7 @@ pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
+pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
@@ -187,10 +188,13 @@ pimatic-sounds-basic@0.1.24
 pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
+pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
+pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
+pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
