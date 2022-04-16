@@ -81,7 +81,6 @@ pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
-pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
@@ -98,11 +97,13 @@ pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
+pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
 pimatic-maxcul@1.1.1
+pimatic-meross@0.2.8
 pimatic-mesh@0.2.3
 pimatic-metar-weather@0.9.2
 pimatic-milight@0.0.4
@@ -161,6 +162,7 @@ pimatic-sabnzbd@0.0.3
 pimatic-samsung-tv@0.9.0
 pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.2.0
+pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
@@ -220,6 +222,7 @@ pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
+pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
