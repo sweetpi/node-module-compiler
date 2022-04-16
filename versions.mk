@@ -7,6 +7,7 @@ pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
+pimatic-backup@0.2.2
 pimatic-bh1750@0.2.0
 pimatic-ble@0.9.3
 pimatic-ble-itag@0.0.6
@@ -16,7 +17,6 @@ pimatic-ble2-mi-flora@0.0.9
 pimatic-bluebean@0.8.0
 pimatic-bluelink@0.2.35
 pimatic-bme280@0.1.3
-pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
@@ -93,6 +93,7 @@ pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
+pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
@@ -139,7 +140,6 @@ pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
-pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
@@ -164,19 +164,20 @@ pimatic-save@0.2.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
+pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
 pimatic-slide@0.9.6
 pimatic-sma@0.0.15
+pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
-pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
@@ -187,6 +188,7 @@ pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
+pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
@@ -223,6 +225,7 @@ pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
+pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
