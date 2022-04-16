@@ -77,7 +77,6 @@ pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
-pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
@@ -120,6 +119,7 @@ pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
 pimatic-mqtt-simple@0.1.1
+pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
 pimatic-nefit@0.1.19
@@ -144,6 +144,7 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
+pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
@@ -194,12 +195,12 @@ pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
+pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
-pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
