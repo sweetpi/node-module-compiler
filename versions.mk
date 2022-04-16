@@ -128,6 +128,7 @@ pimatic-netatmo@0.0.9
 pimatic-nikoniko@0.8.2
 pimatic-node-red@1.0.7
 pimatic-nuki@0.9.1
+pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
@@ -149,6 +150,7 @@ pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
+pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
@@ -229,4 +231,5 @@ pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
+pimatic-ziggo-mediabox@0.1.0
 pimatic-zwave-usb@0.0.11
