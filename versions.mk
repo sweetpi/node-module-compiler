@@ -79,6 +79,7 @@ pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
+pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
@@ -113,11 +114,11 @@ pimatic-mobile-frontend@0.9.16
 pimatic-mochad@0.9.53
 pimatic-mochad-simple@0.6.0
 pimatic-mopidy@0.1.0
-pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
+pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
@@ -187,6 +188,7 @@ pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
 pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
+pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.5
@@ -196,7 +198,6 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
-pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
