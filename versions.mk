@@ -51,6 +51,7 @@ pimatic-easybox@0.1.2
 pimatic-echo@0.6.0
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
+pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
@@ -75,7 +76,6 @@ pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1
-pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
@@ -92,6 +92,7 @@ pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
 pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
+pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
@@ -143,6 +144,7 @@ pimatic-ping@0.8.14
 pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
+pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
@@ -150,6 +152,7 @@ pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
+pimatic-raspbee-plus@0.1.1
 pimatic-rfl868@0.7.3
 pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
@@ -212,6 +215,7 @@ pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-wakeuplight@0.0.11
 pimatic-watchdog-unix@0.0.1
+pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
