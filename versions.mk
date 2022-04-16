@@ -146,6 +146,7 @@ pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
+pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
@@ -176,7 +177,6 @@ pimatic-smartmeter@0.0.18
 pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
-pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
