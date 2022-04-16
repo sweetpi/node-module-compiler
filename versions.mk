@@ -37,6 +37,7 @@ pimatic-dashboard@0.1.5
 pimatic-datetime@0.3.1
 pimatic-deebot@0.0.35
 pimatic-denon-avr@0.9.11
+pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
 pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
@@ -63,7 +64,6 @@ pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
-pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
 pimatic-hk-avr@0.1.0
@@ -146,7 +146,6 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
-pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -181,7 +180,6 @@ pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
-pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
