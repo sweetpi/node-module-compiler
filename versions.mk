@@ -79,7 +79,6 @@ pimatic-hue-zll@0.3.1
 pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
-pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
@@ -119,7 +118,6 @@ pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
 pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
-pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
 pimatic-mythermostat@0.0.3
 pimatic-nanoleaf@0.0.4
@@ -142,6 +140,7 @@ pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
 pimatic-piblaster@0.9.0
 pimatic-ping@0.8.14
+pimatic-pio-remote@0.5.3
 pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
@@ -149,6 +148,7 @@ pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
+pimatic-pushsafer@1.0.5
 pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
@@ -185,10 +185,11 @@ pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
+pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
-pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
+pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
@@ -218,6 +219,7 @@ pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
 pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
+pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
