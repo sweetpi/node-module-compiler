@@ -64,6 +64,7 @@ pimatic-fronius-solar@0.0.18
 pimatic-gbridge@0.3.5
 pimatic-google-calendar@0.4.1
 pimatic-gpio@0.9.1
+pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
 pimatic-hk-avr@0.1.0
@@ -116,7 +117,6 @@ pimatic-mopidy@0.1.0
 pimatic-mpd@0.8.12
 pimatic-mpower@0.8.3
 pimatic-mqtt@0.9.13
-pimatic-mqtt-ext@0.9.8
 pimatic-mqtt-publish@0.0.5
 pimatic-mqtt-simple@0.1.1
 pimatic-mysensors@0.9.3
@@ -146,6 +146,7 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
+pimatic-prowl@0.0.2
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -176,10 +177,10 @@ pimatic-smartmeter-gas@0.0.1
 pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
-pimatic-smartmeter2@0.0.18
 pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
+pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
@@ -206,7 +207,6 @@ pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
-pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
 pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
