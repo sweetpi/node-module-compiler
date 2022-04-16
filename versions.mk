@@ -91,6 +91,7 @@ pimatic-knmi-weather@0.9.5
 pimatic-kodi@0.1.9
 pimatic-landroid@0.1.23
 pimatic-lcd@0.8.3
+pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
@@ -135,6 +136,7 @@ pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
 pimatic-otgw@0.0.2
+pimatic-ouimeaux@0.1.0
 pimatic-owjs@0.1.7
 pimatic-owntracks@1.0.2
 pimatic-phone@0.9.7
