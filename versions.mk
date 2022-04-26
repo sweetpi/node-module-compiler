@@ -21,6 +21,7 @@ pimatic-bmp180@2.0.1
 pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
+pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
@@ -96,6 +97,7 @@ pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
+pimatic-lm-sensors@0.2.0
 pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
@@ -187,6 +189,7 @@ pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
 pimatic-spotify@0.0.3
 pimatic-stats@0.1.14
+pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
 pimatic-tado-reloaded@0.2.5
