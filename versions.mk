@@ -43,6 +43,7 @@ pimatic-diy-controls@0.0.1
 pimatic-dlnacasts@0.1.0
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
+pimatic-dummies@0.3.2
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-dyson@0.1.3
