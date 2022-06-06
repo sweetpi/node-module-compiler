@@ -39,7 +39,6 @@ pimatic-deebot@0.0.35
 pimatic-denon-avr@0.9.11
 pimatic-dewpoint@0.9.2
 pimatic-dht-sensors@0.9.3
-pimatic-diy-controls@0.0.1
 pimatic-dooya@1.0.1
 pimatic-ds18b20@0.8.9
 pimatic-dummies@0.3.2
@@ -130,6 +129,7 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
+pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
