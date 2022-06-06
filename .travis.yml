@@ -44,7 +44,6 @@ env:
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
-  - MODULE=pimatic-diy-controls
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dummies
@@ -135,6 +134,7 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
+  - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
