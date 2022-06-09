@@ -203,7 +203,6 @@ pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
-pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
 pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
