@@ -153,6 +153,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
