@@ -104,6 +104,7 @@ env:
   - MODULE=pimatic-lirc
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
+  - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
@@ -138,6 +139,7 @@ env:
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
   - MODULE=pimatic-obi-power-outlet
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
@@ -154,6 +156,7 @@ env:
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
+  - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
@@ -171,7 +174,6 @@ env:
   - MODULE=pimatic-save
   - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
-  - MODULE=pimatic-serial
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
@@ -190,6 +192,7 @@ env:
   - MODULE=pimatic-sms
   - MODULE=pimatic-snmp
   - MODULE=pimatic-solarview
+  - MODULE=pimatic-solvisremote
   - MODULE=pimatic-sonos
   - MODULE=pimatic-sounds
   - MODULE=pimatic-sounds-basic
@@ -212,6 +215,7 @@ env:
   - MODULE=pimatic-unieq-box
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
+  - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-vr-harmonyhub
   - MODULE=pimatic-vsphere
@@ -236,7 +240,6 @@ env:
   - MODULE=pimatic-youless
   - MODULE=pimatic-z-way
   - MODULE=pimatic-ziggo-mediabox
-  - MODULE=pimatic-zwave-usb
   global:
     secure: NYLaVNNjnHMP9bbcuID35LAevUlHXh0ppxHTUZ7yqmIISphYyQtlINlBibPY2ImqdB1b9tg8iOJFr7PKsB8JdQKKPDlquo3hjbE+rO5RhkeYrfbYwi1Kxrr0322MOjVLa0nYGc0EqATzqnjKflHv+BCj/370Y3ZB5fgzfixWu30=
 before_install:
