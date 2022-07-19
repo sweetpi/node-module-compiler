@@ -68,7 +68,6 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
-pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
@@ -168,6 +167,7 @@ pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.2.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
+pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
@@ -201,6 +201,7 @@ pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
+pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
@@ -227,7 +228,6 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
-pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7
