@@ -73,7 +73,6 @@ env:
   - MODULE=pimatic-hap
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-hass
-  - MODULE=pimatic-hk-avr
   - MODULE=pimatic-holidays
   - MODULE=pimatic-home-connect
   - MODULE=pimatic-homeduino
@@ -173,6 +172,7 @@ env:
   - MODULE=pimatic-save
   - MODULE=pimatic-sensibo
   - MODULE=pimatic-sensortag
+  - MODULE=pimatic-serial
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
   - MODULE=pimatic-shell-execute
@@ -206,6 +206,7 @@ env:
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tools
   - MODULE=pimatic-tplink-smartplug
+  - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
   - MODULE=pimatic-tuya
   - MODULE=pimatic-tv-program
@@ -232,7 +233,6 @@ env:
   - MODULE=pimatic-wmi
   - MODULE=pimatic-woox
   - MODULE=pimatic-wunderground
-  - MODULE=pimatic-xbox
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
