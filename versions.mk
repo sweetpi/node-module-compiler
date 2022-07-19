@@ -99,6 +99,7 @@ pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
+pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
@@ -133,6 +134,7 @@ pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
 pimatic-obi-power-outlet@0.2.0
+pimatic-onkyo@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
@@ -149,6 +151,7 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
+pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -166,7 +169,6 @@ pimatic-samsung-tv-2016@0.4.0
 pimatic-save@0.2.0
 pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
-pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
 pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
@@ -185,6 +187,7 @@ pimatic-smartnora@0.3.10
 pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
+pimatic-solvisremote@0.0.5
 pimatic-sonos@0.1.1
 pimatic-sounds@0.2.16
 pimatic-sounds-basic@0.1.24
@@ -207,6 +210,7 @@ pimatic-ultrasonic@0.9.1
 pimatic-unieq-box@0.9.0
 pimatic-unipi-evok@0.3.3
 pimatic-upnp-root@0.9.0
+pimatic-voice-recognition@0.8.0
 pimatic-volkszaehler@0.3.1
 pimatic-vr-harmonyhub@0.0.6
 pimatic-vsphere@0.1.1
@@ -231,4 +235,3 @@ pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
-pimatic-zwave-usb@0.0.11
