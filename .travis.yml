@@ -28,6 +28,7 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
+  - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
   - MODULE=pimatic-chromecast
@@ -44,6 +45,8 @@ env:
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
+  - MODULE=pimatic-diy-controls
+  - MODULE=pimatic-dlnacasts
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dummies
@@ -201,7 +204,6 @@ env:
   - MODULE=pimatic-thinkingcleaner
   - MODULE=pimatic-tools
   - MODULE=pimatic-tplink-smartplug
-  - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
   - MODULE=pimatic-tuya
   - MODULE=pimatic-tv-program
@@ -210,7 +212,6 @@ env:
   - MODULE=pimatic-unieq-box
   - MODULE=pimatic-unipi-evok
   - MODULE=pimatic-upnp-root
-  - MODULE=pimatic-voice-recognition
   - MODULE=pimatic-volkszaehler
   - MODULE=pimatic-vr-harmonyhub
   - MODULE=pimatic-vsphere
