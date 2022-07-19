@@ -96,7 +96,6 @@ pimatic-led-light@0.9.5
 pimatic-lg-smart-tv@0.0.2
 pimatic-lgtv@0.8.2
 pimatic-links@0.8.6
-pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
@@ -235,3 +234,4 @@ pimatic-yoctopuce@1.0.7
 pimatic-youless@0.5.0
 pimatic-z-way@1.4.3
 pimatic-ziggo-mediabox@0.1.0
+pimatic-zwave-usb@0.0.11
