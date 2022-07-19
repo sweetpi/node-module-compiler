@@ -101,6 +101,7 @@ env:
   - MODULE=pimatic-lg-smart-tv
   - MODULE=pimatic-lgtv
   - MODULE=pimatic-links
+  - MODULE=pimatic-lirc
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
   - MODULE=pimatic-location
@@ -137,7 +138,6 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
-  - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
