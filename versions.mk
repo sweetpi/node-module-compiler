@@ -25,6 +25,7 @@ pimatic-calendar@0.8.0
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
+pimatic-chromecast@1.3.2
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
 pimatic-coc@0.9.0
@@ -79,6 +80,7 @@ pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
+pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
