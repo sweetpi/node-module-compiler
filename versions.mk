@@ -21,6 +21,7 @@ pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
+pimatic-calendar2@0.9.9
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
@@ -201,7 +202,6 @@ pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
-pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
