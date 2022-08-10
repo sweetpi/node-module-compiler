@@ -50,7 +50,6 @@ pimatic-easybox@0.1.2
 pimatic-echo@0.6.0
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
-pimatic-emon@0.3.0
 pimatic-enigma2@0.1.2
 pimatic-esp-climate@0.0.1
 pimatic-ethboard@0.0.9
