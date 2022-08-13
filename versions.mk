@@ -3,7 +3,6 @@ pimatic-alarm@0.2.0
 pimatic-alert@0.3.7
 pimatic-amazing-dash-button@0.9.15
 pimatic-angular-material-frontend@0.3.4
-pimatic-anymote@0.1.1
 pimatic-aqara@0.4.5
 pimatic-assistant@0.2.14
 pimatic-athome@0.9.1
@@ -21,6 +20,7 @@ pimatic-bmp280@0.1.0
 pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
+pimatic-calendar2@0.9.9
 pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
