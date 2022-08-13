@@ -8,6 +8,7 @@ env:
   - MODULE=pimatic-alert
   - MODULE=pimatic-amazing-dash-button
   - MODULE=pimatic-angular-material-frontend
+  - MODULE=pimatic-anymote
   - MODULE=pimatic-aqara
   - MODULE=pimatic-assistant
   - MODULE=pimatic-athome
@@ -16,6 +17,7 @@ env:
   - MODULE=pimatic-ble
   - MODULE=pimatic-ble-itag
   - MODULE=pimatic-ble-mi-flora
+  - MODULE=pimatic-ble2
   - MODULE=pimatic-ble2-mi-flora
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-bluelink
@@ -26,7 +28,6 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
-  - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
   - MODULE=pimatic-chromecast
@@ -43,8 +44,6 @@ env:
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
-  - MODULE=pimatic-diy-controls
-  - MODULE=pimatic-dlnacasts
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dummies
@@ -231,6 +230,7 @@ env:
   - MODULE=pimatic-wmi
   - MODULE=pimatic-woox
   - MODULE=pimatic-wunderground
+  - MODULE=pimatic-xbox
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
