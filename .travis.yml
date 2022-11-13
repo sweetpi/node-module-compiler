@@ -40,11 +40,11 @@ env:
   - MODULE=pimatic-dash-button
   - MODULE=pimatic-dashboard
   - MODULE=pimatic-datetime
-  - MODULE=pimatic-deebot
   - MODULE=pimatic-denon-avr
   - MODULE=pimatic-dewpoint
   - MODULE=pimatic-dht-sensors
   - MODULE=pimatic-diy-controls
+  - MODULE=pimatic-dlnacasts
   - MODULE=pimatic-dooya
   - MODULE=pimatic-ds18b20
   - MODULE=pimatic-dummies
