@@ -23,7 +23,6 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
-pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -67,6 +66,7 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.10
+pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
@@ -97,7 +97,6 @@ pimatic-links@0.8.6
 pimatic-lirc@0.1.1
 pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
-pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
 pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
@@ -131,7 +130,7 @@ pimatic-nuki@0.9.1
 pimatic-nuki-reloaded@0.9.28
 pimatic-nut@0.2.0
 pimatic-nzbget@0.0.8
-pimatic-onkyo@0.2.0
+pimatic-obi-power-outlet@0.2.0
 pimatic-onkyo-avr@0.2.0
 pimatic-openweather@0.9.4
 pimatic-orvibo@0.0.3
@@ -148,7 +147,6 @@ pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
 pimatic-prowl@0.0.2
-pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.5
@@ -202,6 +200,7 @@ pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
 pimatic-tts@0.0.5
+pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
 pimatic-ultrasonic@0.9.1
@@ -226,6 +225,7 @@ pimatic-wink@1.1.0
 pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
+pimatic-xbox@0.1.1
 pimatic-xmpp@0.0.11
 pimatic-yamaha-avr@0.9.4
 pimatic-yoctopuce@1.0.7

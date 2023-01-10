@@ -28,7 +28,6 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
-  - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
   - MODULE=pimatic-chromecast
@@ -72,6 +71,7 @@ env:
   - MODULE=pimatic-hap
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-hass
+  - MODULE=pimatic-hk-avr
   - MODULE=pimatic-holidays
   - MODULE=pimatic-home-connect
   - MODULE=pimatic-homeduino
@@ -102,7 +102,6 @@ env:
   - MODULE=pimatic-lirc
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
-  - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
@@ -136,7 +135,7 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
-  - MODULE=pimatic-onkyo
+  - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
@@ -153,7 +152,6 @@ env:
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
-  - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
@@ -207,6 +205,7 @@ env:
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
+  - MODULE=pimatic-tuya
   - MODULE=pimatic-tv-program
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
@@ -231,6 +230,7 @@ env:
   - MODULE=pimatic-wmi
   - MODULE=pimatic-woox
   - MODULE=pimatic-wunderground
+  - MODULE=pimatic-xbox
   - MODULE=pimatic-xmpp
   - MODULE=pimatic-yamaha-avr
   - MODULE=pimatic-yoctopuce
