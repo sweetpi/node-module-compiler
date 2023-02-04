@@ -102,6 +102,7 @@ env:
   - MODULE=pimatic-lirc
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
+  - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
@@ -135,7 +136,6 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
-  - MODULE=pimatic-obi-power-outlet
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
