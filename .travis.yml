@@ -102,6 +102,7 @@ env:
   - MODULE=pimatic-lirc
   - MODULE=pimatic-livolo
   - MODULE=pimatic-lm-sensors
+  - MODULE=pimatic-location
   - MODULE=pimatic-log-reader
   - MODULE=pimatic-luftdaten
   - MODULE=pimatic-luxtronik2
