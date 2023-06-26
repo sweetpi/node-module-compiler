@@ -136,6 +136,7 @@ env:
   - MODULE=pimatic-nuki-reloaded
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
@@ -206,7 +207,6 @@ env:
   - MODULE=pimatic-tplink-smartplug
   - MODULE=pimatic-tradfri
   - MODULE=pimatic-tts
-  - MODULE=pimatic-tuya
   - MODULE=pimatic-tv-program
   - MODULE=pimatic-uber
   - MODULE=pimatic-ultrasonic
