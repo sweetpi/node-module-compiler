@@ -72,7 +72,6 @@ env:
   - MODULE=pimatic-hap
   - MODULE=pimatic-harmonyhub
   - MODULE=pimatic-hass
-  - MODULE=pimatic-hk-avr
   - MODULE=pimatic-holidays
   - MODULE=pimatic-home-connect
   - MODULE=pimatic-homeduino
@@ -85,6 +84,7 @@ env:
   - MODULE=pimatic-i2c-bme280
   - MODULE=pimatic-iframe
   - MODULE=pimatic-ifttt
+  - MODULE=pimatic-ina219
   - MODULE=pimatic-influxdb
   - MODULE=pimatic-intergasincomfort
   - MODULE=pimatic-ipcamera

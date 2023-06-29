@@ -67,7 +67,6 @@ pimatic-gpio@0.9.1
 pimatic-hap@0.13.0
 pimatic-harmonyhub@0.0.6
 pimatic-hass@0.3.11
-pimatic-hk-avr@0.1.0
 pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
@@ -80,6 +79,7 @@ pimatic-i2c@0.1.11
 pimatic-i2c-bme280@0.9.1
 pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
+pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
 pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
