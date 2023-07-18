@@ -200,6 +200,7 @@ pimatic-thinkingcleaner@0.8.6
 pimatic-tools@0.0.5
 pimatic-tplink-smartplug@0.0.8
 pimatic-tradfri@0.1.22
+pimatic-tts@0.0.5
 pimatic-tuya@0.0.15
 pimatic-tv-program@0.1.3
 pimatic-uber@1.0.0
