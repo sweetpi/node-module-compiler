@@ -22,7 +22,6 @@ env:
   - MODULE=pimatic-bluebean
   - MODULE=pimatic-bluelink
   - MODULE=pimatic-bme280
-  - MODULE=pimatic-bmp180
   - MODULE=pimatic-bmp280
   - MODULE=pimatic-broadlink
   - MODULE=pimatic-buienradar
@@ -153,6 +152,7 @@ env:
   - MODULE=pimatic-plugin-openhr20
   - MODULE=pimatic-probe
   - MODULE=pimatic-prowl
+  - MODULE=pimatic-ps4waker
   - MODULE=pimatic-pushbullet
   - MODULE=pimatic-pushover
   - MODULE=pimatic-pushsafer
