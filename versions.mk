@@ -27,6 +27,7 @@ pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
 pimatic-chronotherm@0.9.8-10
 pimatic-chronothermmanu@0.9.8-11
+pimatic-coc@0.9.0
 pimatic-cron@0.8.8
 pimatic-css-inject@0.1.2
 pimatic-customcss@0.1.0
@@ -79,6 +80,7 @@ pimatic-iframe@0.3.1
 pimatic-ifttt@0.1.1
 pimatic-ina219@0.0.8
 pimatic-influxdb@0.1.2
+pimatic-intergasincomfort@0.3.0
 pimatic-ipcamera@1.1.1
 pimatic-jeelabs@0.8.7
 pimatic-johnny-five@0.9.12
@@ -96,6 +98,7 @@ pimatic-livolo@1.1.2
 pimatic-lm-sensors@0.2.0
 pimatic-location@0.2.5
 pimatic-log-reader@0.9.3
+pimatic-luftdaten@0.4.8
 pimatic-luxtronik2@0.0.4
 pimatic-mail@0.8.6
 pimatic-max@0.9.0
@@ -143,6 +146,8 @@ pimatic-play@0.8.0
 pimatic-plex@0.0.6
 pimatic-plugin-openhr20@0.17.0
 pimatic-probe@0.3.4
+pimatic-prowl@0.0.2
+pimatic-ps4waker@0.1.4
 pimatic-pushbullet@0.9.0
 pimatic-pushover@0.9.4
 pimatic-pushsafer@1.0.6
@@ -150,6 +155,7 @@ pimatic-quote-of-the-day@1.0.7
 pimatic-raspbee@0.1.7
 pimatic-raspbee-plus@0.1.1
 pimatic-rfl868@0.7.3
+pimatic-rflink@0.7.2
 pimatic-rfxcom@1.1.0
 pimatic-rpi433@0.2.0
 pimatic-rtl433@1.0.0
@@ -161,6 +167,7 @@ pimatic-sensibo@0.9.0-a.4
 pimatic-sensortag@0.8.3
 pimatic-serial@0.0.3
 pimatic-serial-benqbeamer@0.0.2
+pimatic-serial-ivisions@0.0.2
 pimatic-shell-execute@0.9.11
 pimatic-sispmctl@0.8.6
 pimatic-slack@1.0.1
@@ -172,7 +179,9 @@ pimatic-smartmeter-obis@0.1.17
 pimatic-smartmeter-old@0.0.17
 pimatic-smartmeter-stats@0.1.24
 pimatic-smartmeter2@0.0.18
+pimatic-smartmeter3@0.0.6
 pimatic-smartnora@0.3.10
+pimatic-sms@1.0.3
 pimatic-snmp@0.4.2
 pimatic-solarview@0.8.6
 pimatic-solvisremote@0.0.5
@@ -184,6 +193,7 @@ pimatic-stats@0.1.14
 pimatic-sunrise@0.9.3
 pimatic-switchbot@0.0.3
 pimatic-sysinfo@0.9.6
+pimatic-tado-reloaded@0.2.5
 pimatic-tankerkoenig@0.0.4
 pimatic-telegram@1.1.14
 pimatic-thinkingcleaner@0.8.6
@@ -206,11 +216,14 @@ pimatic-vvo@0.0.7
 pimatic-wago@1.0.0
 pimatic-wakeonlan@0.9.7
 pimatic-wakeuplight@0.0.11
+pimatic-watchdog-unix@0.0.1
 pimatic-water-level@0.0.5
 pimatic-wavtrigger@0.0.6
 pimatic-websolarlog@0.0.5
 pimatic-wemo@0.0.3
+pimatic-wifiswitch@0.0.3
 pimatic-wink@1.1.0
+pimatic-wmi@0.1.8
 pimatic-woox@0.0.4
 pimatic-wunderground@0.2.4
 pimatic-xbox@0.1.1
