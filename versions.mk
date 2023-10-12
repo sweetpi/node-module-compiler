@@ -22,6 +22,7 @@ pimatic-broadlink@0.0.17
 pimatic-buienradar@0.1.4
 pimatic-calendar@0.8.0
 pimatic-calendar2@0.9.9
+pimatic-can@0.1.3
 pimatic-charts@0.0.4
 pimatic-check-alive@0.1.0
 pimatic-chromecast@1.3.2
@@ -45,7 +46,6 @@ pimatic-dummies@0.3.2
 pimatic-dwd@0.9.2
 pimatic-dwd-weather@0.9.5
 pimatic-dyson@0.1.3
-pimatic-easybox@0.1.2
 pimatic-echo@0.6.0
 pimatic-edimax@0.3.19
 pimatic-efergye2@1.0.4
@@ -70,7 +70,6 @@ pimatic-holidays@0.0.3
 pimatic-home-connect@0.2.17
 pimatic-homeduino@0.9.18
 pimatic-homegear@0.1.1
-pimatic-homegear-ws@0.1.8
 pimatic-hongkongpollution@0.0.1
 pimatic-hue@0.1.0
 pimatic-hue-zll@0.3.1

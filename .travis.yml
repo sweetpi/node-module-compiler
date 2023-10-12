@@ -27,6 +27,7 @@ env:
   - MODULE=pimatic-buienradar
   - MODULE=pimatic-calendar
   - MODULE=pimatic-calendar2
+  - MODULE=pimatic-can
   - MODULE=pimatic-charts
   - MODULE=pimatic-check-alive
   - MODULE=pimatic-chromecast
@@ -50,7 +51,6 @@ env:
   - MODULE=pimatic-dwd
   - MODULE=pimatic-dwd-weather
   - MODULE=pimatic-dyson
-  - MODULE=pimatic-easybox
   - MODULE=pimatic-echo
   - MODULE=pimatic-edimax
   - MODULE=pimatic-efergye2
@@ -75,7 +75,6 @@ env:
   - MODULE=pimatic-home-connect
   - MODULE=pimatic-homeduino
   - MODULE=pimatic-homegear
-  - MODULE=pimatic-homegear-ws
   - MODULE=pimatic-hongkongpollution
   - MODULE=pimatic-hue
   - MODULE=pimatic-hue-zll
