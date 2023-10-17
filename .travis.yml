@@ -135,6 +135,7 @@ env:
   - MODULE=pimatic-nut
   - MODULE=pimatic-nzbget
   - MODULE=pimatic-obi-power-outlet
+  - MODULE=pimatic-onkyo
   - MODULE=pimatic-onkyo-avr
   - MODULE=pimatic-openweather
   - MODULE=pimatic-orvibo
