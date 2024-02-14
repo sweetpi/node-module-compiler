@@ -170,6 +170,7 @@ env:
   - MODULE=pimatic-samsung-tv-2016
   - MODULE=pimatic-save
   - MODULE=pimatic-sensibo
+  - MODULE=pimatic-sensortag
   - MODULE=pimatic-serial
   - MODULE=pimatic-serial-benqbeamer
   - MODULE=pimatic-serial-ivisions
